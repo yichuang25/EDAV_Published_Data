@@ -1,0 +1,5041 @@
+"","iso3","country","year","vaccination_rate"
+"1","AFG","Afghanistan","2021",84
+"2","AFG","Afghanistan","2020",87
+"3","AFG","Afghanistan","2019",86
+"4","AFG","Afghanistan","2018",89
+"5","AFG","Afghanistan","2017",84
+"6","AFG","Afghanistan","2016",78
+"7","AFG","Afghanistan","2015",76
+"8","AFG","Afghanistan","2014",74
+"9","AFG","Afghanistan","2013",72
+"10","AFG","Afghanistan","2012",78
+"11","AFG","Afghanistan","2011",71
+"12","AFG","Afghanistan","2010",68
+"13","AFG","Afghanistan","2009",64
+"14","AFG","Afghanistan","2008",66
+"15","AFG","Afghanistan","2007",60
+"16","AFG","Afghanistan","2006",60
+"17","AFG","Afghanistan","2005",57
+"18","AFG","Afghanistan","2004",51
+"19","AFG","Afghanistan","2003",44
+"20","AFG","Afghanistan","2002",46
+"21","AFG","Afghanistan","2001",43
+"22","AFG","Afghanistan","2000",30
+"23","AFG","Afghanistan","1999",38
+"24","AFG","Afghanistan","1998",35
+"25","AFG","Afghanistan","1997",43
+"26","AFG","Afghanistan","1996",47
+"27","AFG","Afghanistan","1995",31
+"28","AFG","Afghanistan","1994",15
+"29","AFG","Afghanistan","1993",17
+"30","AFG","Afghanistan","1992",19
+"31","ALB","Albania","2021",99
+"32","ALB","Albania","2020",98
+"33","ALB","Albania","2019",99
+"34","ALB","Albania","2018",99
+"35","ALB","Albania","2017",99
+"36","ALB","Albania","2016",99
+"37","ALB","Albania","2015",99
+"38","ALB","Albania","2014",99
+"39","ALB","Albania","2013",99
+"40","ALB","Albania","2012",96
+"41","ALB","Albania","2011",97
+"42","ALB","Albania","2010",99
+"43","ALB","Albania","2009",97
+"44","ALB","Albania","2008",99
+"45","ALB","Albania","2007",98
+"46","ALB","Albania","2006",97
+"47","ALB","Albania","2005",98
+"48","ALB","Albania","2004",97
+"49","ALB","Albania","2003",95
+"50","ALB","Albania","2002",94
+"51","ALB","Albania","2001",93
+"52","ALB","Albania","2000",93
+"53","ALB","Albania","1999",93
+"54","ALB","Albania","1998",87
+"55","ALB","Albania","1997",94
+"56","ALB","Albania","1996",94
+"57","ALB","Albania","1995",97
+"58","ALB","Albania","1994",87
+"59","ALB","Albania","1993",82
+"60","ALB","Albania","1992",81
+"61","DZA","Algeria","2021",99
+"62","DZA","Algeria","2020",99
+"63","DZA","Algeria","2019",99
+"64","DZA","Algeria","2018",99
+"65","DZA","Algeria","2017",99
+"66","DZA","Algeria","2016",99
+"67","DZA","Algeria","2015",99
+"68","DZA","Algeria","2014",99
+"69","DZA","Algeria","2013",99
+"70","DZA","Algeria","2012",99
+"71","DZA","Algeria","2011",99
+"72","DZA","Algeria","2010",99
+"73","DZA","Algeria","2009",99
+"74","DZA","Algeria","2008",99
+"75","DZA","Algeria","2007",99
+"76","DZA","Algeria","2006",99
+"77","DZA","Algeria","2005",98
+"78","DZA","Algeria","2004",98
+"79","DZA","Algeria","2003",98
+"80","DZA","Algeria","2002",98
+"81","DZA","Algeria","2001",97
+"82","DZA","Algeria","2000",97
+"83","DZA","Algeria","1999",97
+"84","DZA","Algeria","1998",95
+"85","DZA","Algeria","1997",94
+"86","DZA","Algeria","1996",94
+"87","DZA","Algeria","1995",93
+"88","DZA","Algeria","1994",93
+"89","DZA","Algeria","1993",95
+"90","DZA","Algeria","1992",97
+"91","AGO","Angola","2021",56
+"92","AGO","Angola","2020",58
+"93","AGO","Angola","2019",69
+"94","AGO","Angola","2018",72
+"95","AGO","Angola","2017",69
+"96","AGO","Angola","2016",40
+"97","AGO","Angola","2015",64
+"98","AGO","Angola","2014",72
+"99","AGO","Angola","2013",71
+"100","AGO","Angola","2012",73
+"101","AGO","Angola","2011",74
+"102","AGO","Angola","2010",79
+"103","AGO","Angola","2009",70
+"104","AGO","Angola","2008",73
+"105","AGO","Angola","2007",75
+"106","AGO","Angola","2006",54
+"107","AGO","Angola","2005",51
+"108","AGO","Angola","2004",63
+"109","AGO","Angola","2003",54
+"110","AGO","Angola","2002",76
+"111","AGO","Angola","2001",70
+"112","AGO","Angola","2000",53
+"113","AGO","Angola","1999",49
+"114","AGO","Angola","1998",60
+"115","AGO","Angola","1997",70
+"116","AGO","Angola","1996",65
+"117","AGO","Angola","1995",60
+"118","AGO","Angola","1994",48
+"119","AGO","Angola","1993",53
+"120","AGO","Angola","1992",47
+"121","ARG","Argentina","2021",81
+"122","ARG","Argentina","2020",75
+"123","ARG","Argentina","2019",85
+"124","ARG","Argentina","2018",93
+"125","ARG","Argentina","2017",95
+"126","ARG","Argentina","2016",92
+"127","ARG","Argentina","2015",96
+"128","ARG","Argentina","2014",99
+"129","ARG","Argentina","2013",99
+"130","ARG","Argentina","2012",99
+"131","ARG","Argentina","2011",99
+"132","ARG","Argentina","2010",99
+"133","ARG","Argentina","2009",99
+"134","ARG","Argentina","2008",99
+"135","ARG","Argentina","2007",99
+"136","ARG","Argentina","2006",99
+"137","ARG","Argentina","2005",99
+"138","ARG","Argentina","2004",99
+"139","ARG","Argentina","2003",99
+"140","ARG","Argentina","2002",95
+"141","ARG","Argentina","2001",92
+"142","ARG","Argentina","2000",95
+"143","ARG","Argentina","1999",96
+"144","ARG","Argentina","1998",98
+"145","ARG","Argentina","1997",99
+"146","ARG","Argentina","1996",99
+"147","ARG","Argentina","1995",99
+"148","ARG","Argentina","1994",99
+"149","ARG","Argentina","1993",99
+"150","ARG","Argentina","1992",99
+"151","ARM","Armenia","2021",98
+"152","ARM","Armenia","2020",99
+"153","ARM","Armenia","2019",99
+"154","ARM","Armenia","2018",99
+"155","ARM","Armenia","2017",99
+"156","ARM","Armenia","2016",99
+"157","ARM","Armenia","2015",99
+"158","ARM","Armenia","2014",99
+"159","ARM","Armenia","2013",99
+"160","ARM","Armenia","2012",96
+"161","ARM","Armenia","2011",96
+"162","ARM","Armenia","2010",95
+"163","ARM","Armenia","2009",99
+"164","ARM","Armenia","2008",98
+"165","ARM","Armenia","2007",94
+"166","ARM","Armenia","2006",91
+"167","ARM","Armenia","2005",94
+"168","ARM","Armenia","2004",96
+"169","ARM","Armenia","2003",92
+"170","ARM","Armenia","2002",97
+"171","ARM","Armenia","2001",96
+"172","ARM","Armenia","2000",97
+"173","ARM","Armenia","1999",93
+"174","ARM","Armenia","1998",95
+"175","ARM","Armenia","1997",72
+"176","ARM","Armenia","1996",82
+"177","ARM","Armenia","1995",84
+"178","ARM","Armenia","1994",83
+"179","ARM","Armenia","1993",84
+"180","ARM","Armenia","1992",88
+"181","AUT","Austria","2021",NA
+"182","AUT","Austria","2020",NA
+"183","AUT","Austria","2019",NA
+"184","AUT","Austria","2018",NA
+"185","AUT","Austria","2017",NA
+"186","AUT","Austria","2016",NA
+"187","AUT","Austria","2015",NA
+"188","AUT","Austria","2014",NA
+"189","AUT","Austria","2013",NA
+"190","AUT","Austria","2012",NA
+"191","AUT","Austria","2011",NA
+"192","AUT","Austria","2010",NA
+"193","AUT","Austria","2009",NA
+"194","AUT","Austria","2008",NA
+"195","AUT","Austria","2007",NA
+"196","AUT","Austria","2006",NA
+"197","AUT","Austria","2005",NA
+"198","AUT","Austria","2004",NA
+"199","AUT","Austria","2003",NA
+"200","AUT","Austria","2002",NA
+"201","AUT","Austria","2001",NA
+"202","AUT","Austria","2000",NA
+"203","AUT","Austria","1999",NA
+"204","AUT","Austria","1998",NA
+"205","AUT","Austria","1997",NA
+"206","AUT","Austria","1996",NA
+"207","AUT","Austria","1995",NA
+"208","AUT","Austria","1994",NA
+"209","AUT","Austria","1993",NA
+"210","AUT","Austria","1992",NA
+"211","AZE","Azerbaijan","2021",95
+"212","AZE","Azerbaijan","2020",94
+"213","AZE","Azerbaijan","2019",96
+"214","AZE","Azerbaijan","2018",97
+"215","AZE","Azerbaijan","2017",97
+"216","AZE","Azerbaijan","2016",98
+"217","AZE","Azerbaijan","2015",98
+"218","AZE","Azerbaijan","2014",98
+"219","AZE","Azerbaijan","2013",98
+"220","AZE","Azerbaijan","2012",98
+"221","AZE","Azerbaijan","2011",99
+"222","AZE","Azerbaijan","2010",98
+"223","AZE","Azerbaijan","2009",95
+"224","AZE","Azerbaijan","2008",92
+"225","AZE","Azerbaijan","2007",88
+"226","AZE","Azerbaijan","2006",86
+"227","AZE","Azerbaijan","2005",82
+"228","AZE","Azerbaijan","2004",82
+"229","AZE","Azerbaijan","2003",83
+"230","AZE","Azerbaijan","2002",82
+"231","AZE","Azerbaijan","2001",83
+"232","AZE","Azerbaijan","2000",81
+"233","AZE","Azerbaijan","1999",82
+"234","AZE","Azerbaijan","1998",79
+"235","AZE","Azerbaijan","1997",77
+"236","AZE","Azerbaijan","1996",76
+"237","AZE","Azerbaijan","1995",76
+"238","AZE","Azerbaijan","1994",77
+"239","AZE","Azerbaijan","1993",74
+"240","AZE","Azerbaijan","1992",69
+"241","BGD","Bangladesh","2021",99
+"242","BGD","Bangladesh","2020",99
+"243","BGD","Bangladesh","2019",99
+"244","BGD","Bangladesh","2018",99
+"245","BGD","Bangladesh","2017",99
+"246","BGD","Bangladesh","2016",99
+"247","BGD","Bangladesh","2015",99
+"248","BGD","Bangladesh","2014",99
+"249","BGD","Bangladesh","2013",99
+"250","BGD","Bangladesh","2012",98
+"251","BGD","Bangladesh","2011",99
+"252","BGD","Bangladesh","2010",98
+"253","BGD","Bangladesh","2009",99
+"254","BGD","Bangladesh","2008",99
+"255","BGD","Bangladesh","2007",98
+"256","BGD","Bangladesh","2006",97
+"257","BGD","Bangladesh","2005",97
+"258","BGD","Bangladesh","2004",96
+"259","BGD","Bangladesh","2003",93
+"260","BGD","Bangladesh","2002",95
+"261","BGD","Bangladesh","2001",95
+"262","BGD","Bangladesh","2000",94
+"263","BGD","Bangladesh","1999",92
+"264","BGD","Bangladesh","1998",91
+"265","BGD","Bangladesh","1997",92
+"266","BGD","Bangladesh","1996",90
+"267","BGD","Bangladesh","1995",93
+"268","BGD","Bangladesh","1994",95
+"269","BGD","Bangladesh","1993",93
+"270","BGD","Bangladesh","1992",89
+"271","BLR","Belarus","2021",98
+"272","BLR","Belarus","2020",97
+"273","BLR","Belarus","2019",97
+"274","BLR","Belarus","2018",98
+"275","BLR","Belarus","2017",98
+"276","BLR","Belarus","2016",98
+"277","BLR","Belarus","2015",97
+"278","BLR","Belarus","2014",98
+"279","BLR","Belarus","2013",99
+"280","BLR","Belarus","2012",98
+"281","BLR","Belarus","2011",99
+"282","BLR","Belarus","2010",99
+"283","BLR","Belarus","2009",98
+"284","BLR","Belarus","2008",98
+"285","BLR","Belarus","2007",98
+"286","BLR","Belarus","2006",99
+"287","BLR","Belarus","2005",99
+"288","BLR","Belarus","2004",99
+"289","BLR","Belarus","2003",99
+"290","BLR","Belarus","2002",99
+"291","BLR","Belarus","2001",99
+"292","BLR","Belarus","2000",99
+"293","BLR","Belarus","1999",99
+"294","BLR","Belarus","1998",99
+"295","BLR","Belarus","1997",98
+"296","BLR","Belarus","1996",97
+"297","BLR","Belarus","1995",96
+"298","BLR","Belarus","1994",94
+"299","BLR","Belarus","1993",93
+"300","BLR","Belarus","1992",95
+"301","BLZ","Belize","2021",84
+"302","BLZ","Belize","2020",76
+"303","BLZ","Belize","2019",95
+"304","BLZ","Belize","2018",99
+"305","BLZ","Belize","2017",90
+"306","BLZ","Belize","2016",94
+"307","BLZ","Belize","2015",98
+"308","BLZ","Belize","2014",98
+"309","BLZ","Belize","2013",99
+"310","BLZ","Belize","2012",98
+"311","BLZ","Belize","2011",98
+"312","BLZ","Belize","2010",98
+"313","BLZ","Belize","2009",99
+"314","BLZ","Belize","2008",98
+"315","BLZ","Belize","2007",99
+"316","BLZ","Belize","2006",97
+"317","BLZ","Belize","2005",96
+"318","BLZ","Belize","2004",99
+"319","BLZ","Belize","2003",99
+"320","BLZ","Belize","2002",96
+"321","BLZ","Belize","2001",98
+"322","BLZ","Belize","2000",96
+"323","BLZ","Belize","1999",96
+"324","BLZ","Belize","1998",93
+"325","BLZ","Belize","1997",85
+"326","BLZ","Belize","1996",90
+"327","BLZ","Belize","1995",92
+"328","BLZ","Belize","1994",90
+"329","BLZ","Belize","1993",91
+"330","BLZ","Belize","1992",97
+"331","BEN","Benin","2021",88
+"332","BEN","Benin","2020",88
+"333","BEN","Benin","2019",88
+"334","BEN","Benin","2018",88
+"335","BEN","Benin","2017",88
+"336","BEN","Benin","2016",88
+"337","BEN","Benin","2015",96
+"338","BEN","Benin","2014",96
+"339","BEN","Benin","2013",95
+"340","BEN","Benin","2012",96
+"341","BEN","Benin","2011",88
+"342","BEN","Benin","2010",90
+"343","BEN","Benin","2009",93
+"344","BEN","Benin","2008",96
+"345","BEN","Benin","2007",97
+"346","BEN","Benin","2006",93
+"347","BEN","Benin","2005",88
+"348","BEN","Benin","2004",89
+"349","BEN","Benin","2003",90
+"350","BEN","Benin","2002",90
+"351","BEN","Benin","2001",91
+"352","BEN","Benin","2000",92
+"353","BEN","Benin","1999",87
+"354","BEN","Benin","1998",83
+"355","BEN","Benin","1997",78
+"356","BEN","Benin","1996",80
+"357","BEN","Benin","1995",85
+"358","BEN","Benin","1994",94
+"359","BEN","Benin","1993",89
+"360","BEN","Benin","1992",84
+"361","BTN","Bhutan","2021",99
+"362","BTN","Bhutan","2020",98
+"363","BTN","Bhutan","2019",92
+"364","BTN","Bhutan","2018",99
+"365","BTN","Bhutan","2017",99
+"366","BTN","Bhutan","2016",99
+"367","BTN","Bhutan","2015",99
+"368","BTN","Bhutan","2014",99
+"369","BTN","Bhutan","2013",97
+"370","BTN","Bhutan","2012",95
+"371","BTN","Bhutan","2011",95
+"372","BTN","Bhutan","2010",96
+"373","BTN","Bhutan","2009",94
+"374","BTN","Bhutan","2008",99
+"375","BTN","Bhutan","2007",94
+"376","BTN","Bhutan","2006",92
+"377","BTN","Bhutan","2005",92
+"378","BTN","Bhutan","2004",92
+"379","BTN","Bhutan","2003",93
+"380","BTN","Bhutan","2002",83
+"381","BTN","Bhutan","2001",81
+"382","BTN","Bhutan","2000",97
+"383","BTN","Bhutan","1999",90
+"384","BTN","Bhutan","1998",94
+"385","BTN","Bhutan","1997",92
+"386","BTN","Bhutan","1996",98
+"387","BTN","Bhutan","1995",98
+"388","BTN","Bhutan","1994",96
+"389","BTN","Bhutan","1993",89
+"390","BTN","Bhutan","1992",90
+"391","BOL","Bolivia (Plurinational State of)","2021",78
+"392","BOL","Bolivia (Plurinational State of)","2020",82
+"393","BOL","Bolivia (Plurinational State of)","2019",80
+"394","BOL","Bolivia (Plurinational State of)","2018",90
+"395","BOL","Bolivia (Plurinational State of)","2017",93
+"396","BOL","Bolivia (Plurinational State of)","2016",96
+"397","BOL","Bolivia (Plurinational State of)","2015",99
+"398","BOL","Bolivia (Plurinational State of)","2014",94
+"399","BOL","Bolivia (Plurinational State of)","2013",94
+"400","BOL","Bolivia (Plurinational State of)","2012",99
+"401","BOL","Bolivia (Plurinational State of)","2011",99
+"402","BOL","Bolivia (Plurinational State of)","2010",98
+"403","BOL","Bolivia (Plurinational State of)","2009",93
+"404","BOL","Bolivia (Plurinational State of)","2008",90
+"405","BOL","Bolivia (Plurinational State of)","2007",87
+"406","BOL","Bolivia (Plurinational State of)","2006",87
+"407","BOL","Bolivia (Plurinational State of)","2005",88
+"408","BOL","Bolivia (Plurinational State of)","2004",86
+"409","BOL","Bolivia (Plurinational State of)","2003",96
+"410","BOL","Bolivia (Plurinational State of)","2002",93
+"411","BOL","Bolivia (Plurinational State of)","2001",90
+"412","BOL","Bolivia (Plurinational State of)","2000",92
+"413","BOL","Bolivia (Plurinational State of)","1999",95
+"414","BOL","Bolivia (Plurinational State of)","1998",85
+"415","BOL","Bolivia (Plurinational State of)","1997",88
+"416","BOL","Bolivia (Plurinational State of)","1996",98
+"417","BOL","Bolivia (Plurinational State of)","1995",87
+"418","BOL","Bolivia (Plurinational State of)","1994",92
+"419","BOL","Bolivia (Plurinational State of)","1993",84
+"420","BOL","Bolivia (Plurinational State of)","1992",81
+"421","BIH","Bosnia and Herzegovina","2021",95
+"422","BIH","Bosnia and Herzegovina","2020",95
+"423","BIH","Bosnia and Herzegovina","2019",95
+"424","BIH","Bosnia and Herzegovina","2018",95
+"425","BIH","Bosnia and Herzegovina","2017",97
+"426","BIH","Bosnia and Herzegovina","2016",97
+"427","BIH","Bosnia and Herzegovina","2015",95
+"428","BIH","Bosnia and Herzegovina","2014",98
+"429","BIH","Bosnia and Herzegovina","2013",97
+"430","BIH","Bosnia and Herzegovina","2012",96
+"431","BIH","Bosnia and Herzegovina","2011",94
+"432","BIH","Bosnia and Herzegovina","2010",96
+"433","BIH","Bosnia and Herzegovina","2009",97
+"434","BIH","Bosnia and Herzegovina","2008",96
+"435","BIH","Bosnia and Herzegovina","2007",98
+"436","BIH","Bosnia and Herzegovina","2006",97
+"437","BIH","Bosnia and Herzegovina","2005",95
+"438","BIH","Bosnia and Herzegovina","2004",95
+"439","BIH","Bosnia and Herzegovina","2003",94
+"440","BIH","Bosnia and Herzegovina","2002",91
+"441","BIH","Bosnia and Herzegovina","2001",95
+"442","BIH","Bosnia and Herzegovina","2000",93
+"443","BIH","Bosnia and Herzegovina","1999",99
+"444","BIH","Bosnia and Herzegovina","1998",92
+"445","BIH","Bosnia and Herzegovina","1997",97
+"446","BIH","Bosnia and Herzegovina","1996",80
+"447","BIH","Bosnia and Herzegovina","1995",64
+"448","BIH","Bosnia and Herzegovina","1994",85
+"449","BIH","Bosnia and Herzegovina","1993",24
+"450","BIH","Bosnia and Herzegovina","1992",20
+"451","BWA","Botswana","2021",98
+"452","BWA","Botswana","2020",98
+"453","BWA","Botswana","2019",98
+"454","BWA","Botswana","2018",98
+"455","BWA","Botswana","2017",98
+"456","BWA","Botswana","2016",98
+"457","BWA","Botswana","2015",98
+"458","BWA","Botswana","2014",98
+"459","BWA","Botswana","2013",98
+"460","BWA","Botswana","2012",98
+"461","BWA","Botswana","2011",98
+"462","BWA","Botswana","2010",98
+"463","BWA","Botswana","2009",99
+"464","BWA","Botswana","2008",99
+"465","BWA","Botswana","2007",99
+"466","BWA","Botswana","2006",99
+"467","BWA","Botswana","2005",99
+"468","BWA","Botswana","2004",99
+"469","BWA","Botswana","2003",99
+"470","BWA","Botswana","2002",99
+"471","BWA","Botswana","2001",99
+"472","BWA","Botswana","2000",99
+"473","BWA","Botswana","1999",99
+"474","BWA","Botswana","1998",99
+"475","BWA","Botswana","1997",98
+"476","BWA","Botswana","1996",97
+"477","BWA","Botswana","1995",96
+"478","BWA","Botswana","1994",96
+"479","BWA","Botswana","1993",95
+"480","BWA","Botswana","1992",94
+"481","BRA","Brazil","2021",63
+"482","BRA","Brazil","2020",67
+"483","BRA","Brazil","2019",79
+"484","BRA","Brazil","2018",92
+"485","BRA","Brazil","2017",91
+"486","BRA","Brazil","2016",90
+"487","BRA","Brazil","2015",99
+"488","BRA","Brazil","2014",99
+"489","BRA","Brazil","2013",99
+"490","BRA","Brazil","2012",99
+"491","BRA","Brazil","2011",99
+"492","BRA","Brazil","2010",99
+"493","BRA","Brazil","2009",99
+"494","BRA","Brazil","2008",99
+"495","BRA","Brazil","2007",99
+"496","BRA","Brazil","2006",99
+"497","BRA","Brazil","2005",99
+"498","BRA","Brazil","2004",99
+"499","BRA","Brazil","2003",99
+"500","BRA","Brazil","2002",99
+"501","BRA","Brazil","2001",99
+"502","BRA","Brazil","2000",99
+"503","BRA","Brazil","1999",99
+"504","BRA","Brazil","1998",99
+"505","BRA","Brazil","1997",99
+"506","BRA","Brazil","1996",99
+"507","BRA","Brazil","1995",99
+"508","BRA","Brazil","1994",93
+"509","BRA","Brazil","1993",95
+"510","BRA","Brazil","1992",90
+"511","BRN","Brunei Darussalam","2021",99
+"512","BRN","Brunei Darussalam","2020",99
+"513","BRN","Brunei Darussalam","2019",99
+"514","BRN","Brunei Darussalam","2018",99
+"515","BRN","Brunei Darussalam","2017",99
+"516","BRN","Brunei Darussalam","2016",99
+"517","BRN","Brunei Darussalam","2015",99
+"518","BRN","Brunei Darussalam","2014",99
+"519","BRN","Brunei Darussalam","2013",99
+"520","BRN","Brunei Darussalam","2012",99
+"521","BRN","Brunei Darussalam","2011",96
+"522","BRN","Brunei Darussalam","2010",95
+"523","BRN","Brunei Darussalam","2009",99
+"524","BRN","Brunei Darussalam","2008",99
+"525","BRN","Brunei Darussalam","2007",96
+"526","BRN","Brunei Darussalam","2006",99
+"527","BRN","Brunei Darussalam","2005",94
+"528","BRN","Brunei Darussalam","2004",99
+"529","BRN","Brunei Darussalam","2003",95
+"530","BRN","Brunei Darussalam","2002",95
+"531","BRN","Brunei Darussalam","2001",99
+"532","BRN","Brunei Darussalam","2000",99
+"533","BRN","Brunei Darussalam","1999",98
+"534","BRN","Brunei Darussalam","1998",96
+"535","BRN","Brunei Darussalam","1997",99
+"536","BRN","Brunei Darussalam","1996",99
+"537","BRN","Brunei Darussalam","1995",99
+"538","BRN","Brunei Darussalam","1994",99
+"539","BRN","Brunei Darussalam","1993",99
+"540","BRN","Brunei Darussalam","1992",97
+"541","BGR","Bulgaria","2021",97
+"542","BGR","Bulgaria","2020",97
+"543","BGR","Bulgaria","2019",96
+"544","BGR","Bulgaria","2018",96
+"545","BGR","Bulgaria","2017",96
+"546","BGR","Bulgaria","2016",96
+"547","BGR","Bulgaria","2015",96
+"548","BGR","Bulgaria","2014",97
+"549","BGR","Bulgaria","2013",97
+"550","BGR","Bulgaria","2012",97
+"551","BGR","Bulgaria","2011",98
+"552","BGR","Bulgaria","2010",98
+"553","BGR","Bulgaria","2009",98
+"554","BGR","Bulgaria","2008",98
+"555","BGR","Bulgaria","2007",98
+"556","BGR","Bulgaria","2006",98
+"557","BGR","Bulgaria","2005",98
+"558","BGR","Bulgaria","2004",98
+"559","BGR","Bulgaria","2003",98
+"560","BGR","Bulgaria","2002",98
+"561","BGR","Bulgaria","2001",98
+"562","BGR","Bulgaria","2000",98
+"563","BGR","Bulgaria","1999",99
+"564","BGR","Bulgaria","1998",98
+"565","BGR","Bulgaria","1997",97
+"566","BGR","Bulgaria","1996",98
+"567","BGR","Bulgaria","1995",99
+"568","BGR","Bulgaria","1994",98
+"569","BGR","Bulgaria","1993",99
+"570","BGR","Bulgaria","1992",99
+"571","BFA","Burkina Faso","2021",98
+"572","BFA","Burkina Faso","2020",98
+"573","BFA","Burkina Faso","2019",98
+"574","BFA","Burkina Faso","2018",98
+"575","BFA","Burkina Faso","2017",98
+"576","BFA","Burkina Faso","2016",98
+"577","BFA","Burkina Faso","2015",98
+"578","BFA","Burkina Faso","2014",98
+"579","BFA","Burkina Faso","2013",96
+"580","BFA","Burkina Faso","2012",96
+"581","BFA","Burkina Faso","2011",99
+"582","BFA","Burkina Faso","2010",99
+"583","BFA","Burkina Faso","2009",99
+"584","BFA","Burkina Faso","2008",99
+"585","BFA","Burkina Faso","2007",99
+"586","BFA","Burkina Faso","2006",99
+"587","BFA","Burkina Faso","2005",99
+"588","BFA","Burkina Faso","2004",99
+"589","BFA","Burkina Faso","2003",83
+"590","BFA","Burkina Faso","2002",90
+"591","BFA","Burkina Faso","2001",80
+"592","BFA","Burkina Faso","2000",81
+"593","BFA","Burkina Faso","1999",77
+"594","BFA","Burkina Faso","1998",79
+"595","BFA","Burkina Faso","1997",75
+"596","BFA","Burkina Faso","1996",73
+"597","BFA","Burkina Faso","1995",72
+"598","BFA","Burkina Faso","1994",75
+"599","BFA","Burkina Faso","1993",80
+"600","BFA","Burkina Faso","1992",85
+"601","BDI","Burundi","2021",95
+"602","BDI","Burundi","2020",83
+"603","BDI","Burundi","2019",93
+"604","BDI","Burundi","2018",91
+"605","BDI","Burundi","2017",92
+"606","BDI","Burundi","2016",93
+"607","BDI","Burundi","2015",93
+"608","BDI","Burundi","2014",92
+"609","BDI","Burundi","2013",95
+"610","BDI","Burundi","2012",98
+"611","BDI","Burundi","2011",90
+"612","BDI","Burundi","2010",93
+"613","BDI","Burundi","2009",98
+"614","BDI","Burundi","2008",99
+"615","BDI","Burundi","2007",97
+"616","BDI","Burundi","2006",98
+"617","BDI","Burundi","2005",89
+"618","BDI","Burundi","2004",91
+"619","BDI","Burundi","2003",90
+"620","BDI","Burundi","2002",88
+"621","BDI","Burundi","2001",87
+"622","BDI","Burundi","2000",85
+"623","BDI","Burundi","1999",84
+"624","BDI","Burundi","1998",86
+"625","BDI","Burundi","1997",87
+"626","BDI","Burundi","1996",90
+"627","BDI","Burundi","1995",92
+"628","BDI","Burundi","1994",61
+"629","BDI","Burundi","1993",73
+"630","BDI","Burundi","1992",90
+"631","CPV","Cabo Verde","2021",98
+"632","CPV","Cabo Verde","2020",98
+"633","CPV","Cabo Verde","2019",98
+"634","CPV","Cabo Verde","2018",96
+"635","CPV","Cabo Verde","2017",98
+"636","CPV","Cabo Verde","2016",96
+"637","CPV","Cabo Verde","2015",94
+"638","CPV","Cabo Verde","2014",99
+"639","CPV","Cabo Verde","2013",94
+"640","CPV","Cabo Verde","2012",99
+"641","CPV","Cabo Verde","2011",99
+"642","CPV","Cabo Verde","2010",99
+"643","CPV","Cabo Verde","2009",99
+"644","CPV","Cabo Verde","2008",99
+"645","CPV","Cabo Verde","2007",99
+"646","CPV","Cabo Verde","2006",99
+"647","CPV","Cabo Verde","2005",99
+"648","CPV","Cabo Verde","2004",99
+"649","CPV","Cabo Verde","2003",98
+"650","CPV","Cabo Verde","2002",97
+"651","CPV","Cabo Verde","2001",96
+"652","CPV","Cabo Verde","2000",96
+"653","CPV","Cabo Verde","1999",95
+"654","CPV","Cabo Verde","1998",94
+"655","CPV","Cabo Verde","1997",93
+"656","CPV","Cabo Verde","1996",94
+"657","CPV","Cabo Verde","1995",94
+"658","CPV","Cabo Verde","1994",95
+"659","CPV","Cabo Verde","1993",95
+"660","CPV","Cabo Verde","1992",99
+"661","KHM","Cambodia","2021",95
+"662","KHM","Cambodia","2020",97
+"663","KHM","Cambodia","2019",98
+"664","KHM","Cambodia","2018",93
+"665","KHM","Cambodia","2017",99
+"666","KHM","Cambodia","2016",99
+"667","KHM","Cambodia","2015",99
+"668","KHM","Cambodia","2014",98
+"669","KHM","Cambodia","2013",96
+"670","KHM","Cambodia","2012",99
+"671","KHM","Cambodia","2011",98
+"672","KHM","Cambodia","2010",95
+"673","KHM","Cambodia","2009",96
+"674","KHM","Cambodia","2008",98
+"675","KHM","Cambodia","2007",90
+"676","KHM","Cambodia","2006",87
+"677","KHM","Cambodia","2005",87
+"678","KHM","Cambodia","2004",95
+"679","KHM","Cambodia","2003",76
+"680","KHM","Cambodia","2002",63
+"681","KHM","Cambodia","2001",64
+"682","KHM","Cambodia","2000",81
+"683","KHM","Cambodia","1999",78
+"684","KHM","Cambodia","1998",69
+"685","KHM","Cambodia","1997",67
+"686","KHM","Cambodia","1996",68
+"687","KHM","Cambodia","1995",69
+"688","KHM","Cambodia","1994",63
+"689","KHM","Cambodia","1993",57
+"690","KHM","Cambodia","1992",50
+"691","CMR","Cameroon","2021",77
+"692","CMR","Cameroon","2020",80
+"693","CMR","Cameroon","2019",80
+"694","CMR","Cameroon","2018",84
+"695","CMR","Cameroon","2017",87
+"696","CMR","Cameroon","2016",84
+"697","CMR","Cameroon","2015",83
+"698","CMR","Cameroon","2014",87
+"699","CMR","Cameroon","2013",82
+"700","CMR","Cameroon","2012",81
+"701","CMR","Cameroon","2011",80
+"702","CMR","Cameroon","2010",83
+"703","CMR","Cameroon","2009",81
+"704","CMR","Cameroon","2008",91
+"705","CMR","Cameroon","2007",89
+"706","CMR","Cameroon","2006",96
+"707","CMR","Cameroon","2005",90
+"708","CMR","Cameroon","2004",83
+"709","CMR","Cameroon","2003",82
+"710","CMR","Cameroon","2002",79
+"711","CMR","Cameroon","2001",79
+"712","CMR","Cameroon","2000",78
+"713","CMR","Cameroon","1999",78
+"714","CMR","Cameroon","1998",80
+"715","CMR","Cameroon","1997",75
+"716","CMR","Cameroon","1996",69
+"717","CMR","Cameroon","1995",62
+"718","CMR","Cameroon","1994",59
+"719","CMR","Cameroon","1993",58
+"720","CMR","Cameroon","1992",62
+"721","CAF","Central African Republic","2021",61
+"722","CAF","Central African Republic","2020",61
+"723","CAF","Central African Republic","2019",61
+"724","CAF","Central African Republic","2018",61
+"725","CAF","Central African Republic","2017",61
+"726","CAF","Central African Republic","2016",61
+"727","CAF","Central African Republic","2015",64
+"728","CAF","Central African Republic","2014",68
+"729","CAF","Central African Republic","2013",37
+"730","CAF","Central African Republic","2012",74
+"731","CAF","Central African Republic","2011",74
+"732","CAF","Central African Republic","2010",74
+"733","CAF","Central African Republic","2009",74
+"734","CAF","Central African Republic","2008",74
+"735","CAF","Central African Republic","2007",74
+"736","CAF","Central African Republic","2006",74
+"737","CAF","Central African Republic","2005",74
+"738","CAF","Central African Republic","2004",73
+"739","CAF","Central African Republic","2003",72
+"740","CAF","Central African Republic","2002",71
+"741","CAF","Central African Republic","2001",70
+"742","CAF","Central African Republic","2000",66
+"743","CAF","Central African Republic","1999",62
+"744","CAF","Central African Republic","1998",70
+"745","CAF","Central African Republic","1997",78
+"746","CAF","Central African Republic","1996",86
+"747","CAF","Central African Republic","1995",94
+"748","CAF","Central African Republic","1994",77
+"749","CAF","Central African Republic","1993",81
+"750","CAF","Central African Republic","1992",85
+"751","TCD","Chad","2021",67
+"752","TCD","Chad","2020",60
+"753","TCD","Chad","2019",51
+"754","TCD","Chad","2018",26
+"755","TCD","Chad","2017",59
+"756","TCD","Chad","2016",59
+"757","TCD","Chad","2015",70
+"758","TCD","Chad","2014",58
+"759","TCD","Chad","2013",60
+"760","TCD","Chad","2012",62
+"761","TCD","Chad","2011",52
+"762","TCD","Chad","2010",58
+"763","TCD","Chad","2009",46
+"764","TCD","Chad","2008",30
+"765","TCD","Chad","2007",44
+"766","TCD","Chad","2006",56
+"767","TCD","Chad","2005",41
+"768","TCD","Chad","2004",41
+"769","TCD","Chad","2003",40
+"770","TCD","Chad","2002",46
+"771","TCD","Chad","2001",52
+"772","TCD","Chad","2000",49
+"773","TCD","Chad","1999",45
+"774","TCD","Chad","1998",45
+"775","TCD","Chad","1997",45
+"776","TCD","Chad","1996",39
+"777","TCD","Chad","1995",43
+"778","TCD","Chad","1994",43
+"779","TCD","Chad","1993",34
+"780","TCD","Chad","1992",34
+"781","CHL","Chile","2021",98
+"782","CHL","Chile","2020",98
+"783","CHL","Chile","2019",98
+"784","CHL","Chile","2018",96
+"785","CHL","Chile","2017",96
+"786","CHL","Chile","2016",97
+"787","CHL","Chile","2015",93
+"788","CHL","Chile","2014",98
+"789","CHL","Chile","2013",98
+"790","CHL","Chile","2012",92
+"791","CHL","Chile","2011",91
+"792","CHL","Chile","2010",95
+"793","CHL","Chile","2009",95
+"794","CHL","Chile","2008",99
+"795","CHL","Chile","2007",98
+"796","CHL","Chile","2006",98
+"797","CHL","Chile","2005",95
+"798","CHL","Chile","2004",95
+"799","CHL","Chile","2003",95
+"800","CHL","Chile","2002",96
+"801","CHL","Chile","2001",98
+"802","CHL","Chile","2000",93
+"803","CHL","Chile","1999",95
+"804","CHL","Chile","1998",92
+"805","CHL","Chile","1997",92
+"806","CHL","Chile","1996",99
+"807","CHL","Chile","1995",97
+"808","CHL","Chile","1994",99
+"809","CHL","Chile","1993",97
+"810","CHL","Chile","1992",99
+"811","CHN","China","2021",99
+"812","CHN","China","2020",99
+"813","CHN","China","2019",99
+"814","CHN","China","2018",99
+"815","CHN","China","2017",99
+"816","CHN","China","2016",99
+"817","CHN","China","2015",99
+"818","CHN","China","2014",99
+"819","CHN","China","2013",99
+"820","CHN","China","2012",99
+"821","CHN","China","2011",99
+"822","CHN","China","2010",99
+"823","CHN","China","2009",99
+"824","CHN","China","2008",97
+"825","CHN","China","2007",94
+"826","CHN","China","2006",92
+"827","CHN","China","2005",86
+"828","CHN","China","2004",86
+"829","CHN","China","2003",85
+"830","CHN","China","2002",85
+"831","CHN","China","2001",85
+"832","CHN","China","2000",84
+"833","CHN","China","1999",84
+"834","CHN","China","1998",83
+"835","CHN","China","1997",83
+"836","CHN","China","1996",84
+"837","CHN","China","1995",79
+"838","CHN","China","1994",89
+"839","CHN","China","1993",92
+"840","CHN","China","1992",94
+"841","COL","Colombia","2021",87
+"842","COL","Colombia","2020",89
+"843","COL","Colombia","2019",90
+"844","COL","Colombia","2018",89
+"845","COL","Colombia","2017",91
+"846","COL","Colombia","2016",88
+"847","COL","Colombia","2015",90
+"848","COL","Colombia","2014",89
+"849","COL","Colombia","2013",85
+"850","COL","Colombia","2012",89
+"851","COL","Colombia","2011",87
+"852","COL","Colombia","2010",84
+"853","COL","Colombia","2009",90
+"854","COL","Colombia","2008",93
+"855","COL","Colombia","2007",93
+"856","COL","Colombia","2006",96
+"857","COL","Colombia","2005",94
+"858","COL","Colombia","2004",92
+"859","COL","Colombia","2003",97
+"860","COL","Colombia","2002",87
+"861","COL","Colombia","2001",87
+"862","COL","Colombia","2000",91
+"863","COL","Colombia","1999",80
+"864","COL","Colombia","1998",85
+"865","COL","Colombia","1997",97
+"866","COL","Colombia","1996",99
+"867","COL","Colombia","1995",99
+"868","COL","Colombia","1994",99
+"869","COL","Colombia","1993",96
+"870","COL","Colombia","1992",88
+"871","COM","Comoros","2021",96
+"872","COM","Comoros","2020",91
+"873","COM","Comoros","2019",94
+"874","COM","Comoros","2018",94
+"875","COM","Comoros","2017",94
+"876","COM","Comoros","2016",94
+"877","COM","Comoros","2015",94
+"878","COM","Comoros","2014",90
+"879","COM","Comoros","2013",85
+"880","COM","Comoros","2012",79
+"881","COM","Comoros","2011",78
+"882","COM","Comoros","2010",76
+"883","COM","Comoros","2009",80
+"884","COM","Comoros","2008",81
+"885","COM","Comoros","2007",77
+"886","COM","Comoros","2006",84
+"887","COM","Comoros","2005",80
+"888","COM","Comoros","2004",79
+"889","COM","Comoros","2003",79
+"890","COM","Comoros","2002",90
+"891","COM","Comoros","2001",90
+"892","COM","Comoros","2000",90
+"893","COM","Comoros","1999",87
+"894","COM","Comoros","1998",84
+"895","COM","Comoros","1997",55
+"896","COM","Comoros","1996",55
+"897","COM","Comoros","1995",95
+"898","COM","Comoros","1994",94
+"899","COM","Comoros","1993",95
+"900","COM","Comoros","1992",81
+"901","COG","Congo","2021",81
+"902","COG","Congo","2020",72
+"903","COG","Congo","2019",80
+"904","COG","Congo","2018",81
+"905","COG","Congo","2017",76
+"906","COG","Congo","2016",80
+"907","COG","Congo","2015",85
+"908","COG","Congo","2014",95
+"909","COG","Congo","2013",92
+"910","COG","Congo","2012",92
+"911","COG","Congo","2011",95
+"912","COG","Congo","2010",95
+"913","COG","Congo","2009",90
+"914","COG","Congo","2008",93
+"915","COG","Congo","2007",86
+"916","COG","Congo","2006",84
+"917","COG","Congo","2005",73
+"918","COG","Congo","2004",85
+"919","COG","Congo","2003",60
+"920","COG","Congo","2002",51
+"921","COG","Congo","2001",53
+"922","COG","Congo","2000",50
+"923","COG","Congo","1999",39
+"924","COG","Congo","1998",34
+"925","COG","Congo","1997",29
+"926","COG","Congo","1996",51
+"927","COG","Congo","1995",58
+"928","COG","Congo","1994",61
+"929","COG","Congo","1993",63
+"930","COG","Congo","1992",75
+"931","COK","Cook Islands","2021",99
+"932","COK","Cook Islands","2020",99
+"933","COK","Cook Islands","2019",99
+"934","COK","Cook Islands","2018",99
+"935","COK","Cook Islands","2017",99
+"936","COK","Cook Islands","2016",99
+"937","COK","Cook Islands","2015",99
+"938","COK","Cook Islands","2014",99
+"939","COK","Cook Islands","2013",98
+"940","COK","Cook Islands","2012",98
+"941","COK","Cook Islands","2011",98
+"942","COK","Cook Islands","2010",99
+"943","COK","Cook Islands","2009",99
+"944","COK","Cook Islands","2008",99
+"945","COK","Cook Islands","2007",99
+"946","COK","Cook Islands","2006",99
+"947","COK","Cook Islands","2005",99
+"948","COK","Cook Islands","2004",99
+"949","COK","Cook Islands","2003",99
+"950","COK","Cook Islands","2002",98
+"951","COK","Cook Islands","2001",98
+"952","COK","Cook Islands","2000",99
+"953","COK","Cook Islands","1999",97
+"954","COK","Cook Islands","1998",98
+"955","COK","Cook Islands","1997",85
+"956","COK","Cook Islands","1996",90
+"957","COK","Cook Islands","1995",96
+"958","COK","Cook Islands","1994",99
+"959","COK","Cook Islands","1993",94
+"960","COK","Cook Islands","1992",94
+"961","CRI","Costa Rica","2021",88
+"962","CRI","Costa Rica","2020",99
+"963","CRI","Costa Rica","2019",99
+"964","CRI","Costa Rica","2018",99
+"965","CRI","Costa Rica","2017",99
+"966","CRI","Costa Rica","2016",99
+"967","CRI","Costa Rica","2015",99
+"968","CRI","Costa Rica","2014",95
+"969","CRI","Costa Rica","2013",93
+"970","CRI","Costa Rica","2012",91
+"971","CRI","Costa Rica","2011",90
+"972","CRI","Costa Rica","2010",88
+"973","CRI","Costa Rica","2009",91
+"974","CRI","Costa Rica","2008",99
+"975","CRI","Costa Rica","2007",99
+"976","CRI","Costa Rica","2006",95
+"977","CRI","Costa Rica","2005",96
+"978","CRI","Costa Rica","2004",97
+"979","CRI","Costa Rica","2003",93
+"980","CRI","Costa Rica","2002",96
+"981","CRI","Costa Rica","2001",91
+"982","CRI","Costa Rica","2000",95
+"983","CRI","Costa Rica","1999",91
+"984","CRI","Costa Rica","1998",88
+"985","CRI","Costa Rica","1997",82
+"986","CRI","Costa Rica","1996",92
+"987","CRI","Costa Rica","1995",99
+"988","CRI","Costa Rica","1994",94
+"989","CRI","Costa Rica","1993",98
+"990","CRI","Costa Rica","1992",94
+"991","CIV","Cote d'Ivoire","2021",93
+"992","CIV","Cote d'Ivoire","2020",91
+"993","CIV","Cote d'Ivoire","2019",97
+"994","CIV","Cote d'Ivoire","2018",96
+"995","CIV","Cote d'Ivoire","2017",93
+"996","CIV","Cote d'Ivoire","2016",95
+"997","CIV","Cote d'Ivoire","2015",80
+"998","CIV","Cote d'Ivoire","2014",85
+"999","CIV","Cote d'Ivoire","2013",85
+"1000","CIV","Cote d'Ivoire","2012",93
+"1001","CIV","Cote d'Ivoire","2011",76
+"1002","CIV","Cote d'Ivoire","2010",79
+"1003","CIV","Cote d'Ivoire","2009",95
+"1004","CIV","Cote d'Ivoire","2008",91
+"1005","CIV","Cote d'Ivoire","2007",94
+"1006","CIV","Cote d'Ivoire","2006",77
+"1007","CIV","Cote d'Ivoire","2005",85
+"1008","CIV","Cote d'Ivoire","2004",71
+"1009","CIV","Cote d'Ivoire","2003",78
+"1010","CIV","Cote d'Ivoire","2002",79
+"1011","CIV","Cote d'Ivoire","2001",80
+"1012","CIV","Cote d'Ivoire","2000",80
+"1013","CIV","Cote d'Ivoire","1999",74
+"1014","CIV","Cote d'Ivoire","1998",71
+"1015","CIV","Cote d'Ivoire","1997",73
+"1016","CIV","Cote d'Ivoire","1996",68
+"1017","CIV","Cote d'Ivoire","1995",69
+"1018","CIV","Cote d'Ivoire","1994",75
+"1019","CIV","Cote d'Ivoire","1993",74
+"1020","CIV","Cote d'Ivoire","1992",70
+"1021","HRV","Croatia","2021",97
+"1022","HRV","Croatia","2020",98
+"1023","HRV","Croatia","2019",98
+"1024","HRV","Croatia","2018",98
+"1025","HRV","Croatia","2017",98
+"1026","HRV","Croatia","2016",99
+"1027","HRV","Croatia","2015",98
+"1028","HRV","Croatia","2014",98
+"1029","HRV","Croatia","2013",99
+"1030","HRV","Croatia","2012",99
+"1031","HRV","Croatia","2011",99
+"1032","HRV","Croatia","2010",99
+"1033","HRV","Croatia","2009",99
+"1034","HRV","Croatia","2008",99
+"1035","HRV","Croatia","2007",99
+"1036","HRV","Croatia","2006",99
+"1037","HRV","Croatia","2005",98
+"1038","HRV","Croatia","2004",98
+"1039","HRV","Croatia","2003",98
+"1040","HRV","Croatia","2002",99
+"1041","HRV","Croatia","2001",97
+"1042","HRV","Croatia","2000",98
+"1043","HRV","Croatia","1999",96
+"1044","HRV","Croatia","1998",97
+"1045","HRV","Croatia","1997",98
+"1046","HRV","Croatia","1996",99
+"1047","HRV","Croatia","1995",99
+"1048","HRV","Croatia","1994",98
+"1049","HRV","Croatia","1993",98
+"1050","HRV","Croatia","1992",92
+"1051","CUB","Cuba","2021",99
+"1052","CUB","Cuba","2020",99
+"1053","CUB","Cuba","2019",99
+"1054","CUB","Cuba","2018",99
+"1055","CUB","Cuba","2017",99
+"1056","CUB","Cuba","2016",99
+"1057","CUB","Cuba","2015",99
+"1058","CUB","Cuba","2014",99
+"1059","CUB","Cuba","2013",99
+"1060","CUB","Cuba","2012",99
+"1061","CUB","Cuba","2011",99
+"1062","CUB","Cuba","2010",99
+"1063","CUB","Cuba","2009",99
+"1064","CUB","Cuba","2008",99
+"1065","CUB","Cuba","2007",99
+"1066","CUB","Cuba","2006",99
+"1067","CUB","Cuba","2005",99
+"1068","CUB","Cuba","2004",99
+"1069","CUB","Cuba","2003",99
+"1070","CUB","Cuba","2002",99
+"1071","CUB","Cuba","2001",99
+"1072","CUB","Cuba","2000",99
+"1073","CUB","Cuba","1999",99
+"1074","CUB","Cuba","1998",99
+"1075","CUB","Cuba","1997",99
+"1076","CUB","Cuba","1996",99
+"1077","CUB","Cuba","1995",99
+"1078","CUB","Cuba","1994",99
+"1079","CUB","Cuba","1993",97
+"1080","CUB","Cuba","1992",98
+"1081","CZE","Czechia","2021",NA
+"1082","CZE","Czechia","2020",NA
+"1083","CZE","Czechia","2019",NA
+"1084","CZE","Czechia","2018",NA
+"1085","CZE","Czechia","2017",NA
+"1086","CZE","Czechia","2016",NA
+"1087","CZE","Czechia","2015",NA
+"1088","CZE","Czechia","2014",NA
+"1089","CZE","Czechia","2013",NA
+"1090","CZE","Czechia","2012",NA
+"1091","CZE","Czechia","2011",NA
+"1092","CZE","Czechia","2010",NA
+"1093","CZE","Czechia","2009",98
+"1094","CZE","Czechia","2008",99
+"1095","CZE","Czechia","2007",99
+"1096","CZE","Czechia","2006",99
+"1097","CZE","Czechia","2005",99
+"1098","CZE","Czechia","2004",99
+"1099","CZE","Czechia","2003",98
+"1100","CZE","Czechia","2002",97
+"1101","CZE","Czechia","2001",98
+"1102","CZE","Czechia","2000",98
+"1103","CZE","Czechia","1999",98
+"1104","CZE","Czechia","1998",98
+"1105","CZE","Czechia","1997",97
+"1106","CZE","Czechia","1996",96
+"1107","CZE","Czechia","1995",95
+"1108","CZE","Czechia","1994",95
+"1109","CZE","Czechia","1993",98
+"1110","CZE","Czechia","1992",NA
+"1111","PRK","Democratic People's Republic of Korea","2021",95
+"1112","PRK","Democratic People's Republic of Korea","2020",99
+"1113","PRK","Democratic People's Republic of Korea","2019",96
+"1114","PRK","Democratic People's Republic of Korea","2018",96
+"1115","PRK","Democratic People's Republic of Korea","2017",98
+"1116","PRK","Democratic People's Republic of Korea","2016",97
+"1117","PRK","Democratic People's Republic of Korea","2015",97
+"1118","PRK","Democratic People's Republic of Korea","2014",98
+"1119","PRK","Democratic People's Republic of Korea","2013",98
+"1120","PRK","Democratic People's Republic of Korea","2012",98
+"1121","PRK","Democratic People's Republic of Korea","2011",98
+"1122","PRK","Democratic People's Republic of Korea","2010",98
+"1123","PRK","Democratic People's Republic of Korea","2009",98
+"1124","PRK","Democratic People's Republic of Korea","2008",97
+"1125","PRK","Democratic People's Republic of Korea","2007",96
+"1126","PRK","Democratic People's Republic of Korea","2006",96
+"1127","PRK","Democratic People's Republic of Korea","2005",94
+"1128","PRK","Democratic People's Republic of Korea","2004",95
+"1129","PRK","Democratic People's Republic of Korea","2003",88
+"1130","PRK","Democratic People's Republic of Korea","2002",96
+"1131","PRK","Democratic People's Republic of Korea","2001",82
+"1132","PRK","Democratic People's Republic of Korea","2000",78
+"1133","PRK","Democratic People's Republic of Korea","1999",73
+"1134","PRK","Democratic People's Republic of Korea","1998",69
+"1135","PRK","Democratic People's Republic of Korea","1997",64
+"1136","PRK","Democratic People's Republic of Korea","1996",73
+"1137","PRK","Democratic People's Republic of Korea","1995",82
+"1138","PRK","Democratic People's Republic of Korea","1994",90
+"1139","PRK","Democratic People's Republic of Korea","1993",99
+"1140","PRK","Democratic People's Republic of Korea","1992",99
+"1141","COD","Democratic Republic of the Congo","2021",67
+"1142","COD","Democratic Republic of the Congo","2020",83
+"1143","COD","Democratic Republic of the Congo","2019",84
+"1144","COD","Democratic Republic of the Congo","2018",86
+"1145","COD","Democratic Republic of the Congo","2017",85
+"1146","COD","Democratic Republic of the Congo","2016",83
+"1147","COD","Democratic Republic of the Congo","2015",79
+"1148","COD","Democratic Republic of the Congo","2014",80
+"1149","COD","Democratic Republic of the Congo","2013",85
+"1150","COD","Democratic Republic of the Congo","2012",83
+"1151","COD","Democratic Republic of the Congo","2011",65
+"1152","COD","Democratic Republic of the Congo","2010",83
+"1153","COD","Democratic Republic of the Congo","2009",83
+"1154","COD","Democratic Republic of the Congo","2008",79
+"1155","COD","Democratic Republic of the Congo","2007",76
+"1156","COD","Democratic Republic of the Congo","2006",72
+"1157","COD","Democratic Republic of the Congo","2005",72
+"1158","COD","Democratic Republic of the Congo","2004",68
+"1159","COD","Democratic Republic of the Congo","2003",61
+"1160","COD","Democratic Republic of the Congo","2002",50
+"1161","COD","Democratic Republic of the Congo","2001",43
+"1162","COD","Democratic Republic of the Congo","2000",57
+"1163","COD","Democratic Republic of the Congo","1999",30
+"1164","COD","Democratic Republic of the Congo","1998",25
+"1165","COD","Democratic Republic of the Congo","1997",25
+"1166","COD","Democratic Republic of the Congo","1996",25
+"1167","COD","Democratic Republic of the Congo","1995",34
+"1168","COD","Democratic Republic of the Congo","1994",46
+"1169","COD","Democratic Republic of the Congo","1993",43
+"1170","COD","Democratic Republic of the Congo","1992",32
+"1171","DJI","Djibouti","2021",61
+"1172","DJI","Djibouti","2020",77
+"1173","DJI","Djibouti","2019",95
+"1174","DJI","Djibouti","2018",93
+"1175","DJI","Djibouti","2017",92
+"1176","DJI","Djibouti","2016",90
+"1177","DJI","Djibouti","2015",92
+"1178","DJI","Djibouti","2014",99
+"1179","DJI","Djibouti","2013",86
+"1180","DJI","Djibouti","2012",87
+"1181","DJI","Djibouti","2011",89
+"1182","DJI","Djibouti","2010",90
+"1183","DJI","Djibouti","2009",90
+"1184","DJI","Djibouti","2008",90
+"1185","DJI","Djibouti","2007",90
+"1186","DJI","Djibouti","2006",88
+"1187","DJI","Djibouti","2005",80
+"1188","DJI","Djibouti","2004",71
+"1189","DJI","Djibouti","2003",63
+"1190","DJI","Djibouti","2002",52
+"1191","DJI","Djibouti","2001",38
+"1192","DJI","Djibouti","2000",34
+"1193","DJI","Djibouti","1999",26
+"1194","DJI","Djibouti","1998",35
+"1195","DJI","Djibouti","1997",43
+"1196","DJI","Djibouti","1996",51
+"1197","DJI","Djibouti","1995",51
+"1198","DJI","Djibouti","1994",51
+"1199","DJI","Djibouti","1993",51
+"1200","DJI","Djibouti","1992",51
+"1201","DMA","Dominica","2021",89
+"1202","DMA","Dominica","2020",98
+"1203","DMA","Dominica","2019",98
+"1204","DMA","Dominica","2018",95
+"1205","DMA","Dominica","2017",97
+"1206","DMA","Dominica","2016",98
+"1207","DMA","Dominica","2015",98
+"1208","DMA","Dominica","2014",98
+"1209","DMA","Dominica","2013",97
+"1210","DMA","Dominica","2012",98
+"1211","DMA","Dominica","2011",98
+"1212","DMA","Dominica","2010",99
+"1213","DMA","Dominica","2009",99
+"1214","DMA","Dominica","2008",98
+"1215","DMA","Dominica","2007",90
+"1216","DMA","Dominica","2006",99
+"1217","DMA","Dominica","2005",98
+"1218","DMA","Dominica","2004",99
+"1219","DMA","Dominica","2003",99
+"1220","DMA","Dominica","2002",99
+"1221","DMA","Dominica","2001",99
+"1222","DMA","Dominica","2000",99
+"1223","DMA","Dominica","1999",99
+"1224","DMA","Dominica","1998",99
+"1225","DMA","Dominica","1997",99
+"1226","DMA","Dominica","1996",99
+"1227","DMA","Dominica","1995",99
+"1228","DMA","Dominica","1994",99
+"1229","DMA","Dominica","1993",99
+"1230","DMA","Dominica","1992",99
+"1231","DOM","Dominican Republic","2021",99
+"1232","DOM","Dominican Republic","2020",85
+"1233","DOM","Dominican Republic","2019",99
+"1234","DOM","Dominican Republic","2018",99
+"1235","DOM","Dominican Republic","2017",99
+"1236","DOM","Dominican Republic","2016",99
+"1237","DOM","Dominican Republic","2015",99
+"1238","DOM","Dominican Republic","2014",99
+"1239","DOM","Dominican Republic","2013",99
+"1240","DOM","Dominican Republic","2012",99
+"1241","DOM","Dominican Republic","2011",99
+"1242","DOM","Dominican Republic","2010",98
+"1243","DOM","Dominican Republic","2009",96
+"1244","DOM","Dominican Republic","2008",92
+"1245","DOM","Dominican Republic","2007",92
+"1246","DOM","Dominican Republic","2006",95
+"1247","DOM","Dominican Republic","2005",96
+"1248","DOM","Dominican Republic","2004",97
+"1249","DOM","Dominican Republic","2003",95
+"1250","DOM","Dominican Republic","2002",97
+"1251","DOM","Dominican Republic","2001",98
+"1252","DOM","Dominican Republic","2000",90
+"1253","DOM","Dominican Republic","1999",99
+"1254","DOM","Dominican Republic","1998",86
+"1255","DOM","Dominican Republic","1997",88
+"1256","DOM","Dominican Republic","1996",79
+"1257","DOM","Dominican Republic","1995",90
+"1258","DOM","Dominican Republic","1994",86
+"1259","DOM","Dominican Republic","1993",82
+"1260","DOM","Dominican Republic","1992",78
+"1261","ECU","Ecuador","2021",75
+"1262","ECU","Ecuador","2020",81
+"1263","ECU","Ecuador","2019",86
+"1264","ECU","Ecuador","2018",90
+"1265","ECU","Ecuador","2017",88
+"1266","ECU","Ecuador","2016",84
+"1267","ECU","Ecuador","2015",88
+"1268","ECU","Ecuador","2014",89
+"1269","ECU","Ecuador","2013",90
+"1270","ECU","Ecuador","2012",94
+"1271","ECU","Ecuador","2011",98
+"1272","ECU","Ecuador","2010",98
+"1273","ECU","Ecuador","2009",99
+"1274","ECU","Ecuador","2008",98
+"1275","ECU","Ecuador","2007",99
+"1276","ECU","Ecuador","2006",99
+"1277","ECU","Ecuador","2005",99
+"1278","ECU","Ecuador","2004",99
+"1279","ECU","Ecuador","2003",99
+"1280","ECU","Ecuador","2002",99
+"1281","ECU","Ecuador","2001",99
+"1282","ECU","Ecuador","2000",99
+"1283","ECU","Ecuador","1999",99
+"1284","ECU","Ecuador","1998",98
+"1285","ECU","Ecuador","1997",99
+"1286","ECU","Ecuador","1996",99
+"1287","ECU","Ecuador","1995",99
+"1288","ECU","Ecuador","1994",99
+"1289","ECU","Ecuador","1993",99
+"1290","ECU","Ecuador","1992",99
+"1291","EGY","Egypt","2021",97
+"1292","EGY","Egypt","2020",96
+"1293","EGY","Egypt","2019",96
+"1294","EGY","Egypt","2018",95
+"1295","EGY","Egypt","2017",86
+"1296","EGY","Egypt","2016",96
+"1297","EGY","Egypt","2015",96
+"1298","EGY","Egypt","2014",96
+"1299","EGY","Egypt","2013",98
+"1300","EGY","Egypt","2012",95
+"1301","EGY","Egypt","2011",98
+"1302","EGY","Egypt","2010",98
+"1303","EGY","Egypt","2009",98
+"1304","EGY","Egypt","2008",98
+"1305","EGY","Egypt","2007",98
+"1306","EGY","Egypt","2006",99
+"1307","EGY","Egypt","2005",98
+"1308","EGY","Egypt","2004",98
+"1309","EGY","Egypt","2003",98
+"1310","EGY","Egypt","2002",98
+"1311","EGY","Egypt","2001",98
+"1312","EGY","Egypt","2000",98
+"1313","EGY","Egypt","1999",98
+"1314","EGY","Egypt","1998",99
+"1315","EGY","Egypt","1997",98
+"1316","EGY","Egypt","1996",95
+"1317","EGY","Egypt","1995",93
+"1318","EGY","Egypt","1994",95
+"1319","EGY","Egypt","1993",95
+"1320","EGY","Egypt","1992",92
+"1321","SLV","El Salvador","2021",78
+"1322","SLV","El Salvador","2020",79
+"1323","SLV","El Salvador","2019",78
+"1324","SLV","El Salvador","2018",81
+"1325","SLV","El Salvador","2017",83
+"1326","SLV","El Salvador","2016",87
+"1327","SLV","El Salvador","2015",99
+"1328","SLV","El Salvador","2014",85
+"1329","SLV","El Salvador","2013",90
+"1330","SLV","El Salvador","2012",90
+"1331","SLV","El Salvador","2011",95
+"1332","SLV","El Salvador","2010",96
+"1333","SLV","El Salvador","2009",99
+"1334","SLV","El Salvador","2008",99
+"1335","SLV","El Salvador","2007",99
+"1336","SLV","El Salvador","2006",93
+"1337","SLV","El Salvador","2005",84
+"1338","SLV","El Salvador","2004",94
+"1339","SLV","El Salvador","2003",91
+"1340","SLV","El Salvador","2002",92
+"1341","SLV","El Salvador","2001",92
+"1342","SLV","El Salvador","2000",99
+"1343","SLV","El Salvador","1999",99
+"1344","SLV","El Salvador","1998",99
+"1345","SLV","El Salvador","1997",95
+"1346","SLV","El Salvador","1996",98
+"1347","SLV","El Salvador","1995",99
+"1348","SLV","El Salvador","1994",82
+"1349","SLV","El Salvador","1993",79
+"1350","SLV","El Salvador","1992",62
+"1351","GNQ","Equatorial Guinea","2021",85
+"1352","GNQ","Equatorial Guinea","2020",85
+"1353","GNQ","Equatorial Guinea","2019",85
+"1354","GNQ","Equatorial Guinea","2018",85
+"1355","GNQ","Equatorial Guinea","2017",85
+"1356","GNQ","Equatorial Guinea","2016",85
+"1357","GNQ","Equatorial Guinea","2015",77
+"1358","GNQ","Equatorial Guinea","2014",85
+"1359","GNQ","Equatorial Guinea","2013",82
+"1360","GNQ","Equatorial Guinea","2012",78
+"1361","GNQ","Equatorial Guinea","2011",75
+"1362","GNQ","Equatorial Guinea","2010",71
+"1363","GNQ","Equatorial Guinea","2009",71
+"1364","GNQ","Equatorial Guinea","2008",71
+"1365","GNQ","Equatorial Guinea","2007",72
+"1366","GNQ","Equatorial Guinea","2006",72
+"1367","GNQ","Equatorial Guinea","2005",72
+"1368","GNQ","Equatorial Guinea","2004",72
+"1369","GNQ","Equatorial Guinea","2003",72
+"1370","GNQ","Equatorial Guinea","2002",72
+"1371","GNQ","Equatorial Guinea","2001",73
+"1372","GNQ","Equatorial Guinea","2000",73
+"1373","GNQ","Equatorial Guinea","1999",73
+"1374","GNQ","Equatorial Guinea","1998",99
+"1375","GNQ","Equatorial Guinea","1997",99
+"1376","GNQ","Equatorial Guinea","1996",99
+"1377","GNQ","Equatorial Guinea","1995",99
+"1378","GNQ","Equatorial Guinea","1994",99
+"1379","GNQ","Equatorial Guinea","1993",98
+"1380","GNQ","Equatorial Guinea","1992",97
+"1381","ERI","Eritrea","2021",97
+"1382","ERI","Eritrea","2020",97
+"1383","ERI","Eritrea","2019",97
+"1384","ERI","Eritrea","2018",97
+"1385","ERI","Eritrea","2017",97
+"1386","ERI","Eritrea","2016",97
+"1387","ERI","Eritrea","2015",97
+"1388","ERI","Eritrea","2014",97
+"1389","ERI","Eritrea","2013",97
+"1390","ERI","Eritrea","2012",97
+"1391","ERI","Eritrea","2011",97
+"1392","ERI","Eritrea","2010",96
+"1393","ERI","Eritrea","2009",96
+"1394","ERI","Eritrea","2008",95
+"1395","ERI","Eritrea","2007",99
+"1396","ERI","Eritrea","2006",99
+"1397","ERI","Eritrea","2005",99
+"1398","ERI","Eritrea","2004",99
+"1399","ERI","Eritrea","2003",97
+"1400","ERI","Eritrea","2002",94
+"1401","ERI","Eritrea","2001",91
+"1402","ERI","Eritrea","2000",89
+"1403","ERI","Eritrea","1999",98
+"1404","ERI","Eritrea","1998",96
+"1405","ERI","Eritrea","1997",83
+"1406","ERI","Eritrea","1996",75
+"1407","ERI","Eritrea","1995",68
+"1408","ERI","Eritrea","1994",60
+"1409","ERI","Eritrea","1993",40
+"1410","ERI","Eritrea","1992",NA
+"1411","EST","Estonia","2021",90
+"1412","EST","Estonia","2020",91
+"1413","EST","Estonia","2019",92
+"1414","EST","Estonia","2018",92
+"1415","EST","Estonia","2017",94
+"1416","EST","Estonia","2016",95
+"1417","EST","Estonia","2015",95
+"1418","EST","Estonia","2014",95
+"1419","EST","Estonia","2013",96
+"1420","EST","Estonia","2012",97
+"1421","EST","Estonia","2011",99
+"1422","EST","Estonia","2010",97
+"1423","EST","Estonia","2009",97
+"1424","EST","Estonia","2008",98
+"1425","EST","Estonia","2007",98
+"1426","EST","Estonia","2006",99
+"1427","EST","Estonia","2005",99
+"1428","EST","Estonia","2004",99
+"1429","EST","Estonia","2003",99
+"1430","EST","Estonia","2002",99
+"1431","EST","Estonia","2001",99
+"1432","EST","Estonia","2000",99
+"1433","EST","Estonia","1999",99
+"1434","EST","Estonia","1998",99
+"1435","EST","Estonia","1997",99
+"1436","EST","Estonia","1996",99
+"1437","EST","Estonia","1995",99
+"1438","EST","Estonia","1994",98
+"1439","EST","Estonia","1993",98
+"1440","EST","Estonia","1992",NA
+"1441","SWZ","Eswatini","2021",97
+"1442","SWZ","Eswatini","2020",97
+"1443","SWZ","Eswatini","2019",98
+"1444","SWZ","Eswatini","2018",98
+"1445","SWZ","Eswatini","2017",98
+"1446","SWZ","Eswatini","2016",97
+"1447","SWZ","Eswatini","2015",98
+"1448","SWZ","Eswatini","2014",99
+"1449","SWZ","Eswatini","2013",99
+"1450","SWZ","Eswatini","2012",99
+"1451","SWZ","Eswatini","2011",98
+"1452","SWZ","Eswatini","2010",98
+"1453","SWZ","Eswatini","2009",97
+"1454","SWZ","Eswatini","2008",96
+"1455","SWZ","Eswatini","2007",95
+"1456","SWZ","Eswatini","2006",94
+"1457","SWZ","Eswatini","2005",93
+"1458","SWZ","Eswatini","2004",92
+"1459","SWZ","Eswatini","2003",91
+"1460","SWZ","Eswatini","2002",90
+"1461","SWZ","Eswatini","2001",89
+"1462","SWZ","Eswatini","2000",88
+"1463","SWZ","Eswatini","1999",87
+"1464","SWZ","Eswatini","1998",86
+"1465","SWZ","Eswatini","1997",85
+"1466","SWZ","Eswatini","1996",85
+"1467","SWZ","Eswatini","1995",99
+"1468","SWZ","Eswatini","1994",99
+"1469","SWZ","Eswatini","1993",98
+"1470","SWZ","Eswatini","1992",97
+"1471","ETH","Ethiopia","2021",68
+"1472","ETH","Ethiopia","2020",70
+"1473","ETH","Ethiopia","2019",69
+"1474","ETH","Ethiopia","2018",71
+"1475","ETH","Ethiopia","2017",73
+"1476","ETH","Ethiopia","2016",72
+"1477","ETH","Ethiopia","2015",70
+"1478","ETH","Ethiopia","2014",69
+"1479","ETH","Ethiopia","2013",68
+"1480","ETH","Ethiopia","2012",74
+"1481","ETH","Ethiopia","2011",80
+"1482","ETH","Ethiopia","2010",76
+"1483","ETH","Ethiopia","2009",74
+"1484","ETH","Ethiopia","2008",71
+"1485","ETH","Ethiopia","2007",69
+"1486","ETH","Ethiopia","2006",66
+"1487","ETH","Ethiopia","2005",64
+"1488","ETH","Ethiopia","2004",60
+"1489","ETH","Ethiopia","2003",59
+"1490","ETH","Ethiopia","2002",58
+"1491","ETH","Ethiopia","2001",57
+"1492","ETH","Ethiopia","2000",56
+"1493","ETH","Ethiopia","1999",54
+"1494","ETH","Ethiopia","1998",54
+"1495","ETH","Ethiopia","1997",54
+"1496","ETH","Ethiopia","1996",57
+"1497","ETH","Ethiopia","1995",61
+"1498","ETH","Ethiopia","1994",65
+"1499","ETH","Ethiopia","1993",36
+"1500","ETH","Ethiopia","1992",26
+"1501","FJI","Fiji","2021",99
+"1502","FJI","Fiji","2020",99
+"1503","FJI","Fiji","2019",99
+"1504","FJI","Fiji","2018",99
+"1505","FJI","Fiji","2017",99
+"1506","FJI","Fiji","2016",99
+"1507","FJI","Fiji","2015",99
+"1508","FJI","Fiji","2014",99
+"1509","FJI","Fiji","2013",99
+"1510","FJI","Fiji","2012",99
+"1511","FJI","Fiji","2011",99
+"1512","FJI","Fiji","2010",99
+"1513","FJI","Fiji","2009",99
+"1514","FJI","Fiji","2008",99
+"1515","FJI","Fiji","2007",99
+"1516","FJI","Fiji","2006",99
+"1517","FJI","Fiji","2005",98
+"1518","FJI","Fiji","2004",98
+"1519","FJI","Fiji","2003",97
+"1520","FJI","Fiji","2002",97
+"1521","FJI","Fiji","2001",97
+"1522","FJI","Fiji","2000",96
+"1523","FJI","Fiji","1999",96
+"1524","FJI","Fiji","1998",95
+"1525","FJI","Fiji","1997",95
+"1526","FJI","Fiji","1996",99
+"1527","FJI","Fiji","1995",99
+"1528","FJI","Fiji","1994",99
+"1529","FJI","Fiji","1993",99
+"1530","FJI","Fiji","1992",98
+"1531","FIN","Finland","2021",NA
+"1532","FIN","Finland","2020",NA
+"1533","FIN","Finland","2019",NA
+"1534","FIN","Finland","2018",NA
+"1535","FIN","Finland","2017",NA
+"1536","FIN","Finland","2016",NA
+"1537","FIN","Finland","2015",NA
+"1538","FIN","Finland","2014",NA
+"1539","FIN","Finland","2013",NA
+"1540","FIN","Finland","2012",NA
+"1541","FIN","Finland","2011",NA
+"1542","FIN","Finland","2010",NA
+"1543","FIN","Finland","2009",NA
+"1544","FIN","Finland","2008",NA
+"1545","FIN","Finland","2007",NA
+"1546","FIN","Finland","2006",98
+"1547","FIN","Finland","2005",98
+"1548","FIN","Finland","2004",98
+"1549","FIN","Finland","2003",98
+"1550","FIN","Finland","2002",99
+"1551","FIN","Finland","2001",99
+"1552","FIN","Finland","2000",99
+"1553","FIN","Finland","1999",99
+"1554","FIN","Finland","1998",99
+"1555","FIN","Finland","1997",99
+"1556","FIN","Finland","1996",99
+"1557","FIN","Finland","1995",99
+"1558","FIN","Finland","1994",99
+"1559","FIN","Finland","1993",99
+"1560","FIN","Finland","1992",99
+"1561","FRA","France","2021",NA
+"1562","FRA","France","2020",NA
+"1563","FRA","France","2019",NA
+"1564","FRA","France","2018",NA
+"1565","FRA","France","2017",NA
+"1566","FRA","France","2016",NA
+"1567","FRA","France","2015",NA
+"1568","FRA","France","2014",NA
+"1569","FRA","France","2013",NA
+"1570","FRA","France","2012",NA
+"1571","FRA","France","2011",NA
+"1572","FRA","France","2010",NA
+"1573","FRA","France","2009",NA
+"1574","FRA","France","2008",NA
+"1575","FRA","France","2007",78
+"1576","FRA","France","2006",83
+"1577","FRA","France","2005",81
+"1578","FRA","France","2004",85
+"1579","FRA","France","2003",84
+"1580","FRA","France","2002",85
+"1581","FRA","France","2001",84
+"1582","FRA","France","2000",83
+"1583","FRA","France","1999",83
+"1584","FRA","France","1998",81
+"1585","FRA","France","1997",82
+"1586","FRA","France","1996",82
+"1587","FRA","France","1995",83
+"1588","FRA","France","1994",81
+"1589","FRA","France","1993",79
+"1590","FRA","France","1992",77
+"1591","GAB","Gabon","2021",86
+"1592","GAB","Gabon","2020",85
+"1593","GAB","Gabon","2019",92
+"1594","GAB","Gabon","2018",87
+"1595","GAB","Gabon","2017",93
+"1596","GAB","Gabon","2016",94
+"1597","GAB","Gabon","2015",98
+"1598","GAB","Gabon","2014",91
+"1599","GAB","Gabon","2013",92
+"1600","GAB","Gabon","2012",97
+"1601","GAB","Gabon","2011",94
+"1602","GAB","Gabon","2010",94
+"1603","GAB","Gabon","2009",93
+"1604","GAB","Gabon","2008",93
+"1605","GAB","Gabon","2007",92
+"1606","GAB","Gabon","2006",92
+"1607","GAB","Gabon","2005",92
+"1608","GAB","Gabon","2004",91
+"1609","GAB","Gabon","2003",91
+"1610","GAB","Gabon","2002",90
+"1611","GAB","Gabon","2001",90
+"1612","GAB","Gabon","2000",89
+"1613","GAB","Gabon","1999",89
+"1614","GAB","Gabon","1998",90
+"1615","GAB","Gabon","1997",90
+"1616","GAB","Gabon","1996",90
+"1617","GAB","Gabon","1995",90
+"1618","GAB","Gabon","1994",94
+"1619","GAB","Gabon","1993",97
+"1620","GAB","Gabon","1992",97
+"1621","GMB","Gambia","2021",81
+"1622","GMB","Gambia","2020",85
+"1623","GMB","Gambia","2019",88
+"1624","GMB","Gambia","2018",94
+"1625","GMB","Gambia","2017",94
+"1626","GMB","Gambia","2016",98
+"1627","GMB","Gambia","2015",98
+"1628","GMB","Gambia","2014",96
+"1629","GMB","Gambia","2013",98
+"1630","GMB","Gambia","2012",98
+"1631","GMB","Gambia","2011",90
+"1632","GMB","Gambia","2010",92
+"1633","GMB","Gambia","2009",94
+"1634","GMB","Gambia","2008",95
+"1635","GMB","Gambia","2007",97
+"1636","GMB","Gambia","2006",97
+"1637","GMB","Gambia","2005",99
+"1638","GMB","Gambia","2004",99
+"1639","GMB","Gambia","2003",99
+"1640","GMB","Gambia","2002",99
+"1641","GMB","Gambia","2001",99
+"1642","GMB","Gambia","2000",99
+"1643","GMB","Gambia","1999",98
+"1644","GMB","Gambia","1998",99
+"1645","GMB","Gambia","1997",99
+"1646","GMB","Gambia","1996",99
+"1647","GMB","Gambia","1995",99
+"1648","GMB","Gambia","1994",99
+"1649","GMB","Gambia","1993",98
+"1650","GMB","Gambia","1992",97
+"1651","GEO","Georgia","2021",96
+"1652","GEO","Georgia","2020",96
+"1653","GEO","Georgia","2019",96
+"1654","GEO","Georgia","2018",97
+"1655","GEO","Georgia","2017",96
+"1656","GEO","Georgia","2016",98
+"1657","GEO","Georgia","2015",96
+"1658","GEO","Georgia","2014",96
+"1659","GEO","Georgia","2013",95
+"1660","GEO","Georgia","2012",95
+"1661","GEO","Georgia","2011",96
+"1662","GEO","Georgia","2010",96
+"1663","GEO","Georgia","2009",95
+"1664","GEO","Georgia","2008",95
+"1665","GEO","Georgia","2007",96
+"1666","GEO","Georgia","2006",95
+"1667","GEO","Georgia","2005",95
+"1668","GEO","Georgia","2004",91
+"1669","GEO","Georgia","2003",87
+"1670","GEO","Georgia","2002",91
+"1671","GEO","Georgia","2001",94
+"1672","GEO","Georgia","2000",95
+"1673","GEO","Georgia","1999",95
+"1674","GEO","Georgia","1998",94
+"1675","GEO","Georgia","1997",76
+"1676","GEO","Georgia","1996",70
+"1677","GEO","Georgia","1995",70
+"1678","GEO","Georgia","1994",30
+"1679","GEO","Georgia","1993",30
+"1680","GEO","Georgia","1992",67
+"1681","GHA","Ghana","2021",99
+"1682","GHA","Ghana","2020",93
+"1683","GHA","Ghana","2019",96
+"1684","GHA","Ghana","2018",98
+"1685","GHA","Ghana","2017",99
+"1686","GHA","Ghana","2016",94
+"1687","GHA","Ghana","2015",97
+"1688","GHA","Ghana","2014",99
+"1689","GHA","Ghana","2013",98
+"1690","GHA","Ghana","2012",98
+"1691","GHA","Ghana","2011",98
+"1692","GHA","Ghana","2010",99
+"1693","GHA","Ghana","2009",99
+"1694","GHA","Ghana","2008",99
+"1695","GHA","Ghana","2007",99
+"1696","GHA","Ghana","2006",99
+"1697","GHA","Ghana","2005",99
+"1698","GHA","Ghana","2004",92
+"1699","GHA","Ghana","2003",92
+"1700","GHA","Ghana","2002",92
+"1701","GHA","Ghana","2001",94
+"1702","GHA","Ghana","2000",99
+"1703","GHA","Ghana","1999",98
+"1704","GHA","Ghana","1998",90
+"1705","GHA","Ghana","1997",88
+"1706","GHA","Ghana","1996",87
+"1707","GHA","Ghana","1995",87
+"1708","GHA","Ghana","1994",86
+"1709","GHA","Ghana","1993",85
+"1710","GHA","Ghana","1992",83
+"1711","GRC","Greece","2021",NA
+"1712","GRC","Greece","2020",NA
+"1713","GRC","Greece","2019",NA
+"1714","GRC","Greece","2018",NA
+"1715","GRC","Greece","2017",NA
+"1716","GRC","Greece","2016",NA
+"1717","GRC","Greece","2015",NA
+"1718","GRC","Greece","2014",NA
+"1719","GRC","Greece","2013",NA
+"1720","GRC","Greece","2012",NA
+"1721","GRC","Greece","2011",NA
+"1722","GRC","Greece","2010",NA
+"1723","GRC","Greece","2009",NA
+"1724","GRC","Greece","2008",NA
+"1725","GRC","Greece","2007",NA
+"1726","GRC","Greece","2006",NA
+"1727","GRC","Greece","2005",NA
+"1728","GRC","Greece","2004",NA
+"1729","GRC","Greece","2003",NA
+"1730","GRC","Greece","2002",NA
+"1731","GRC","Greece","2001",NA
+"1732","GRC","Greece","2000",NA
+"1733","GRC","Greece","1999",NA
+"1734","GRC","Greece","1998",NA
+"1735","GRC","Greece","1997",NA
+"1736","GRC","Greece","1996",NA
+"1737","GRC","Greece","1995",NA
+"1738","GRC","Greece","1994",50
+"1739","GRC","Greece","1993",65
+"1740","GRC","Greece","1992",76
+"1741","GTM","Guatemala","2021",84
+"1742","GTM","Guatemala","2020",86
+"1743","GTM","Guatemala","2019",86
+"1744","GTM","Guatemala","2018",88
+"1745","GTM","Guatemala","2017",93
+"1746","GTM","Guatemala","2016",91
+"1747","GTM","Guatemala","2015",92
+"1748","GTM","Guatemala","2014",93
+"1749","GTM","Guatemala","2013",99
+"1750","GTM","Guatemala","2012",94
+"1751","GTM","Guatemala","2011",91
+"1752","GTM","Guatemala","2010",99
+"1753","GTM","Guatemala","2009",93
+"1754","GTM","Guatemala","2008",99
+"1755","GTM","Guatemala","2007",88
+"1756","GTM","Guatemala","2006",96
+"1757","GTM","Guatemala","2005",96
+"1758","GTM","Guatemala","2004",98
+"1759","GTM","Guatemala","2003",97
+"1760","GTM","Guatemala","2002",96
+"1761","GTM","Guatemala","2001",93
+"1762","GTM","Guatemala","2000",95
+"1763","GTM","Guatemala","1999",93
+"1764","GTM","Guatemala","1998",89
+"1765","GTM","Guatemala","1997",88
+"1766","GTM","Guatemala","1996",76
+"1767","GTM","Guatemala","1995",79
+"1768","GTM","Guatemala","1994",78
+"1769","GTM","Guatemala","1993",69
+"1770","GTM","Guatemala","1992",57
+"1771","GIN","Guinea","2021",72
+"1772","GIN","Guinea","2020",72
+"1773","GIN","Guinea","2019",73
+"1774","GIN","Guinea","2018",73
+"1775","GIN","Guinea","2017",73
+"1776","GIN","Guinea","2016",73
+"1777","GIN","Guinea","2015",72
+"1778","GIN","Guinea","2014",66
+"1779","GIN","Guinea","2013",71
+"1780","GIN","Guinea","2012",77
+"1781","GIN","Guinea","2011",82
+"1782","GIN","Guinea","2010",93
+"1783","GIN","Guinea","2009",91
+"1784","GIN","Guinea","2008",87
+"1785","GIN","Guinea","2007",84
+"1786","GIN","Guinea","2006",81
+"1787","GIN","Guinea","2005",80
+"1788","GIN","Guinea","2004",79
+"1789","GIN","Guinea","2003",80
+"1790","GIN","Guinea","2002",80
+"1791","GIN","Guinea","2001",81
+"1792","GIN","Guinea","2000",81
+"1793","GIN","Guinea","1999",82
+"1794","GIN","Guinea","1998",76
+"1795","GIN","Guinea","1997",76
+"1796","GIN","Guinea","1996",77
+"1797","GIN","Guinea","1995",78
+"1798","GIN","Guinea","1994",75
+"1799","GIN","Guinea","1993",70
+"1800","GIN","Guinea","1992",65
+"1801","GNB","Guinea-Bissau","2021",34
+"1802","GNB","Guinea-Bissau","2020",67
+"1803","GNB","Guinea-Bissau","2019",84
+"1804","GNB","Guinea-Bissau","2018",89
+"1805","GNB","Guinea-Bissau","2017",87
+"1806","GNB","Guinea-Bissau","2016",91
+"1807","GNB","Guinea-Bissau","2015",92
+"1808","GNB","Guinea-Bissau","2014",93
+"1809","GNB","Guinea-Bissau","2013",93
+"1810","GNB","Guinea-Bissau","2012",94
+"1811","GNB","Guinea-Bissau","2011",92
+"1812","GNB","Guinea-Bissau","2010",93
+"1813","GNB","Guinea-Bissau","2009",94
+"1814","GNB","Guinea-Bissau","2008",93
+"1815","GNB","Guinea-Bissau","2007",92
+"1816","GNB","Guinea-Bissau","2006",90
+"1817","GNB","Guinea-Bissau","2005",89
+"1818","GNB","Guinea-Bissau","2004",87
+"1819","GNB","Guinea-Bissau","2003",84
+"1820","GNB","Guinea-Bissau","2002",82
+"1821","GNB","Guinea-Bissau","2001",79
+"1822","GNB","Guinea-Bissau","2000",77
+"1823","GNB","Guinea-Bissau","1999",74
+"1824","GNB","Guinea-Bissau","1998",78
+"1825","GNB","Guinea-Bissau","1997",82
+"1826","GNB","Guinea-Bissau","1996",68
+"1827","GNB","Guinea-Bissau","1995",92
+"1828","GNB","Guinea-Bissau","1994",95
+"1829","GNB","Guinea-Bissau","1993",96
+"1830","GNB","Guinea-Bissau","1992",99
+"1831","GUY","Guyana","2021",89
+"1832","GUY","Guyana","2020",94
+"1833","GUY","Guyana","2019",99
+"1834","GUY","Guyana","2018",99
+"1835","GUY","Guyana","2017",97
+"1836","GUY","Guyana","2016",95
+"1837","GUY","Guyana","2015",99
+"1838","GUY","Guyana","2014",99
+"1839","GUY","Guyana","2013",98
+"1840","GUY","Guyana","2012",98
+"1841","GUY","Guyana","2011",97
+"1842","GUY","Guyana","2010",98
+"1843","GUY","Guyana","2009",98
+"1844","GUY","Guyana","2008",96
+"1845","GUY","Guyana","2007",97
+"1846","GUY","Guyana","2006",96
+"1847","GUY","Guyana","2005",96
+"1848","GUY","Guyana","2004",94
+"1849","GUY","Guyana","2003",95
+"1850","GUY","Guyana","2002",91
+"1851","GUY","Guyana","2001",95
+"1852","GUY","Guyana","2000",93
+"1853","GUY","Guyana","1999",91
+"1854","GUY","Guyana","1998",92
+"1855","GUY","Guyana","1997",94
+"1856","GUY","Guyana","1996",88
+"1857","GUY","Guyana","1995",93
+"1858","GUY","Guyana","1994",94
+"1859","GUY","Guyana","1993",94
+"1860","GUY","Guyana","1992",88
+"1861","HTI","Haiti","2021",73
+"1862","HTI","Haiti","2020",73
+"1863","HTI","Haiti","2019",73
+"1864","HTI","Haiti","2018",83
+"1865","HTI","Haiti","2017",83
+"1866","HTI","Haiti","2016",83
+"1867","HTI","Haiti","2015",83
+"1868","HTI","Haiti","2014",81
+"1869","HTI","Haiti","2013",82
+"1870","HTI","Haiti","2012",82
+"1871","HTI","Haiti","2011",83
+"1872","HTI","Haiti","2010",82
+"1873","HTI","Haiti","2009",80
+"1874","HTI","Haiti","2008",78
+"1875","HTI","Haiti","2007",78
+"1876","HTI","Haiti","2006",75
+"1877","HTI","Haiti","2005",75
+"1878","HTI","Haiti","2004",74
+"1879","HTI","Haiti","2003",74
+"1880","HTI","Haiti","2002",73
+"1881","HTI","Haiti","2001",72
+"1882","HTI","Haiti","2000",72
+"1883","HTI","Haiti","1999",71
+"1884","HTI","Haiti","1998",72
+"1885","HTI","Haiti","1997",72
+"1886","HTI","Haiti","1996",72
+"1887","HTI","Haiti","1995",74
+"1888","HTI","Haiti","1994",73
+"1889","HTI","Haiti","1993",73
+"1890","HTI","Haiti","1992",73
+"1891","HND","Honduras","2021",82
+"1892","HND","Honduras","2020",83
+"1893","HND","Honduras","2019",87
+"1894","HND","Honduras","2018",93
+"1895","HND","Honduras","2017",92
+"1896","HND","Honduras","2016",93
+"1897","HND","Honduras","2015",94
+"1898","HND","Honduras","2014",96
+"1899","HND","Honduras","2013",97
+"1900","HND","Honduras","2012",98
+"1901","HND","Honduras","2011",99
+"1902","HND","Honduras","2010",99
+"1903","HND","Honduras","2009",99
+"1904","HND","Honduras","2008",99
+"1905","HND","Honduras","2007",99
+"1906","HND","Honduras","2006",97
+"1907","HND","Honduras","2005",98
+"1908","HND","Honduras","2004",98
+"1909","HND","Honduras","2003",91
+"1910","HND","Honduras","2002",94
+"1911","HND","Honduras","2001",99
+"1912","HND","Honduras","2000",99
+"1913","HND","Honduras","1999",93
+"1914","HND","Honduras","1998",96
+"1915","HND","Honduras","1997",99
+"1916","HND","Honduras","1996",99
+"1917","HND","Honduras","1995",97
+"1918","HND","Honduras","1994",99
+"1919","HND","Honduras","1993",95
+"1920","HND","Honduras","1992",92
+"1921","HUN","Hungary","2021",99
+"1922","HUN","Hungary","2020",99
+"1923","HUN","Hungary","2019",99
+"1924","HUN","Hungary","2018",99
+"1925","HUN","Hungary","2017",99
+"1926","HUN","Hungary","2016",99
+"1927","HUN","Hungary","2015",99
+"1928","HUN","Hungary","2014",99
+"1929","HUN","Hungary","2013",99
+"1930","HUN","Hungary","2012",99
+"1931","HUN","Hungary","2011",99
+"1932","HUN","Hungary","2010",99
+"1933","HUN","Hungary","2009",99
+"1934","HUN","Hungary","2008",99
+"1935","HUN","Hungary","2007",99
+"1936","HUN","Hungary","2006",99
+"1937","HUN","Hungary","2005",99
+"1938","HUN","Hungary","2004",99
+"1939","HUN","Hungary","2003",99
+"1940","HUN","Hungary","2002",99
+"1941","HUN","Hungary","2001",99
+"1942","HUN","Hungary","2000",99
+"1943","HUN","Hungary","1999",99
+"1944","HUN","Hungary","1998",99
+"1945","HUN","Hungary","1997",99
+"1946","HUN","Hungary","1996",99
+"1947","HUN","Hungary","1995",99
+"1948","HUN","Hungary","1994",99
+"1949","HUN","Hungary","1993",99
+"1950","HUN","Hungary","1992",99
+"1951","IND","India","2021",84
+"1952","IND","India","2020",85
+"1953","IND","India","2019",92
+"1954","IND","India","2018",92
+"1955","IND","India","2017",92
+"1956","IND","India","2016",89
+"1957","IND","India","2015",87
+"1958","IND","India","2014",89
+"1959","IND","India","2013",91
+"1960","IND","India","2012",90
+"1961","IND","India","2011",90
+"1962","IND","India","2010",89
+"1963","IND","India","2009",88
+"1964","IND","India","2008",86
+"1965","IND","India","2007",87
+"1966","IND","India","2006",86
+"1967","IND","India","2005",86
+"1968","IND","India","2004",80
+"1969","IND","India","2003",77
+"1970","IND","India","2002",75
+"1971","IND","India","2001",75
+"1972","IND","India","2000",74
+"1973","IND","India","1999",74
+"1974","IND","India","1998",73
+"1975","IND","India","1997",72
+"1976","IND","India","1996",79
+"1977","IND","India","1995",81
+"1978","IND","India","1994",71
+"1979","IND","India","1993",69
+"1980","IND","India","1992",65
+"1981","IDN","Indonesia","2021",81
+"1982","IDN","Indonesia","2020",87
+"1983","IDN","Indonesia","2019",90
+"1984","IDN","Indonesia","2018",92
+"1985","IDN","Indonesia","2017",93
+"1986","IDN","Indonesia","2016",90
+"1987","IDN","Indonesia","2015",90
+"1988","IDN","Indonesia","2014",90
+"1989","IDN","Indonesia","2013",90
+"1990","IDN","Indonesia","2012",88
+"1991","IDN","Indonesia","2011",98
+"1992","IDN","Indonesia","2010",88
+"1993","IDN","Indonesia","2009",78
+"1994","IDN","Indonesia","2008",80
+"1995","IDN","Indonesia","2007",83
+"1996","IDN","Indonesia","2006",88
+"1997","IDN","Indonesia","2005",86
+"1998","IDN","Indonesia","2004",85
+"1999","IDN","Indonesia","2003",83
+"2000","IDN","Indonesia","2002",82
+"2001","IDN","Indonesia","2001",80
+"2002","IDN","Indonesia","2000",81
+"2003","IDN","Indonesia","1999",83
+"2004","IDN","Indonesia","1998",84
+"2005","IDN","Indonesia","1997",85
+"2006","IDN","Indonesia","1996",87
+"2007","IDN","Indonesia","1995",77
+"2008","IDN","Indonesia","1994",77
+"2009","IDN","Indonesia","1993",78
+"2010","IDN","Indonesia","1992",76
+"2011","IRN","Iran (Islamic Republic of)","2021",99
+"2012","IRN","Iran (Islamic Republic of)","2020",98
+"2013","IRN","Iran (Islamic Republic of)","2019",99
+"2014","IRN","Iran (Islamic Republic of)","2018",99
+"2015","IRN","Iran (Islamic Republic of)","2017",99
+"2016","IRN","Iran (Islamic Republic of)","2016",99
+"2017","IRN","Iran (Islamic Republic of)","2015",99
+"2018","IRN","Iran (Islamic Republic of)","2014",99
+"2019","IRN","Iran (Islamic Republic of)","2013",99
+"2020","IRN","Iran (Islamic Republic of)","2012",99
+"2021","IRN","Iran (Islamic Republic of)","2011",99
+"2022","IRN","Iran (Islamic Republic of)","2010",99
+"2023","IRN","Iran (Islamic Republic of)","2009",99
+"2024","IRN","Iran (Islamic Republic of)","2008",99
+"2025","IRN","Iran (Islamic Republic of)","2007",99
+"2026","IRN","Iran (Islamic Republic of)","2006",99
+"2027","IRN","Iran (Islamic Republic of)","2005",99
+"2028","IRN","Iran (Islamic Republic of)","2004",99
+"2029","IRN","Iran (Islamic Republic of)","2003",99
+"2030","IRN","Iran (Islamic Republic of)","2002",97
+"2031","IRN","Iran (Islamic Republic of)","2001",91
+"2032","IRN","Iran (Islamic Republic of)","2000",99
+"2033","IRN","Iran (Islamic Republic of)","1999",99
+"2034","IRN","Iran (Islamic Republic of)","1998",99
+"2035","IRN","Iran (Islamic Republic of)","1997",91
+"2036","IRN","Iran (Islamic Republic of)","1996",96
+"2037","IRN","Iran (Islamic Republic of)","1995",96
+"2038","IRN","Iran (Islamic Republic of)","1994",99
+"2039","IRN","Iran (Islamic Republic of)","1993",99
+"2040","IRN","Iran (Islamic Republic of)","1992",99
+"2041","IRQ","Iraq","2021",94
+"2042","IRQ","Iraq","2020",99
+"2043","IRQ","Iraq","2019",98
+"2044","IRQ","Iraq","2018",95
+"2045","IRQ","Iraq","2017",92
+"2046","IRQ","Iraq","2016",87
+"2047","IRQ","Iraq","2015",94
+"2048","IRQ","Iraq","2014",99
+"2049","IRQ","Iraq","2013",99
+"2050","IRQ","Iraq","2012",99
+"2051","IRQ","Iraq","2011",94
+"2052","IRQ","Iraq","2010",90
+"2053","IRQ","Iraq","2009",92
+"2054","IRQ","Iraq","2008",87
+"2055","IRQ","Iraq","2007",92
+"2056","IRQ","Iraq","2006",89
+"2057","IRQ","Iraq","2005",92
+"2058","IRQ","Iraq","2004",94
+"2059","IRQ","Iraq","2003",94
+"2060","IRQ","Iraq","2002",94
+"2061","IRQ","Iraq","2001",93
+"2062","IRQ","Iraq","2000",93
+"2063","IRQ","Iraq","1999",93
+"2064","IRQ","Iraq","1998",94
+"2065","IRQ","Iraq","1997",95
+"2066","IRQ","Iraq","1996",96
+"2067","IRQ","Iraq","1995",97
+"2068","IRQ","Iraq","1994",97
+"2069","IRQ","Iraq","1993",96
+"2070","IRQ","Iraq","1992",96
+"2071","IRL","Ireland","2021",0
+"2072","IRL","Ireland","2020",0
+"2073","IRL","Ireland","2019",0
+"2074","IRL","Ireland","2018",0
+"2075","IRL","Ireland","2017",0
+"2076","IRL","Ireland","2016",18
+"2077","IRL","Ireland","2015",77
+"2078","IRL","Ireland","2014",74
+"2079","IRL","Ireland","2013",76
+"2080","IRL","Ireland","2012",42
+"2081","IRL","Ireland","2011",41
+"2082","IRL","Ireland","2010",30
+"2083","IRL","Ireland","2009",30
+"2084","IRL","Ireland","2008",34
+"2085","IRL","Ireland","2007",33
+"2086","IRL","Ireland","2006",31
+"2087","IRL","Ireland","2005",31
+"2088","IRL","Ireland","2004",30
+"2089","IRL","Ireland","2003",90
+"2090","IRL","Ireland","2002",90
+"2091","IRL","Ireland","2001",89
+"2092","IRL","Ireland","2000",89
+"2093","IRL","Ireland","1999",89
+"2094","IRL","Ireland","1998",89
+"2095","IRL","Ireland","1997",89
+"2096","IRL","Ireland","1996",88
+"2097","IRL","Ireland","1995",87
+"2098","IRL","Ireland","1994",86
+"2099","IRL","Ireland","1993",86
+"2100","IRL","Ireland","1992",85
+"2101","ISR","Israel","2021",NA
+"2102","ISR","Israel","2020",NA
+"2103","ISR","Israel","2019",NA
+"2104","ISR","Israel","2018",NA
+"2105","ISR","Israel","2017",NA
+"2106","ISR","Israel","2016",NA
+"2107","ISR","Israel","2015",NA
+"2108","ISR","Israel","2014",NA
+"2109","ISR","Israel","2013",NA
+"2110","ISR","Israel","2012",NA
+"2111","ISR","Israel","2011",NA
+"2112","ISR","Israel","2010",NA
+"2113","ISR","Israel","2009",NA
+"2114","ISR","Israel","2008",NA
+"2115","ISR","Israel","2007",NA
+"2116","ISR","Israel","2006",NA
+"2117","ISR","Israel","2005",NA
+"2118","ISR","Israel","2004",NA
+"2119","ISR","Israel","2003",NA
+"2120","ISR","Israel","2002",NA
+"2121","ISR","Israel","2001",NA
+"2122","ISR","Israel","2000",NA
+"2123","ISR","Israel","1999",NA
+"2124","ISR","Israel","1998",NA
+"2125","ISR","Israel","1997",NA
+"2126","ISR","Israel","1996",NA
+"2127","ISR","Israel","1995",NA
+"2128","ISR","Israel","1994",NA
+"2129","ISR","Israel","1993",NA
+"2130","ISR","Israel","1992",NA
+"2131","JAM","Jamaica","2021",97
+"2132","JAM","Jamaica","2020",99
+"2133","JAM","Jamaica","2019",97
+"2134","JAM","Jamaica","2018",93
+"2135","JAM","Jamaica","2017",93
+"2136","JAM","Jamaica","2016",96
+"2137","JAM","Jamaica","2015",99
+"2138","JAM","Jamaica","2014",90
+"2139","JAM","Jamaica","2013",93
+"2140","JAM","Jamaica","2012",95
+"2141","JAM","Jamaica","2011",95
+"2142","JAM","Jamaica","2010",95
+"2143","JAM","Jamaica","2009",94
+"2144","JAM","Jamaica","2008",92
+"2145","JAM","Jamaica","2007",87
+"2146","JAM","Jamaica","2006",90
+"2147","JAM","Jamaica","2005",95
+"2148","JAM","Jamaica","2004",90
+"2149","JAM","Jamaica","2003",88
+"2150","JAM","Jamaica","2002",90
+"2151","JAM","Jamaica","2001",96
+"2152","JAM","Jamaica","2000",94
+"2153","JAM","Jamaica","1999",89
+"2154","JAM","Jamaica","1998",85
+"2155","JAM","Jamaica","1997",97
+"2156","JAM","Jamaica","1996",98
+"2157","JAM","Jamaica","1995",98
+"2158","JAM","Jamaica","1994",99
+"2159","JAM","Jamaica","1993",99
+"2160","JAM","Jamaica","1992",85
+"2161","JPN","Japan","2021",95
+"2162","JPN","Japan","2020",95
+"2163","JPN","Japan","2019",97
+"2164","JPN","Japan","2018",99
+"2165","JPN","Japan","2017",93
+"2166","JPN","Japan","2016",98
+"2167","JPN","Japan","2015",84
+"2168","JPN","Japan","2014",93
+"2169","JPN","Japan","2013",93
+"2170","JPN","Japan","2012",95
+"2171","JPN","Japan","2011",94
+"2172","JPN","Japan","2010",99
+"2173","JPN","Japan","2009",94
+"2174","JPN","Japan","2008",90
+"2175","JPN","Japan","2007",94
+"2176","JPN","Japan","2006",NA
+"2177","JPN","Japan","2005",NA
+"2178","JPN","Japan","2004",NA
+"2179","JPN","Japan","2003",NA
+"2180","JPN","Japan","2002",NA
+"2181","JPN","Japan","2001",NA
+"2182","JPN","Japan","2000",NA
+"2183","JPN","Japan","1999",NA
+"2184","JPN","Japan","1998",NA
+"2185","JPN","Japan","1997",NA
+"2186","JPN","Japan","1996",NA
+"2187","JPN","Japan","1995",NA
+"2188","JPN","Japan","1994",NA
+"2189","JPN","Japan","1993",91
+"2190","JPN","Japan","1992",93
+"2191","JOR","Jordan","2021",76
+"2192","JOR","Jordan","2020",76
+"2193","JOR","Jordan","2019",86
+"2194","JOR","Jordan","2018",94
+"2195","JOR","Jordan","2017",99
+"2196","JOR","Jordan","2016",99
+"2197","JOR","Jordan","2015",98
+"2198","JOR","Jordan","2014",95
+"2199","JOR","Jordan","2013",98
+"2200","JOR","Jordan","2012",96
+"2201","JOR","Jordan","2011",95
+"2202","JOR","Jordan","2010",95
+"2203","JOR","Jordan","2009",95
+"2204","JOR","Jordan","2008",95
+"2205","JOR","Jordan","2007",90
+"2206","JOR","Jordan","2006",95
+"2207","JOR","Jordan","2005",89
+"2208","JOR","Jordan","2004",58
+"2209","JOR","Jordan","2003",67
+"2210","JOR","Jordan","2002",29
+"2211","JOR","Jordan","2001",NA
+"2212","JOR","Jordan","2000",NA
+"2213","JOR","Jordan","1999",NA
+"2214","JOR","Jordan","1998",NA
+"2215","JOR","Jordan","1997",NA
+"2216","JOR","Jordan","1996",NA
+"2217","JOR","Jordan","1995",NA
+"2218","JOR","Jordan","1994",NA
+"2219","JOR","Jordan","1993",NA
+"2220","JOR","Jordan","1992",NA
+"2221","KAZ","Kazakhstan","2021",94
+"2222","KAZ","Kazakhstan","2020",93
+"2223","KAZ","Kazakhstan","2019",87
+"2224","KAZ","Kazakhstan","2018",95
+"2225","KAZ","Kazakhstan","2017",95
+"2226","KAZ","Kazakhstan","2016",95
+"2227","KAZ","Kazakhstan","2015",95
+"2228","KAZ","Kazakhstan","2014",95
+"2229","KAZ","Kazakhstan","2013",95
+"2230","KAZ","Kazakhstan","2012",95
+"2231","KAZ","Kazakhstan","2011",96
+"2232","KAZ","Kazakhstan","2010",96
+"2233","KAZ","Kazakhstan","2009",96
+"2234","KAZ","Kazakhstan","2008",97
+"2235","KAZ","Kazakhstan","2007",99
+"2236","KAZ","Kazakhstan","2006",99
+"2237","KAZ","Kazakhstan","2005",69
+"2238","KAZ","Kazakhstan","2004",65
+"2239","KAZ","Kazakhstan","2003",99
+"2240","KAZ","Kazakhstan","2002",99
+"2241","KAZ","Kazakhstan","2001",95
+"2242","KAZ","Kazakhstan","2000",98
+"2243","KAZ","Kazakhstan","1999",99
+"2244","KAZ","Kazakhstan","1998",99
+"2245","KAZ","Kazakhstan","1997",99
+"2246","KAZ","Kazakhstan","1996",93
+"2247","KAZ","Kazakhstan","1995",90
+"2248","KAZ","Kazakhstan","1994",86
+"2249","KAZ","Kazakhstan","1993",93
+"2250","KAZ","Kazakhstan","1992",90
+"2251","KEN","Kenya","2021",97
+"2252","KEN","Kenya","2020",92
+"2253","KEN","Kenya","2019",93
+"2254","KEN","Kenya","2018",95
+"2255","KEN","Kenya","2017",89
+"2256","KEN","Kenya","2016",99
+"2257","KEN","Kenya","2015",87
+"2258","KEN","Kenya","2014",94
+"2259","KEN","Kenya","2013",92
+"2260","KEN","Kenya","2012",97
+"2261","KEN","Kenya","2011",99
+"2262","KEN","Kenya","2010",99
+"2263","KEN","Kenya","2009",99
+"2264","KEN","Kenya","2008",98
+"2265","KEN","Kenya","2007",92
+"2266","KEN","Kenya","2006",92
+"2267","KEN","Kenya","2005",85
+"2268","KEN","Kenya","2004",87
+"2269","KEN","Kenya","2003",87
+"2270","KEN","Kenya","2002",91
+"2271","KEN","Kenya","2001",94
+"2272","KEN","Kenya","2000",91
+"2273","KEN","Kenya","1999",88
+"2274","KEN","Kenya","1998",99
+"2275","KEN","Kenya","1997",96
+"2276","KEN","Kenya","1996",96
+"2277","KEN","Kenya","1995",97
+"2278","KEN","Kenya","1994",97
+"2279","KEN","Kenya","1993",96
+"2280","KEN","Kenya","1992",96
+"2281","KIR","Kiribati","2021",96
+"2282","KIR","Kiribati","2020",93
+"2283","KIR","Kiribati","2019",92
+"2284","KIR","Kiribati","2018",90
+"2285","KIR","Kiribati","2017",89
+"2286","KIR","Kiribati","2016",79
+"2287","KIR","Kiribati","2015",79
+"2288","KIR","Kiribati","2014",72
+"2289","KIR","Kiribati","2013",86
+"2290","KIR","Kiribati","2012",95
+"2291","KIR","Kiribati","2011",86
+"2292","KIR","Kiribati","2010",87
+"2293","KIR","Kiribati","2009",76
+"2294","KIR","Kiribati","2008",83
+"2295","KIR","Kiribati","2007",90
+"2296","KIR","Kiribati","2006",91
+"2297","KIR","Kiribati","2005",93
+"2298","KIR","Kiribati","2004",94
+"2299","KIR","Kiribati","2003",91
+"2300","KIR","Kiribati","2002",88
+"2301","KIR","Kiribati","2001",85
+"2302","KIR","Kiribati","2000",80
+"2303","KIR","Kiribati","1999",70
+"2304","KIR","Kiribati","1998",97
+"2305","KIR","Kiribati","1997",99
+"2306","KIR","Kiribati","1996",99
+"2307","KIR","Kiribati","1995",47
+"2308","KIR","Kiribati","1994",60
+"2309","KIR","Kiribati","1993",87
+"2310","KIR","Kiribati","1992",79
+"2311","KWT","Kuwait","2021",99
+"2312","KWT","Kuwait","2020",98
+"2313","KWT","Kuwait","2019",97
+"2314","KWT","Kuwait","2018",96
+"2315","KWT","Kuwait","2017",99
+"2316","KWT","Kuwait","2016",96
+"2317","KWT","Kuwait","2015",99
+"2318","KWT","Kuwait","2014",99
+"2319","KWT","Kuwait","2013",99
+"2320","KWT","Kuwait","2012",97
+"2321","KWT","Kuwait","2011",99
+"2322","KWT","Kuwait","2010",98
+"2323","KWT","Kuwait","2009",99
+"2324","KWT","Kuwait","2008",99
+"2325","KWT","Kuwait","2007",94
+"2326","KWT","Kuwait","2006",84
+"2327","KWT","Kuwait","2005",NA
+"2328","KWT","Kuwait","2004",NA
+"2329","KWT","Kuwait","2003",NA
+"2330","KWT","Kuwait","2002",NA
+"2331","KWT","Kuwait","2001",NA
+"2332","KWT","Kuwait","2000",NA
+"2333","KWT","Kuwait","1999",NA
+"2334","KWT","Kuwait","1998",NA
+"2335","KWT","Kuwait","1997",NA
+"2336","KWT","Kuwait","1996",NA
+"2337","KWT","Kuwait","1995",NA
+"2338","KWT","Kuwait","1994",NA
+"2339","KWT","Kuwait","1993",NA
+"2340","KWT","Kuwait","1992",NA
+"2341","KGZ","Kyrgyzstan","2021",97
+"2342","KGZ","Kyrgyzstan","2020",96
+"2343","KGZ","Kyrgyzstan","2019",96
+"2344","KGZ","Kyrgyzstan","2018",97
+"2345","KGZ","Kyrgyzstan","2017",97
+"2346","KGZ","Kyrgyzstan","2016",97
+"2347","KGZ","Kyrgyzstan","2015",97
+"2348","KGZ","Kyrgyzstan","2014",97
+"2349","KGZ","Kyrgyzstan","2013",98
+"2350","KGZ","Kyrgyzstan","2012",98
+"2351","KGZ","Kyrgyzstan","2011",98
+"2352","KGZ","Kyrgyzstan","2010",98
+"2353","KGZ","Kyrgyzstan","2009",98
+"2354","KGZ","Kyrgyzstan","2008",99
+"2355","KGZ","Kyrgyzstan","2007",98
+"2356","KGZ","Kyrgyzstan","2006",99
+"2357","KGZ","Kyrgyzstan","2005",96
+"2358","KGZ","Kyrgyzstan","2004",98
+"2359","KGZ","Kyrgyzstan","2003",99
+"2360","KGZ","Kyrgyzstan","2002",99
+"2361","KGZ","Kyrgyzstan","2001",99
+"2362","KGZ","Kyrgyzstan","2000",96
+"2363","KGZ","Kyrgyzstan","1999",99
+"2364","KGZ","Kyrgyzstan","1998",94
+"2365","KGZ","Kyrgyzstan","1997",97
+"2366","KGZ","Kyrgyzstan","1996",99
+"2367","KGZ","Kyrgyzstan","1995",96
+"2368","KGZ","Kyrgyzstan","1994",97
+"2369","KGZ","Kyrgyzstan","1993",95
+"2370","KGZ","Kyrgyzstan","1992",97
+"2371","LAO","Lao People's Democratic Republic","2021",80
+"2372","LAO","Lao People's Democratic Republic","2020",90
+"2373","LAO","Lao People's Democratic Republic","2019",85
+"2374","LAO","Lao People's Democratic Republic","2018",92
+"2375","LAO","Lao People's Democratic Republic","2017",91
+"2376","LAO","Lao People's Democratic Republic","2016",89
+"2377","LAO","Lao People's Democratic Republic","2015",89
+"2378","LAO","Lao People's Democratic Republic","2014",89
+"2379","LAO","Lao People's Democratic Republic","2013",87
+"2380","LAO","Lao People's Democratic Republic","2012",85
+"2381","LAO","Lao People's Democratic Republic","2011",78
+"2382","LAO","Lao People's Democratic Republic","2010",72
+"2383","LAO","Lao People's Democratic Republic","2009",67
+"2384","LAO","Lao People's Democratic Republic","2008",68
+"2385","LAO","Lao People's Democratic Republic","2007",56
+"2386","LAO","Lao People's Democratic Republic","2006",61
+"2387","LAO","Lao People's Democratic Republic","2005",65
+"2388","LAO","Lao People's Democratic Republic","2004",60
+"2389","LAO","Lao People's Democratic Republic","2003",65
+"2390","LAO","Lao People's Democratic Republic","2002",65
+"2391","LAO","Lao People's Democratic Republic","2001",60
+"2392","LAO","Lao People's Democratic Republic","2000",69
+"2393","LAO","Lao People's Democratic Republic","1999",63
+"2394","LAO","Lao People's Democratic Republic","1998",56
+"2395","LAO","Lao People's Democratic Republic","1997",58
+"2396","LAO","Lao People's Democratic Republic","1996",61
+"2397","LAO","Lao People's Democratic Republic","1995",62
+"2398","LAO","Lao People's Democratic Republic","1994",69
+"2399","LAO","Lao People's Democratic Republic","1993",42
+"2400","LAO","Lao People's Democratic Republic","1992",34
+"2401","LVA","Latvia","2021",96
+"2402","LVA","Latvia","2020",99
+"2403","LVA","Latvia","2019",96
+"2404","LVA","Latvia","2018",95
+"2405","LVA","Latvia","2017",96
+"2406","LVA","Latvia","2016",96
+"2407","LVA","Latvia","2015",93
+"2408","LVA","Latvia","2014",92
+"2409","LVA","Latvia","2013",94
+"2410","LVA","Latvia","2012",94
+"2411","LVA","Latvia","2011",93
+"2412","LVA","Latvia","2010",92
+"2413","LVA","Latvia","2009",96
+"2414","LVA","Latvia","2008",95
+"2415","LVA","Latvia","2007",95
+"2416","LVA","Latvia","2006",95
+"2417","LVA","Latvia","2005",97
+"2418","LVA","Latvia","2004",98
+"2419","LVA","Latvia","2003",97
+"2420","LVA","Latvia","2002",99
+"2421","LVA","Latvia","2001",99
+"2422","LVA","Latvia","2000",99
+"2423","LVA","Latvia","1999",99
+"2424","LVA","Latvia","1998",99
+"2425","LVA","Latvia","1997",99
+"2426","LVA","Latvia","1996",99
+"2427","LVA","Latvia","1995",99
+"2428","LVA","Latvia","1994",99
+"2429","LVA","Latvia","1993",91
+"2430","LVA","Latvia","1992",93
+"2431","LSO","Lesotho","2021",96
+"2432","LSO","Lesotho","2020",96
+"2433","LSO","Lesotho","2019",96
+"2434","LSO","Lesotho","2018",96
+"2435","LSO","Lesotho","2017",96
+"2436","LSO","Lesotho","2016",96
+"2437","LSO","Lesotho","2015",95
+"2438","LSO","Lesotho","2014",97
+"2439","LSO","Lesotho","2013",98
+"2440","LSO","Lesotho","2012",93
+"2441","LSO","Lesotho","2011",87
+"2442","LSO","Lesotho","2010",90
+"2443","LSO","Lesotho","2009",92
+"2444","LSO","Lesotho","2008",95
+"2445","LSO","Lesotho","2007",95
+"2446","LSO","Lesotho","2006",95
+"2447","LSO","Lesotho","2005",96
+"2448","LSO","Lesotho","2004",96
+"2449","LSO","Lesotho","2003",96
+"2450","LSO","Lesotho","2002",90
+"2451","LSO","Lesotho","2001",83
+"2452","LSO","Lesotho","2000",88
+"2453","LSO","Lesotho","1999",92
+"2454","LSO","Lesotho","1998",93
+"2455","LSO","Lesotho","1997",94
+"2456","LSO","Lesotho","1996",95
+"2457","LSO","Lesotho","1995",96
+"2458","LSO","Lesotho","1994",95
+"2459","LSO","Lesotho","1993",93
+"2460","LSO","Lesotho","1992",92
+"2461","LBR","Liberia","2021",81
+"2462","LBR","Liberia","2020",85
+"2463","LBR","Liberia","2019",84
+"2464","LBR","Liberia","2018",92
+"2465","LBR","Liberia","2017",87
+"2466","LBR","Liberia","2016",81
+"2467","LBR","Liberia","2015",74
+"2468","LBR","Liberia","2014",73
+"2469","LBR","Liberia","2013",87
+"2470","LBR","Liberia","2012",85
+"2471","LBR","Liberia","2011",85
+"2472","LBR","Liberia","2010",73
+"2473","LBR","Liberia","2009",87
+"2474","LBR","Liberia","2008",85
+"2475","LBR","Liberia","2007",77
+"2476","LBR","Liberia","2006",77
+"2477","LBR","Liberia","2005",76
+"2478","LBR","Liberia","2004",60
+"2479","LBR","Liberia","2003",64
+"2480","LBR","Liberia","2002",69
+"2481","LBR","Liberia","2001",73
+"2482","LBR","Liberia","2000",78
+"2483","LBR","Liberia","1999",82
+"2484","LBR","Liberia","1998",NA
+"2485","LBR","Liberia","1997",NA
+"2486","LBR","Liberia","1996",NA
+"2487","LBR","Liberia","1995",NA
+"2488","LBR","Liberia","1994",NA
+"2489","LBR","Liberia","1993",NA
+"2490","LBR","Liberia","1992",NA
+"2491","LBY","Libya","2021",74
+"2492","LBY","Libya","2020",74
+"2493","LBY","Libya","2019",74
+"2494","LBY","Libya","2018",74
+"2495","LBY","Libya","2017",99
+"2496","LBY","Libya","2016",99
+"2497","LBY","Libya","2015",99
+"2498","LBY","Libya","2014",99
+"2499","LBY","Libya","2013",99
+"2500","LBY","Libya","2012",99
+"2501","LBY","Libya","2011",99
+"2502","LBY","Libya","2010",99
+"2503","LBY","Libya","2009",99
+"2504","LBY","Libya","2008",99
+"2505","LBY","Libya","2007",99
+"2506","LBY","Libya","2006",99
+"2507","LBY","Libya","2005",99
+"2508","LBY","Libya","2004",99
+"2509","LBY","Libya","2003",99
+"2510","LBY","Libya","2002",99
+"2511","LBY","Libya","2001",99
+"2512","LBY","Libya","2000",98
+"2513","LBY","Libya","1999",97
+"2514","LBY","Libya","1998",97
+"2515","LBY","Libya","1997",97
+"2516","LBY","Libya","1996",97
+"2517","LBY","Libya","1995",99
+"2518","LBY","Libya","1994",99
+"2519","LBY","Libya","1993",99
+"2520","LBY","Libya","1992",99
+"2521","LTU","Lithuania","2021",93
+"2522","LTU","Lithuania","2020",96
+"2523","LTU","Lithuania","2019",97
+"2524","LTU","Lithuania","2018",96
+"2525","LTU","Lithuania","2017",97
+"2526","LTU","Lithuania","2016",98
+"2527","LTU","Lithuania","2015",97
+"2528","LTU","Lithuania","2014",98
+"2529","LTU","Lithuania","2013",98
+"2530","LTU","Lithuania","2012",98
+"2531","LTU","Lithuania","2011",98
+"2532","LTU","Lithuania","2010",99
+"2533","LTU","Lithuania","2009",99
+"2534","LTU","Lithuania","2008",99
+"2535","LTU","Lithuania","2007",99
+"2536","LTU","Lithuania","2006",99
+"2537","LTU","Lithuania","2005",99
+"2538","LTU","Lithuania","2004",99
+"2539","LTU","Lithuania","2003",99
+"2540","LTU","Lithuania","2002",99
+"2541","LTU","Lithuania","2001",99
+"2542","LTU","Lithuania","2000",99
+"2543","LTU","Lithuania","1999",99
+"2544","LTU","Lithuania","1998",99
+"2545","LTU","Lithuania","1997",98
+"2546","LTU","Lithuania","1996",98
+"2547","LTU","Lithuania","1995",97
+"2548","LTU","Lithuania","1994",96
+"2549","LTU","Lithuania","1993",98
+"2550","LTU","Lithuania","1992",94
+"2551","MDG","Madagascar","2021",52
+"2552","MDG","Madagascar","2020",75
+"2553","MDG","Madagascar","2019",79
+"2554","MDG","Madagascar","2018",75
+"2555","MDG","Madagascar","2017",74
+"2556","MDG","Madagascar","2016",74
+"2557","MDG","Madagascar","2015",56
+"2558","MDG","Madagascar","2014",64
+"2559","MDG","Madagascar","2013",70
+"2560","MDG","Madagascar","2012",74
+"2561","MDG","Madagascar","2011",82
+"2562","MDG","Madagascar","2010",76
+"2563","MDG","Madagascar","2009",78
+"2564","MDG","Madagascar","2008",83
+"2565","MDG","Madagascar","2007",94
+"2566","MDG","Madagascar","2006",95
+"2567","MDG","Madagascar","2005",92
+"2568","MDG","Madagascar","2004",85
+"2569","MDG","Madagascar","2003",77
+"2570","MDG","Madagascar","2002",73
+"2571","MDG","Madagascar","2001",73
+"2572","MDG","Madagascar","2000",72
+"2573","MDG","Madagascar","1999",72
+"2574","MDG","Madagascar","1998",70
+"2575","MDG","Madagascar","1997",67
+"2576","MDG","Madagascar","1996",67
+"2577","MDG","Madagascar","1995",72
+"2578","MDG","Madagascar","1994",77
+"2579","MDG","Madagascar","1993",77
+"2580","MDG","Madagascar","1992",77
+"2581","MWI","Malawi","2021",89
+"2582","MWI","Malawi","2020",87
+"2583","MWI","Malawi","2019",91
+"2584","MWI","Malawi","2018",92
+"2585","MWI","Malawi","2017",89
+"2586","MWI","Malawi","2016",86
+"2587","MWI","Malawi","2015",90
+"2588","MWI","Malawi","2014",97
+"2589","MWI","Malawi","2013",96
+"2590","MWI","Malawi","2012",99
+"2591","MWI","Malawi","2011",99
+"2592","MWI","Malawi","2010",97
+"2593","MWI","Malawi","2009",95
+"2594","MWI","Malawi","2008",97
+"2595","MWI","Malawi","2007",95
+"2596","MWI","Malawi","2006",99
+"2597","MWI","Malawi","2005",99
+"2598","MWI","Malawi","2004",97
+"2599","MWI","Malawi","2003",91
+"2600","MWI","Malawi","2002",78
+"2601","MWI","Malawi","2001",93
+"2602","MWI","Malawi","2000",83
+"2603","MWI","Malawi","1999",87
+"2604","MWI","Malawi","1998",99
+"2605","MWI","Malawi","1997",99
+"2606","MWI","Malawi","1996",95
+"2607","MWI","Malawi","1995",97
+"2608","MWI","Malawi","1994",94
+"2609","MWI","Malawi","1993",96
+"2610","MWI","Malawi","1992",98
+"2611","MYS","Malaysia","2021",99
+"2612","MYS","Malaysia","2020",99
+"2613","MYS","Malaysia","2019",99
+"2614","MYS","Malaysia","2018",99
+"2615","MYS","Malaysia","2017",98
+"2616","MYS","Malaysia","2016",99
+"2617","MYS","Malaysia","2015",99
+"2618","MYS","Malaysia","2014",99
+"2619","MYS","Malaysia","2013",99
+"2620","MYS","Malaysia","2012",99
+"2621","MYS","Malaysia","2011",99
+"2622","MYS","Malaysia","2010",99
+"2623","MYS","Malaysia","2009",99
+"2624","MYS","Malaysia","2008",99
+"2625","MYS","Malaysia","2007",99
+"2626","MYS","Malaysia","2006",98
+"2627","MYS","Malaysia","2005",98
+"2628","MYS","Malaysia","2004",99
+"2629","MYS","Malaysia","2003",99
+"2630","MYS","Malaysia","2002",98
+"2631","MYS","Malaysia","2001",98
+"2632","MYS","Malaysia","2000",99
+"2633","MYS","Malaysia","1999",99
+"2634","MYS","Malaysia","1998",98
+"2635","MYS","Malaysia","1997",98
+"2636","MYS","Malaysia","1996",98
+"2637","MYS","Malaysia","1995",98
+"2638","MYS","Malaysia","1994",97
+"2639","MYS","Malaysia","1993",98
+"2640","MYS","Malaysia","1992",99
+"2641","MDV","Maldives","2021",99
+"2642","MDV","Maldives","2020",99
+"2643","MDV","Maldives","2019",99
+"2644","MDV","Maldives","2018",99
+"2645","MDV","Maldives","2017",99
+"2646","MDV","Maldives","2016",99
+"2647","MDV","Maldives","2015",99
+"2648","MDV","Maldives","2014",99
+"2649","MDV","Maldives","2013",99
+"2650","MDV","Maldives","2012",99
+"2651","MDV","Maldives","2011",98
+"2652","MDV","Maldives","2010",97
+"2653","MDV","Maldives","2009",99
+"2654","MDV","Maldives","2008",98
+"2655","MDV","Maldives","2007",98
+"2656","MDV","Maldives","2006",99
+"2657","MDV","Maldives","2005",97
+"2658","MDV","Maldives","2004",98
+"2659","MDV","Maldives","2003",98
+"2660","MDV","Maldives","2002",99
+"2661","MDV","Maldives","2001",98
+"2662","MDV","Maldives","2000",99
+"2663","MDV","Maldives","1999",98
+"2664","MDV","Maldives","1998",99
+"2665","MDV","Maldives","1997",99
+"2666","MDV","Maldives","1996",99
+"2667","MDV","Maldives","1995",99
+"2668","MDV","Maldives","1994",98
+"2669","MDV","Maldives","1993",89
+"2670","MDV","Maldives","1992",99
+"2671","MLI","Mali","2021",83
+"2672","MLI","Mali","2020",78
+"2673","MLI","Mali","2019",83
+"2674","MLI","Mali","2018",83
+"2675","MLI","Mali","2017",83
+"2676","MLI","Mali","2016",82
+"2677","MLI","Mali","2015",78
+"2678","MLI","Mali","2014",73
+"2679","MLI","Mali","2013",70
+"2680","MLI","Mali","2012",77
+"2681","MLI","Mali","2011",84
+"2682","MLI","Mali","2010",82
+"2683","MLI","Mali","2009",84
+"2684","MLI","Mali","2008",86
+"2685","MLI","Mali","2007",86
+"2686","MLI","Mali","2006",86
+"2687","MLI","Mali","2005",83
+"2688","MLI","Mali","2004",76
+"2689","MLI","Mali","2003",74
+"2690","MLI","Mali","2002",82
+"2691","MLI","Mali","2001",75
+"2692","MLI","Mali","2000",69
+"2693","MLI","Mali","1999",78
+"2694","MLI","Mali","1998",79
+"2695","MLI","Mali","1997",84
+"2696","MLI","Mali","1996",80
+"2697","MLI","Mali","1995",76
+"2698","MLI","Mali","1994",75
+"2699","MLI","Mali","1993",74
+"2700","MLI","Mali","1992",70
+"2701","MLT","Malta","2021",NA
+"2702","MLT","Malta","2020",NA
+"2703","MLT","Malta","2019",NA
+"2704","MLT","Malta","2018",NA
+"2705","MLT","Malta","2017",NA
+"2706","MLT","Malta","2016",NA
+"2707","MLT","Malta","2015",NA
+"2708","MLT","Malta","2014",NA
+"2709","MLT","Malta","2013",NA
+"2710","MLT","Malta","2012",NA
+"2711","MLT","Malta","2011",NA
+"2712","MLT","Malta","2010",NA
+"2713","MLT","Malta","2009",NA
+"2714","MLT","Malta","2008",NA
+"2715","MLT","Malta","2007",NA
+"2716","MLT","Malta","2006",NA
+"2717","MLT","Malta","2005",NA
+"2718","MLT","Malta","2004",NA
+"2719","MLT","Malta","2003",NA
+"2720","MLT","Malta","2002",NA
+"2721","MLT","Malta","2001",NA
+"2722","MLT","Malta","2000",NA
+"2723","MLT","Malta","1999",NA
+"2724","MLT","Malta","1998",NA
+"2725","MLT","Malta","1997",NA
+"2726","MLT","Malta","1996",96
+"2727","MLT","Malta","1995",92
+"2728","MLT","Malta","1994",77
+"2729","MLT","Malta","1993",77
+"2730","MLT","Malta","1992",79
+"2731","MHL","Marshall Islands","2021",83
+"2732","MHL","Marshall Islands","2020",91
+"2733","MHL","Marshall Islands","2019",89
+"2734","MHL","Marshall Islands","2018",98
+"2735","MHL","Marshall Islands","2017",92
+"2736","MHL","Marshall Islands","2016",94
+"2737","MHL","Marshall Islands","2015",99
+"2738","MHL","Marshall Islands","2014",89
+"2739","MHL","Marshall Islands","2013",93
+"2740","MHL","Marshall Islands","2012",97
+"2741","MHL","Marshall Islands","2011",80
+"2742","MHL","Marshall Islands","2010",99
+"2743","MHL","Marshall Islands","2009",98
+"2744","MHL","Marshall Islands","2008",95
+"2745","MHL","Marshall Islands","2007",92
+"2746","MHL","Marshall Islands","2006",92
+"2747","MHL","Marshall Islands","2005",93
+"2748","MHL","Marshall Islands","2004",91
+"2749","MHL","Marshall Islands","2003",93
+"2750","MHL","Marshall Islands","2002",90
+"2751","MHL","Marshall Islands","2001",99
+"2752","MHL","Marshall Islands","2000",89
+"2753","MHL","Marshall Islands","1999",81
+"2754","MHL","Marshall Islands","1998",81
+"2755","MHL","Marshall Islands","1997",94
+"2756","MHL","Marshall Islands","1996",98
+"2757","MHL","Marshall Islands","1995",71
+"2758","MHL","Marshall Islands","1994",96
+"2759","MHL","Marshall Islands","1993",88
+"2760","MHL","Marshall Islands","1992",72
+"2761","MRT","Mauritania","2021",79
+"2762","MRT","Mauritania","2020",82
+"2763","MRT","Mauritania","2019",90
+"2764","MRT","Mauritania","2018",89
+"2765","MRT","Mauritania","2017",88
+"2766","MRT","Mauritania","2016",86
+"2767","MRT","Mauritania","2015",85
+"2768","MRT","Mauritania","2014",93
+"2769","MRT","Mauritania","2013",95
+"2770","MRT","Mauritania","2012",95
+"2771","MRT","Mauritania","2011",86
+"2772","MRT","Mauritania","2010",85
+"2773","MRT","Mauritania","2009",81
+"2774","MRT","Mauritania","2008",89
+"2775","MRT","Mauritania","2007",92
+"2776","MRT","Mauritania","2006",86
+"2777","MRT","Mauritania","2005",91
+"2778","MRT","Mauritania","2004",94
+"2779","MRT","Mauritania","2003",96
+"2780","MRT","Mauritania","2002",99
+"2781","MRT","Mauritania","2001",95
+"2782","MRT","Mauritania","2000",78
+"2783","MRT","Mauritania","1999",75
+"2784","MRT","Mauritania","1998",77
+"2785","MRT","Mauritania","1997",78
+"2786","MRT","Mauritania","1996",79
+"2787","MRT","Mauritania","1995",80
+"2788","MRT","Mauritania","1994",82
+"2789","MRT","Mauritania","1993",84
+"2790","MRT","Mauritania","1992",81
+"2791","MUS","Mauritius","2021",95
+"2792","MUS","Mauritius","2020",96
+"2793","MUS","Mauritius","2019",99
+"2794","MUS","Mauritius","2018",99
+"2795","MUS","Mauritius","2017",99
+"2796","MUS","Mauritius","2016",98
+"2797","MUS","Mauritius","2015",98
+"2798","MUS","Mauritius","2014",97
+"2799","MUS","Mauritius","2013",99
+"2800","MUS","Mauritius","2012",99
+"2801","MUS","Mauritius","2011",99
+"2802","MUS","Mauritius","2010",99
+"2803","MUS","Mauritius","2009",95
+"2804","MUS","Mauritius","2008",96
+"2805","MUS","Mauritius","2007",98
+"2806","MUS","Mauritius","2006",97
+"2807","MUS","Mauritius","2005",99
+"2808","MUS","Mauritius","2004",99
+"2809","MUS","Mauritius","2003",99
+"2810","MUS","Mauritius","2002",87
+"2811","MUS","Mauritius","2001",89
+"2812","MUS","Mauritius","2000",88
+"2813","MUS","Mauritius","1999",86
+"2814","MUS","Mauritius","1998",87
+"2815","MUS","Mauritius","1997",87
+"2816","MUS","Mauritius","1996",86
+"2817","MUS","Mauritius","1995",86
+"2818","MUS","Mauritius","1994",87
+"2819","MUS","Mauritius","1993",87
+"2820","MUS","Mauritius","1992",87
+"2821","MEX","Mexico","2021",99
+"2822","MEX","Mexico","2020",28
+"2823","MEX","Mexico","2019",76
+"2824","MEX","Mexico","2018",96
+"2825","MEX","Mexico","2017",94
+"2826","MEX","Mexico","2016",99
+"2827","MEX","Mexico","2015",98
+"2828","MEX","Mexico","2014",96
+"2829","MEX","Mexico","2013",91
+"2830","MEX","Mexico","2012",99
+"2831","MEX","Mexico","2011",99
+"2832","MEX","Mexico","2010",98
+"2833","MEX","Mexico","2009",99
+"2834","MEX","Mexico","2008",99
+"2835","MEX","Mexico","2007",99
+"2836","MEX","Mexico","2006",99
+"2837","MEX","Mexico","2005",99
+"2838","MEX","Mexico","2004",99
+"2839","MEX","Mexico","2003",99
+"2840","MEX","Mexico","2002",99
+"2841","MEX","Mexico","2001",99
+"2842","MEX","Mexico","2000",99
+"2843","MEX","Mexico","1999",99
+"2844","MEX","Mexico","1998",99
+"2845","MEX","Mexico","1997",99
+"2846","MEX","Mexico","1996",99
+"2847","MEX","Mexico","1995",98
+"2848","MEX","Mexico","1994",97
+"2849","MEX","Mexico","1993",93
+"2850","MEX","Mexico","1992",94
+"2851","FSM","Micronesia (Federated States of)","2021",59
+"2852","FSM","Micronesia (Federated States of)","2020",84
+"2853","FSM","Micronesia (Federated States of)","2019",77
+"2854","FSM","Micronesia (Federated States of)","2018",80
+"2855","FSM","Micronesia (Federated States of)","2017",83
+"2856","FSM","Micronesia (Federated States of)","2016",85
+"2857","FSM","Micronesia (Federated States of)","2015",76
+"2858","FSM","Micronesia (Federated States of)","2014",73
+"2859","FSM","Micronesia (Federated States of)","2013",70
+"2860","FSM","Micronesia (Federated States of)","2012",78
+"2861","FSM","Micronesia (Federated States of)","2011",75
+"2862","FSM","Micronesia (Federated States of)","2010",70
+"2863","FSM","Micronesia (Federated States of)","2009",75
+"2864","FSM","Micronesia (Federated States of)","2008",79
+"2865","FSM","Micronesia (Federated States of)","2007",82
+"2866","FSM","Micronesia (Federated States of)","2006",55
+"2867","FSM","Micronesia (Federated States of)","2005",70
+"2868","FSM","Micronesia (Federated States of)","2004",62
+"2869","FSM","Micronesia (Federated States of)","2003",64
+"2870","FSM","Micronesia (Federated States of)","2002",52
+"2871","FSM","Micronesia (Federated States of)","2001",39
+"2872","FSM","Micronesia (Federated States of)","2000",24
+"2873","FSM","Micronesia (Federated States of)","1999",39
+"2874","FSM","Micronesia (Federated States of)","1998",52
+"2875","FSM","Micronesia (Federated States of)","1997",48
+"2876","FSM","Micronesia (Federated States of)","1996",49
+"2877","FSM","Micronesia (Federated States of)","1995",50
+"2878","FSM","Micronesia (Federated States of)","1994",50
+"2879","FSM","Micronesia (Federated States of)","1993",50
+"2880","FSM","Micronesia (Federated States of)","1992",50
+"2881","MCO","Monaco","2021",NA
+"2882","MCO","Monaco","2020",NA
+"2883","MCO","Monaco","2019",NA
+"2884","MCO","Monaco","2018",NA
+"2885","MCO","Monaco","2017",NA
+"2886","MCO","Monaco","2016",NA
+"2887","MCO","Monaco","2015",NA
+"2888","MCO","Monaco","2014",NA
+"2889","MCO","Monaco","2013",NA
+"2890","MCO","Monaco","2012",89
+"2891","MCO","Monaco","2011",89
+"2892","MCO","Monaco","2010",89
+"2893","MCO","Monaco","2009",89
+"2894","MCO","Monaco","2008",89
+"2895","MCO","Monaco","2007",89
+"2896","MCO","Monaco","2006",89
+"2897","MCO","Monaco","2005",89
+"2898","MCO","Monaco","2004",89
+"2899","MCO","Monaco","2003",89
+"2900","MCO","Monaco","2002",92
+"2901","MCO","Monaco","2001",94
+"2902","MCO","Monaco","2000",97
+"2903","MCO","Monaco","1999",99
+"2904","MCO","Monaco","1998",99
+"2905","MCO","Monaco","1997",95
+"2906","MCO","Monaco","1996",93
+"2907","MCO","Monaco","1995",90
+"2908","MCO","Monaco","1994",90
+"2909","MCO","Monaco","1993",94
+"2910","MCO","Monaco","1992",98
+"2911","MNG","Mongolia","2021",99
+"2912","MNG","Mongolia","2020",99
+"2913","MNG","Mongolia","2019",99
+"2914","MNG","Mongolia","2018",99
+"2915","MNG","Mongolia","2017",99
+"2916","MNG","Mongolia","2016",99
+"2917","MNG","Mongolia","2015",99
+"2918","MNG","Mongolia","2014",99
+"2919","MNG","Mongolia","2013",99
+"2920","MNG","Mongolia","2012",99
+"2921","MNG","Mongolia","2011",99
+"2922","MNG","Mongolia","2010",99
+"2923","MNG","Mongolia","2009",98
+"2924","MNG","Mongolia","2008",98
+"2925","MNG","Mongolia","2007",99
+"2926","MNG","Mongolia","2006",98
+"2927","MNG","Mongolia","2005",99
+"2928","MNG","Mongolia","2004",98
+"2929","MNG","Mongolia","2003",98
+"2930","MNG","Mongolia","2002",98
+"2931","MNG","Mongolia","2001",98
+"2932","MNG","Mongolia","2000",97
+"2933","MNG","Mongolia","1999",97
+"2934","MNG","Mongolia","1998",95
+"2935","MNG","Mongolia","1997",96
+"2936","MNG","Mongolia","1996",90
+"2937","MNG","Mongolia","1995",94
+"2938","MNG","Mongolia","1994",90
+"2939","MNG","Mongolia","1993",84
+"2940","MNG","Mongolia","1992",83
+"2941","MNE","Montenegro","2021",76
+"2942","MNE","Montenegro","2020",67
+"2943","MNE","Montenegro","2019",80
+"2944","MNE","Montenegro","2018",93
+"2945","MNE","Montenegro","2017",83
+"2946","MNE","Montenegro","2016",85
+"2947","MNE","Montenegro","2015",88
+"2948","MNE","Montenegro","2014",91
+"2949","MNE","Montenegro","2013",93
+"2950","MNE","Montenegro","2012",95
+"2951","MNE","Montenegro","2011",97
+"2952","MNE","Montenegro","2010",95
+"2953","MNE","Montenegro","2009",95
+"2954","MNE","Montenegro","2008",98
+"2955","MNE","Montenegro","2007",98
+"2956","MNE","Montenegro","2006",98
+"2957","MNE","Montenegro","2005",NA
+"2958","MNE","Montenegro","2004",NA
+"2959","MNE","Montenegro","2003",NA
+"2960","MNE","Montenegro","2002",NA
+"2961","MNE","Montenegro","2001",NA
+"2962","MNE","Montenegro","2000",NA
+"2963","MNE","Montenegro","1999",NA
+"2964","MNE","Montenegro","1998",NA
+"2965","MNE","Montenegro","1997",NA
+"2966","MNE","Montenegro","1996",NA
+"2967","MNE","Montenegro","1995",NA
+"2968","MNE","Montenegro","1994",NA
+"2969","MNE","Montenegro","1993",NA
+"2970","MNE","Montenegro","1992",NA
+"2971","MAR","Morocco","2021",99
+"2972","MAR","Morocco","2020",99
+"2973","MAR","Morocco","2019",99
+"2974","MAR","Morocco","2018",99
+"2975","MAR","Morocco","2017",99
+"2976","MAR","Morocco","2016",99
+"2977","MAR","Morocco","2015",99
+"2978","MAR","Morocco","2014",99
+"2979","MAR","Morocco","2013",99
+"2980","MAR","Morocco","2012",99
+"2981","MAR","Morocco","2011",99
+"2982","MAR","Morocco","2010",99
+"2983","MAR","Morocco","2009",99
+"2984","MAR","Morocco","2008",99
+"2985","MAR","Morocco","2007",96
+"2986","MAR","Morocco","2006",95
+"2987","MAR","Morocco","2005",95
+"2988","MAR","Morocco","2004",95
+"2989","MAR","Morocco","2003",92
+"2990","MAR","Morocco","2002",92
+"2991","MAR","Morocco","2001",93
+"2992","MAR","Morocco","2000",97
+"2993","MAR","Morocco","1999",93
+"2994","MAR","Morocco","1998",90
+"2995","MAR","Morocco","1997",94
+"2996","MAR","Morocco","1996",96
+"2997","MAR","Morocco","1995",96
+"2998","MAR","Morocco","1994",97
+"2999","MAR","Morocco","1993",99
+"3000","MAR","Morocco","1992",97
+"3001","MOZ","Mozambique","2021",79
+"3002","MOZ","Mozambique","2020",91
+"3003","MOZ","Mozambique","2019",93
+"3004","MOZ","Mozambique","2018",93
+"3005","MOZ","Mozambique","2017",94
+"3006","MOZ","Mozambique","2016",94
+"3007","MOZ","Mozambique","2015",94
+"3008","MOZ","Mozambique","2014",94
+"3009","MOZ","Mozambique","2013",93
+"3010","MOZ","Mozambique","2012",92
+"3011","MOZ","Mozambique","2011",91
+"3012","MOZ","Mozambique","2010",90
+"3013","MOZ","Mozambique","2009",90
+"3014","MOZ","Mozambique","2008",90
+"3015","MOZ","Mozambique","2007",90
+"3016","MOZ","Mozambique","2006",90
+"3017","MOZ","Mozambique","2005",90
+"3018","MOZ","Mozambique","2004",90
+"3019","MOZ","Mozambique","2003",90
+"3020","MOZ","Mozambique","2002",87
+"3021","MOZ","Mozambique","2001",86
+"3022","MOZ","Mozambique","2000",84
+"3023","MOZ","Mozambique","1999",83
+"3024","MOZ","Mozambique","1998",81
+"3025","MOZ","Mozambique","1997",80
+"3026","MOZ","Mozambique","1996",78
+"3027","MOZ","Mozambique","1995",78
+"3028","MOZ","Mozambique","1994",78
+"3029","MOZ","Mozambique","1993",66
+"3030","MOZ","Mozambique","1992",64
+"3031","MMR","Myanmar","2021",48
+"3032","MMR","Myanmar","2020",87
+"3033","MMR","Myanmar","2019",91
+"3034","MMR","Myanmar","2018",90
+"3035","MMR","Myanmar","2017",91
+"3036","MMR","Myanmar","2016",88
+"3037","MMR","Myanmar","2015",94
+"3038","MMR","Myanmar","2014",92
+"3039","MMR","Myanmar","2013",86
+"3040","MMR","Myanmar","2012",87
+"3041","MMR","Myanmar","2011",93
+"3042","MMR","Myanmar","2010",93
+"3043","MMR","Myanmar","2009",93
+"3044","MMR","Myanmar","2008",88
+"3045","MMR","Myanmar","2007",89
+"3046","MMR","Myanmar","2006",85
+"3047","MMR","Myanmar","2005",76
+"3048","MMR","Myanmar","2004",85
+"3049","MMR","Myanmar","2003",80
+"3050","MMR","Myanmar","2002",82
+"3051","MMR","Myanmar","2001",75
+"3052","MMR","Myanmar","2000",88
+"3053","MMR","Myanmar","1999",90
+"3054","MMR","Myanmar","1998",95
+"3055","MMR","Myanmar","1997",94
+"3056","MMR","Myanmar","1996",92
+"3057","MMR","Myanmar","1995",90
+"3058","MMR","Myanmar","1994",83
+"3059","MMR","Myanmar","1993",80
+"3060","MMR","Myanmar","1992",77
+"3061","NAM","Namibia","2021",99
+"3062","NAM","Namibia","2020",99
+"3063","NAM","Namibia","2019",98
+"3064","NAM","Namibia","2018",96
+"3065","NAM","Namibia","2017",94
+"3066","NAM","Namibia","2016",89
+"3067","NAM","Namibia","2015",94
+"3068","NAM","Namibia","2014",97
+"3069","NAM","Namibia","2013",94
+"3070","NAM","Namibia","2012",90
+"3071","NAM","Namibia","2011",89
+"3072","NAM","Namibia","2010",88
+"3073","NAM","Namibia","2009",85
+"3074","NAM","Namibia","2008",88
+"3075","NAM","Namibia","2007",95
+"3076","NAM","Namibia","2006",88
+"3077","NAM","Namibia","2005",95
+"3078","NAM","Namibia","2004",94
+"3079","NAM","Namibia","2003",92
+"3080","NAM","Namibia","2002",81
+"3081","NAM","Namibia","2001",69
+"3082","NAM","Namibia","2000",77
+"3083","NAM","Namibia","1999",80
+"3084","NAM","Namibia","1998",85
+"3085","NAM","Namibia","1997",65
+"3086","NAM","Namibia","1996",79
+"3087","NAM","Namibia","1995",92
+"3088","NAM","Namibia","1994",99
+"3089","NAM","Namibia","1993",92
+"3090","NAM","Namibia","1992",92
+"3091","NRU","Nauru","2021",99
+"3092","NRU","Nauru","2020",99
+"3093","NRU","Nauru","2019",99
+"3094","NRU","Nauru","2018",99
+"3095","NRU","Nauru","2017",99
+"3096","NRU","Nauru","2016",99
+"3097","NRU","Nauru","2015",99
+"3098","NRU","Nauru","2014",99
+"3099","NRU","Nauru","2013",99
+"3100","NRU","Nauru","2012",99
+"3101","NRU","Nauru","2011",99
+"3102","NRU","Nauru","2010",99
+"3103","NRU","Nauru","2009",99
+"3104","NRU","Nauru","2008",99
+"3105","NRU","Nauru","2007",99
+"3106","NRU","Nauru","2006",99
+"3107","NRU","Nauru","2005",90
+"3108","NRU","Nauru","2004",93
+"3109","NRU","Nauru","2003",97
+"3110","NRU","Nauru","2002",99
+"3111","NRU","Nauru","2001",99
+"3112","NRU","Nauru","2000",93
+"3113","NRU","Nauru","1999",95
+"3114","NRU","Nauru","1998",89
+"3115","NRU","Nauru","1997",78
+"3116","NRU","Nauru","1996",78
+"3117","NRU","Nauru","1995",78
+"3118","NRU","Nauru","1994",81
+"3119","NRU","Nauru","1993",84
+"3120","NRU","Nauru","1992",86
+"3121","NPL","Nepal","2021",95
+"3122","NPL","Nepal","2020",92
+"3123","NPL","Nepal","2019",96
+"3124","NPL","Nepal","2018",96
+"3125","NPL","Nepal","2017",95
+"3126","NPL","Nepal","2016",93
+"3127","NPL","Nepal","2015",94
+"3128","NPL","Nepal","2014",99
+"3129","NPL","Nepal","2013",97
+"3130","NPL","Nepal","2012",96
+"3131","NPL","Nepal","2011",97
+"3132","NPL","Nepal","2010",94
+"3133","NPL","Nepal","2009",94
+"3134","NPL","Nepal","2008",87
+"3135","NPL","Nepal","2007",89
+"3136","NPL","Nepal","2006",93
+"3137","NPL","Nepal","2005",87
+"3138","NPL","Nepal","2004",85
+"3139","NPL","Nepal","2003",91
+"3140","NPL","Nepal","2002",85
+"3141","NPL","Nepal","2001",84
+"3142","NPL","Nepal","2000",84
+"3143","NPL","Nepal","1999",93
+"3144","NPL","Nepal","1998",81
+"3145","NPL","Nepal","1997",86
+"3146","NPL","Nepal","1996",81
+"3147","NPL","Nepal","1995",76
+"3148","NPL","Nepal","1994",76
+"3149","NPL","Nepal","1993",75
+"3150","NPL","Nepal","1992",75
+"3151","NIC","Nicaragua","2021",86
+"3152","NIC","Nicaragua","2020",93
+"3153","NIC","Nicaragua","2019",99
+"3154","NIC","Nicaragua","2018",99
+"3155","NIC","Nicaragua","2017",99
+"3156","NIC","Nicaragua","2016",99
+"3157","NIC","Nicaragua","2015",99
+"3158","NIC","Nicaragua","2014",99
+"3159","NIC","Nicaragua","2013",99
+"3160","NIC","Nicaragua","2012",99
+"3161","NIC","Nicaragua","2011",99
+"3162","NIC","Nicaragua","2010",99
+"3163","NIC","Nicaragua","2009",99
+"3164","NIC","Nicaragua","2008",99
+"3165","NIC","Nicaragua","2007",98
+"3166","NIC","Nicaragua","2006",98
+"3167","NIC","Nicaragua","2005",88
+"3168","NIC","Nicaragua","2004",88
+"3169","NIC","Nicaragua","2003",94
+"3170","NIC","Nicaragua","2002",93
+"3171","NIC","Nicaragua","2001",97
+"3172","NIC","Nicaragua","2000",96
+"3173","NIC","Nicaragua","1999",99
+"3174","NIC","Nicaragua","1998",92
+"3175","NIC","Nicaragua","1997",95
+"3176","NIC","Nicaragua","1996",94
+"3177","NIC","Nicaragua","1995",93
+"3178","NIC","Nicaragua","1994",92
+"3179","NIC","Nicaragua","1993",91
+"3180","NIC","Nicaragua","1992",91
+"3181","NER","Niger","2021",95
+"3182","NER","Niger","2020",94
+"3183","NER","Niger","2019",70
+"3184","NER","Niger","2018",87
+"3185","NER","Niger","2017",92
+"3186","NER","Niger","2016",91
+"3187","NER","Niger","2015",94
+"3188","NER","Niger","2014",87
+"3189","NER","Niger","2013",43
+"3190","NER","Niger","2012",85
+"3191","NER","Niger","2011",53
+"3192","NER","Niger","2010",81
+"3193","NER","Niger","2009",86
+"3194","NER","Niger","2008",78
+"3195","NER","Niger","2007",73
+"3196","NER","Niger","2006",69
+"3197","NER","Niger","2005",64
+"3198","NER","Niger","2004",61
+"3199","NER","Niger","2003",58
+"3200","NER","Niger","2002",56
+"3201","NER","Niger","2001",53
+"3202","NER","Niger","2000",50
+"3203","NER","Niger","1999",47
+"3204","NER","Niger","1998",48
+"3205","NER","Niger","1997",48
+"3206","NER","Niger","1996",53
+"3207","NER","Niger","1995",53
+"3208","NER","Niger","1994",32
+"3209","NER","Niger","1993",34
+"3210","NER","Niger","1992",38
+"3211","NGA","Nigeria","2021",75
+"3212","NGA","Nigeria","2020",75
+"3213","NGA","Nigeria","2019",72
+"3214","NGA","Nigeria","2018",70
+"3215","NGA","Nigeria","2017",67
+"3216","NGA","Nigeria","2016",64
+"3217","NGA","Nigeria","2015",53
+"3218","NGA","Nigeria","2014",51
+"3219","NGA","Nigeria","2013",51
+"3220","NGA","Nigeria","2012",51
+"3221","NGA","Nigeria","2011",57
+"3222","NGA","Nigeria","2010",62
+"3223","NGA","Nigeria","2009",76
+"3224","NGA","Nigeria","2008",65
+"3225","NGA","Nigeria","2007",53
+"3226","NGA","Nigeria","2006",52
+"3227","NGA","Nigeria","2005",49
+"3228","NGA","Nigeria","2004",45
+"3229","NGA","Nigeria","2003",42
+"3230","NGA","Nigeria","2002",38
+"3231","NGA","Nigeria","2001",41
+"3232","NGA","Nigeria","2000",44
+"3233","NGA","Nigeria","1999",46
+"3234","NGA","Nigeria","1998",49
+"3235","NGA","Nigeria","1997",29
+"3236","NGA","Nigeria","1996",43
+"3237","NGA","Nigeria","1995",42
+"3238","NGA","Nigeria","1994",55
+"3239","NGA","Nigeria","1993",52
+"3240","NGA","Nigeria","1992",57
+"3241","NIU","Niue","2021",88
+"3242","NIU","Niue","2020",94
+"3243","NIU","Niue","2019",99
+"3244","NIU","Niue","2018",99
+"3245","NIU","Niue","2017",99
+"3246","NIU","Niue","2016",92
+"3247","NIU","Niue","2015",99
+"3248","NIU","Niue","2014",99
+"3249","NIU","Niue","2013",99
+"3250","NIU","Niue","2012",99
+"3251","NIU","Niue","2011",99
+"3252","NIU","Niue","2010",99
+"3253","NIU","Niue","2009",99
+"3254","NIU","Niue","2008",99
+"3255","NIU","Niue","2007",99
+"3256","NIU","Niue","2006",99
+"3257","NIU","Niue","2005",97
+"3258","NIU","Niue","2004",96
+"3259","NIU","Niue","2003",99
+"3260","NIU","Niue","2002",99
+"3261","NIU","Niue","2001",99
+"3262","NIU","Niue","2000",99
+"3263","NIU","Niue","1999",99
+"3264","NIU","Niue","1998",99
+"3265","NIU","Niue","1997",99
+"3266","NIU","Niue","1996",99
+"3267","NIU","Niue","1995",92
+"3268","NIU","Niue","1994",99
+"3269","NIU","Niue","1993",99
+"3270","NIU","Niue","1992",99
+"3271","OMN","Oman","2021",99
+"3272","OMN","Oman","2020",99
+"3273","OMN","Oman","2019",99
+"3274","OMN","Oman","2018",99
+"3275","OMN","Oman","2017",99
+"3276","OMN","Oman","2016",99
+"3277","OMN","Oman","2015",99
+"3278","OMN","Oman","2014",99
+"3279","OMN","Oman","2013",99
+"3280","OMN","Oman","2012",99
+"3281","OMN","Oman","2011",99
+"3282","OMN","Oman","2010",99
+"3283","OMN","Oman","2009",99
+"3284","OMN","Oman","2008",99
+"3285","OMN","Oman","2007",99
+"3286","OMN","Oman","2006",99
+"3287","OMN","Oman","2005",98
+"3288","OMN","Oman","2004",99
+"3289","OMN","Oman","2003",98
+"3290","OMN","Oman","2002",98
+"3291","OMN","Oman","2001",98
+"3292","OMN","Oman","2000",98
+"3293","OMN","Oman","1999",98
+"3294","OMN","Oman","1998",96
+"3295","OMN","Oman","1997",96
+"3296","OMN","Oman","1996",96
+"3297","OMN","Oman","1995",96
+"3298","OMN","Oman","1994",96
+"3299","OMN","Oman","1993",95
+"3300","OMN","Oman","1992",96
+"3301","PAK","Pakistan","2021",93
+"3302","PAK","Pakistan","2020",91
+"3303","PAK","Pakistan","2019",93
+"3304","PAK","Pakistan","2018",90
+"3305","PAK","Pakistan","2017",86
+"3306","PAK","Pakistan","2016",86
+"3307","PAK","Pakistan","2015",86
+"3308","PAK","Pakistan","2014",85
+"3309","PAK","Pakistan","2013",84
+"3310","PAK","Pakistan","2012",84
+"3311","PAK","Pakistan","2011",83
+"3312","PAK","Pakistan","2010",74
+"3313","PAK","Pakistan","2009",74
+"3314","PAK","Pakistan","2008",75
+"3315","PAK","Pakistan","2007",77
+"3316","PAK","Pakistan","2006",77
+"3317","PAK","Pakistan","2005",78
+"3318","PAK","Pakistan","2004",78
+"3319","PAK","Pakistan","2003",80
+"3320","PAK","Pakistan","2002",82
+"3321","PAK","Pakistan","2001",78
+"3322","PAK","Pakistan","2000",74
+"3323","PAK","Pakistan","1999",70
+"3324","PAK","Pakistan","1998",66
+"3325","PAK","Pakistan","1997",62
+"3326","PAK","Pakistan","1996",59
+"3327","PAK","Pakistan","1995",73
+"3328","PAK","Pakistan","1994",75
+"3329","PAK","Pakistan","1993",77
+"3330","PAK","Pakistan","1992",80
+"3331","PAN","Panama","2021",99
+"3332","PAN","Panama","2020",99
+"3333","PAN","Panama","2019",99
+"3334","PAN","Panama","2018",99
+"3335","PAN","Panama","2017",99
+"3336","PAN","Panama","2016",99
+"3337","PAN","Panama","2015",99
+"3338","PAN","Panama","2014",99
+"3339","PAN","Panama","2013",95
+"3340","PAN","Panama","2012",98
+"3341","PAN","Panama","2011",99
+"3342","PAN","Panama","2010",99
+"3343","PAN","Panama","2009",99
+"3344","PAN","Panama","2008",98
+"3345","PAN","Panama","2007",97
+"3346","PAN","Panama","2006",98
+"3347","PAN","Panama","2005",99
+"3348","PAN","Panama","2004",99
+"3349","PAN","Panama","2003",99
+"3350","PAN","Panama","2002",99
+"3351","PAN","Panama","2001",99
+"3352","PAN","Panama","2000",99
+"3353","PAN","Panama","1999",99
+"3354","PAN","Panama","1998",99
+"3355","PAN","Panama","1997",99
+"3356","PAN","Panama","1996",99
+"3357","PAN","Panama","1995",99
+"3358","PAN","Panama","1994",95
+"3359","PAN","Panama","1993",92
+"3360","PAN","Panama","1992",84
+"3361","PNG","Papua New Guinea","2021",42
+"3362","PNG","Papua New Guinea","2020",52
+"3363","PNG","Papua New Guinea","2019",52
+"3364","PNG","Papua New Guinea","2018",52
+"3365","PNG","Papua New Guinea","2017",62
+"3366","PNG","Papua New Guinea","2016",72
+"3367","PNG","Papua New Guinea","2015",67
+"3368","PNG","Papua New Guinea","2014",84
+"3369","PNG","Papua New Guinea","2013",93
+"3370","PNG","Papua New Guinea","2012",91
+"3371","PNG","Papua New Guinea","2011",91
+"3372","PNG","Papua New Guinea","2010",88
+"3373","PNG","Papua New Guinea","2009",89
+"3374","PNG","Papua New Guinea","2008",80
+"3375","PNG","Papua New Guinea","2007",81
+"3376","PNG","Papua New Guinea","2006",90
+"3377","PNG","Papua New Guinea","2005",90
+"3378","PNG","Papua New Guinea","2004",89
+"3379","PNG","Papua New Guinea","2003",89
+"3380","PNG","Papua New Guinea","2002",84
+"3381","PNG","Papua New Guinea","2001",81
+"3382","PNG","Papua New Guinea","2000",88
+"3383","PNG","Papua New Guinea","1999",82
+"3384","PNG","Papua New Guinea","1998",86
+"3385","PNG","Papua New Guinea","1997",88
+"3386","PNG","Papua New Guinea","1996",80
+"3387","PNG","Papua New Guinea","1995",91
+"3388","PNG","Papua New Guinea","1994",85
+"3389","PNG","Papua New Guinea","1993",94
+"3390","PNG","Papua New Guinea","1992",82
+"3391","PRY","Paraguay","2021",79
+"3392","PRY","Paraguay","2020",84
+"3393","PRY","Paraguay","2019",87
+"3394","PRY","Paraguay","2018",91
+"3395","PRY","Paraguay","2017",96
+"3396","PRY","Paraguay","2016",94
+"3397","PRY","Paraguay","2015",96
+"3398","PRY","Paraguay","2014",96
+"3399","PRY","Paraguay","2013",91
+"3400","PRY","Paraguay","2012",93
+"3401","PRY","Paraguay","2011",94
+"3402","PRY","Paraguay","2010",93
+"3403","PRY","Paraguay","2009",91
+"3404","PRY","Paraguay","2008",94
+"3405","PRY","Paraguay","2007",98
+"3406","PRY","Paraguay","2006",99
+"3407","PRY","Paraguay","2005",98
+"3408","PRY","Paraguay","2004",97
+"3409","PRY","Paraguay","2003",88
+"3410","PRY","Paraguay","2002",83
+"3411","PRY","Paraguay","2001",86
+"3412","PRY","Paraguay","2000",85
+"3413","PRY","Paraguay","1999",85
+"3414","PRY","Paraguay","1998",84
+"3415","PRY","Paraguay","1997",83
+"3416","PRY","Paraguay","1996",83
+"3417","PRY","Paraguay","1995",82
+"3418","PRY","Paraguay","1994",82
+"3419","PRY","Paraguay","1993",80
+"3420","PRY","Paraguay","1992",84
+"3421","PER","Peru","2021",87
+"3422","PER","Peru","2020",87
+"3423","PER","Peru","2019",94
+"3424","PER","Peru","2018",81
+"3425","PER","Peru","2017",84
+"3426","PER","Peru","2016",90
+"3427","PER","Peru","2015",91
+"3428","PER","Peru","2014",94
+"3429","PER","Peru","2013",95
+"3430","PER","Peru","2012",95
+"3431","PER","Peru","2011",91
+"3432","PER","Peru","2010",95
+"3433","PER","Peru","2009",97
+"3434","PER","Peru","2008",97
+"3435","PER","Peru","2007",96
+"3436","PER","Peru","2006",96
+"3437","PER","Peru","2005",95
+"3438","PER","Peru","2004",95
+"3439","PER","Peru","2003",94
+"3440","PER","Peru","2002",92
+"3441","PER","Peru","2001",87
+"3442","PER","Peru","2000",93
+"3443","PER","Peru","1999",97
+"3444","PER","Peru","1998",96
+"3445","PER","Peru","1997",98
+"3446","PER","Peru","1996",99
+"3447","PER","Peru","1995",94
+"3448","PER","Peru","1994",91
+"3449","PER","Peru","1993",87
+"3450","PER","Peru","1992",85
+"3451","PHL","Philippines","2021",47
+"3452","PHL","Philippines","2020",64
+"3453","PHL","Philippines","2019",70
+"3454","PHL","Philippines","2018",77
+"3455","PHL","Philippines","2017",83
+"3456","PHL","Philippines","2016",90
+"3457","PHL","Philippines","2015",85
+"3458","PHL","Philippines","2014",88
+"3459","PHL","Philippines","2013",92
+"3460","PHL","Philippines","2012",95
+"3461","PHL","Philippines","2011",94
+"3462","PHL","Philippines","2010",93
+"3463","PHL","Philippines","2009",92
+"3464","PHL","Philippines","2008",91
+"3465","PHL","Philippines","2007",90
+"3466","PHL","Philippines","2006",91
+"3467","PHL","Philippines","2005",91
+"3468","PHL","Philippines","2004",91
+"3469","PHL","Philippines","2003",86
+"3470","PHL","Philippines","2002",85
+"3471","PHL","Philippines","2001",92
+"3472","PHL","Philippines","2000",92
+"3473","PHL","Philippines","1999",92
+"3474","PHL","Philippines","1998",92
+"3475","PHL","Philippines","1997",91
+"3476","PHL","Philippines","1996",86
+"3477","PHL","Philippines","1995",82
+"3478","PHL","Philippines","1994",86
+"3479","PHL","Philippines","1993",91
+"3480","PHL","Philippines","1992",94
+"3481","POL","Poland","2021",91
+"3482","POL","Poland","2020",91
+"3483","POL","Poland","2019",92
+"3484","POL","Poland","2018",92
+"3485","POL","Poland","2017",92
+"3486","POL","Poland","2016",93
+"3487","POL","Poland","2015",94
+"3488","POL","Poland","2014",92
+"3489","POL","Poland","2013",93
+"3490","POL","Poland","2012",94
+"3491","POL","Poland","2011",94
+"3492","POL","Poland","2010",93
+"3493","POL","Poland","2009",94
+"3494","POL","Poland","2008",93
+"3495","POL","Poland","2007",93
+"3496","POL","Poland","2006",94
+"3497","POL","Poland","2005",94
+"3498","POL","Poland","2004",94
+"3499","POL","Poland","2003",93
+"3500","POL","Poland","2002",95
+"3501","POL","Poland","2001",95
+"3502","POL","Poland","2000",96
+"3503","POL","Poland","1999",96
+"3504","POL","Poland","1998",96
+"3505","POL","Poland","1997",96
+"3506","POL","Poland","1996",97
+"3507","POL","Poland","1995",98
+"3508","POL","Poland","1994",94
+"3509","POL","Poland","1993",95
+"3510","POL","Poland","1992",95
+"3511","PRT","Portugal","2021",NA
+"3512","PRT","Portugal","2020",NA
+"3513","PRT","Portugal","2019",NA
+"3514","PRT","Portugal","2018",NA
+"3515","PRT","Portugal","2017",NA
+"3516","PRT","Portugal","2016",NA
+"3517","PRT","Portugal","2015",32
+"3518","PRT","Portugal","2014",99
+"3519","PRT","Portugal","2013",99
+"3520","PRT","Portugal","2012",99
+"3521","PRT","Portugal","2011",97
+"3522","PRT","Portugal","2010",96
+"3523","PRT","Portugal","2009",98
+"3524","PRT","Portugal","2008",98
+"3525","PRT","Portugal","2007",98
+"3526","PRT","Portugal","2006",99
+"3527","PRT","Portugal","2005",89
+"3528","PRT","Portugal","2004",83
+"3529","PRT","Portugal","2003",81
+"3530","PRT","Portugal","2002",81
+"3531","PRT","Portugal","2001",82
+"3532","PRT","Portugal","2000",82
+"3533","PRT","Portugal","1999",85
+"3534","PRT","Portugal","1998",88
+"3535","PRT","Portugal","1997",87
+"3536","PRT","Portugal","1996",87
+"3537","PRT","Portugal","1995",94
+"3538","PRT","Portugal","1994",87
+"3539","PRT","Portugal","1993",91
+"3540","PRT","Portugal","1992",92
+"3541","QAT","Qatar","2021",99
+"3542","QAT","Qatar","2020",98
+"3543","QAT","Qatar","2019",99
+"3544","QAT","Qatar","2018",99
+"3545","QAT","Qatar","2017",99
+"3546","QAT","Qatar","2016",97
+"3547","QAT","Qatar","2015",97
+"3548","QAT","Qatar","2014",90
+"3549","QAT","Qatar","2013",98
+"3550","QAT","Qatar","2012",97
+"3551","QAT","Qatar","2011",97
+"3552","QAT","Qatar","2010",99
+"3553","QAT","Qatar","2009",98
+"3554","QAT","Qatar","2008",97
+"3555","QAT","Qatar","2007",96
+"3556","QAT","Qatar","2006",99
+"3557","QAT","Qatar","2005",99
+"3558","QAT","Qatar","2004",99
+"3559","QAT","Qatar","2003",99
+"3560","QAT","Qatar","2002",99
+"3561","QAT","Qatar","2001",99
+"3562","QAT","Qatar","2000",99
+"3563","QAT","Qatar","1999",99
+"3564","QAT","Qatar","1998",99
+"3565","QAT","Qatar","1997",99
+"3566","QAT","Qatar","1996",98
+"3567","QAT","Qatar","1995",96
+"3568","QAT","Qatar","1994",96
+"3569","QAT","Qatar","1993",99
+"3570","QAT","Qatar","1992",99
+"3571","KOR","Republic of Korea","2021",98
+"3572","KOR","Republic of Korea","2020",98
+"3573","KOR","Republic of Korea","2019",98
+"3574","KOR","Republic of Korea","2018",98
+"3575","KOR","Republic of Korea","2017",98
+"3576","KOR","Republic of Korea","2016",98
+"3577","KOR","Republic of Korea","2015",97
+"3578","KOR","Republic of Korea","2014",99
+"3579","KOR","Republic of Korea","2013",99
+"3580","KOR","Republic of Korea","2012",99
+"3581","KOR","Republic of Korea","2011",99
+"3582","KOR","Republic of Korea","2010",96
+"3583","KOR","Republic of Korea","2009",96
+"3584","KOR","Republic of Korea","2008",96
+"3585","KOR","Republic of Korea","2007",96
+"3586","KOR","Republic of Korea","2006",98
+"3587","KOR","Republic of Korea","2005",97
+"3588","KOR","Republic of Korea","2004",93
+"3589","KOR","Republic of Korea","2003",87
+"3590","KOR","Republic of Korea","2002",89
+"3591","KOR","Republic of Korea","2001",81
+"3592","KOR","Republic of Korea","2000",73
+"3593","KOR","Republic of Korea","1999",74
+"3594","KOR","Republic of Korea","1998",75
+"3595","KOR","Republic of Korea","1997",91
+"3596","KOR","Republic of Korea","1996",92
+"3597","KOR","Republic of Korea","1995",93
+"3598","KOR","Republic of Korea","1994",93
+"3599","KOR","Republic of Korea","1993",88
+"3600","KOR","Republic of Korea","1992",83
+"3601","MDA","Republic of Moldova","2021",98
+"3602","MDA","Republic of Moldova","2020",95
+"3603","MDA","Republic of Moldova","2019",94
+"3604","MDA","Republic of Moldova","2018",96
+"3605","MDA","Republic of Moldova","2017",96
+"3606","MDA","Republic of Moldova","2016",97
+"3607","MDA","Republic of Moldova","2015",97
+"3608","MDA","Republic of Moldova","2014",97
+"3609","MDA","Republic of Moldova","2013",96
+"3610","MDA","Republic of Moldova","2012",99
+"3611","MDA","Republic of Moldova","2011",98
+"3612","MDA","Republic of Moldova","2010",98
+"3613","MDA","Republic of Moldova","2009",96
+"3614","MDA","Republic of Moldova","2008",98
+"3615","MDA","Republic of Moldova","2007",98
+"3616","MDA","Republic of Moldova","2006",99
+"3617","MDA","Republic of Moldova","2005",97
+"3618","MDA","Republic of Moldova","2004",99
+"3619","MDA","Republic of Moldova","2003",99
+"3620","MDA","Republic of Moldova","2002",99
+"3621","MDA","Republic of Moldova","2001",99
+"3622","MDA","Republic of Moldova","2000",99
+"3623","MDA","Republic of Moldova","1999",99
+"3624","MDA","Republic of Moldova","1998",98
+"3625","MDA","Republic of Moldova","1997",97
+"3626","MDA","Republic of Moldova","1996",97
+"3627","MDA","Republic of Moldova","1995",95
+"3628","MDA","Republic of Moldova","1994",94
+"3629","MDA","Republic of Moldova","1993",92
+"3630","MDA","Republic of Moldova","1992",92
+"3631","MKD","Republic of North Macedonia","2021",93
+"3632","MKD","Republic of North Macedonia","2020",93
+"3633","MKD","Republic of North Macedonia","2019",93
+"3634","MKD","Republic of North Macedonia","2018",93
+"3635","MKD","Republic of North Macedonia","2017",97
+"3636","MKD","Republic of North Macedonia","2016",99
+"3637","MKD","Republic of North Macedonia","2015",94
+"3638","MKD","Republic of North Macedonia","2014",99
+"3639","MKD","Republic of North Macedonia","2013",97
+"3640","MKD","Republic of North Macedonia","2012",95
+"3641","MKD","Republic of North Macedonia","2011",94
+"3642","MKD","Republic of North Macedonia","2010",96
+"3643","MKD","Republic of North Macedonia","2009",98
+"3644","MKD","Republic of North Macedonia","2008",94
+"3645","MKD","Republic of North Macedonia","2007",95
+"3646","MKD","Republic of North Macedonia","2006",92
+"3647","MKD","Republic of North Macedonia","2005",99
+"3648","MKD","Republic of North Macedonia","2004",94
+"3649","MKD","Republic of North Macedonia","2003",95
+"3650","MKD","Republic of North Macedonia","2002",91
+"3651","MKD","Republic of North Macedonia","2001",97
+"3652","MKD","Republic of North Macedonia","2000",97
+"3653","MKD","Republic of North Macedonia","1999",97
+"3654","MKD","Republic of North Macedonia","1998",90
+"3655","MKD","Republic of North Macedonia","1997",97
+"3656","MKD","Republic of North Macedonia","1996",98
+"3657","MKD","Republic of North Macedonia","1995",95
+"3658","MKD","Republic of North Macedonia","1994",90
+"3659","MKD","Republic of North Macedonia","1993",95
+"3660","MKD","Republic of North Macedonia","1992",NA
+"3661","ROU","Romania","2021",97
+"3662","ROU","Romania","2020",97
+"3663","ROU","Romania","2019",96
+"3664","ROU","Romania","2018",96
+"3665","ROU","Romania","2017",97
+"3666","ROU","Romania","2016",84
+"3667","ROU","Romania","2015",98
+"3668","ROU","Romania","2014",98
+"3669","ROU","Romania","2013",98
+"3670","ROU","Romania","2012",99
+"3671","ROU","Romania","2011",99
+"3672","ROU","Romania","2010",99
+"3673","ROU","Romania","2009",99
+"3674","ROU","Romania","2008",99
+"3675","ROU","Romania","2007",99
+"3676","ROU","Romania","2006",99
+"3677","ROU","Romania","2005",98
+"3678","ROU","Romania","2004",99
+"3679","ROU","Romania","2003",99
+"3680","ROU","Romania","2002",99
+"3681","ROU","Romania","2001",99
+"3682","ROU","Romania","2000",99
+"3683","ROU","Romania","1999",99
+"3684","ROU","Romania","1998",99
+"3685","ROU","Romania","1997",99
+"3686","ROU","Romania","1996",99
+"3687","ROU","Romania","1995",99
+"3688","ROU","Romania","1994",99
+"3689","ROU","Romania","1993",99
+"3690","ROU","Romania","1992",99
+"3691","RUS","Russian Federation","2021",95
+"3692","RUS","Russian Federation","2020",95
+"3693","RUS","Russian Federation","2019",96
+"3694","RUS","Russian Federation","2018",95
+"3695","RUS","Russian Federation","2017",95
+"3696","RUS","Russian Federation","2016",96
+"3697","RUS","Russian Federation","2015",96
+"3698","RUS","Russian Federation","2014",96
+"3699","RUS","Russian Federation","2013",96
+"3700","RUS","Russian Federation","2012",96
+"3701","RUS","Russian Federation","2011",95
+"3702","RUS","Russian Federation","2010",96
+"3703","RUS","Russian Federation","2009",96
+"3704","RUS","Russian Federation","2008",96
+"3705","RUS","Russian Federation","2007",97
+"3706","RUS","Russian Federation","2006",97
+"3707","RUS","Russian Federation","2005",97
+"3708","RUS","Russian Federation","2004",96
+"3709","RUS","Russian Federation","2003",97
+"3710","RUS","Russian Federation","2002",97
+"3711","RUS","Russian Federation","2001",96
+"3712","RUS","Russian Federation","2000",96
+"3713","RUS","Russian Federation","1999",96
+"3714","RUS","Russian Federation","1998",95
+"3715","RUS","Russian Federation","1997",94
+"3716","RUS","Russian Federation","1996",93
+"3717","RUS","Russian Federation","1995",92
+"3718","RUS","Russian Federation","1994",92
+"3719","RUS","Russian Federation","1993",87
+"3720","RUS","Russian Federation","1992",86
+"3721","RWA","Rwanda","2021",89
+"3722","RWA","Rwanda","2020",89
+"3723","RWA","Rwanda","2019",98
+"3724","RWA","Rwanda","2018",97
+"3725","RWA","Rwanda","2017",98
+"3726","RWA","Rwanda","2016",99
+"3727","RWA","Rwanda","2015",99
+"3728","RWA","Rwanda","2014",99
+"3729","RWA","Rwanda","2013",99
+"3730","RWA","Rwanda","2012",99
+"3731","RWA","Rwanda","2011",99
+"3732","RWA","Rwanda","2010",99
+"3733","RWA","Rwanda","2009",99
+"3734","RWA","Rwanda","2008",93
+"3735","RWA","Rwanda","2007",89
+"3736","RWA","Rwanda","2006",98
+"3737","RWA","Rwanda","2005",91
+"3738","RWA","Rwanda","2004",86
+"3739","RWA","Rwanda","2003",88
+"3740","RWA","Rwanda","2002",81
+"3741","RWA","Rwanda","2001",74
+"3742","RWA","Rwanda","2000",81
+"3743","RWA","Rwanda","1999",94
+"3744","RWA","Rwanda","1998",95
+"3745","RWA","Rwanda","1997",96
+"3746","RWA","Rwanda","1996",93
+"3747","RWA","Rwanda","1995",89
+"3748","RWA","Rwanda","1994",32
+"3749","RWA","Rwanda","1993",82
+"3750","RWA","Rwanda","1992",94
+"3751","KNA","Saint Kitts and Nevis","2021",96
+"3752","KNA","Saint Kitts and Nevis","2020",98
+"3753","KNA","Saint Kitts and Nevis","2019",99
+"3754","KNA","Saint Kitts and Nevis","2018",97
+"3755","KNA","Saint Kitts and Nevis","2017",97
+"3756","KNA","Saint Kitts and Nevis","2016",96
+"3757","KNA","Saint Kitts and Nevis","2015",95
+"3758","KNA","Saint Kitts and Nevis","2014",99
+"3759","KNA","Saint Kitts and Nevis","2013",94
+"3760","KNA","Saint Kitts and Nevis","2012",95
+"3761","KNA","Saint Kitts and Nevis","2011",99
+"3762","KNA","Saint Kitts and Nevis","2010",91
+"3763","KNA","Saint Kitts and Nevis","2009",93
+"3764","KNA","Saint Kitts and Nevis","2008",95
+"3765","KNA","Saint Kitts and Nevis","2007",97
+"3766","KNA","Saint Kitts and Nevis","2006",99
+"3767","KNA","Saint Kitts and Nevis","2005",99
+"3768","KNA","Saint Kitts and Nevis","2004",89
+"3769","KNA","Saint Kitts and Nevis","2003",99
+"3770","KNA","Saint Kitts and Nevis","2002",99
+"3771","KNA","Saint Kitts and Nevis","2001",95
+"3772","KNA","Saint Kitts and Nevis","2000",99
+"3773","KNA","Saint Kitts and Nevis","1999",99
+"3774","KNA","Saint Kitts and Nevis","1998",99
+"3775","KNA","Saint Kitts and Nevis","1997",99
+"3776","KNA","Saint Kitts and Nevis","1996",96
+"3777","KNA","Saint Kitts and Nevis","1995",94
+"3778","KNA","Saint Kitts and Nevis","1994",91
+"3779","KNA","Saint Kitts and Nevis","1993",88
+"3780","KNA","Saint Kitts and Nevis","1992",86
+"3781","LCA","Saint Lucia","2021",81
+"3782","LCA","Saint Lucia","2020",89
+"3783","LCA","Saint Lucia","2019",95
+"3784","LCA","Saint Lucia","2018",99
+"3785","LCA","Saint Lucia","2017",88
+"3786","LCA","Saint Lucia","2016",96
+"3787","LCA","Saint Lucia","2015",99
+"3788","LCA","Saint Lucia","2014",89
+"3789","LCA","Saint Lucia","2013",99
+"3790","LCA","Saint Lucia","2012",99
+"3791","LCA","Saint Lucia","2011",99
+"3792","LCA","Saint Lucia","2010",97
+"3793","LCA","Saint Lucia","2009",97
+"3794","LCA","Saint Lucia","2008",99
+"3795","LCA","Saint Lucia","2007",99
+"3796","LCA","Saint Lucia","2006",94
+"3797","LCA","Saint Lucia","2005",97
+"3798","LCA","Saint Lucia","2004",99
+"3799","LCA","Saint Lucia","2003",95
+"3800","LCA","Saint Lucia","2002",95
+"3801","LCA","Saint Lucia","2001",99
+"3802","LCA","Saint Lucia","2000",91
+"3803","LCA","Saint Lucia","1999",99
+"3804","LCA","Saint Lucia","1998",85
+"3805","LCA","Saint Lucia","1997",99
+"3806","LCA","Saint Lucia","1996",89
+"3807","LCA","Saint Lucia","1995",98
+"3808","LCA","Saint Lucia","1994",99
+"3809","LCA","Saint Lucia","1993",95
+"3810","LCA","Saint Lucia","1992",99
+"3811","VCT","Saint Vincent and the Grenadines","2021",99
+"3812","VCT","Saint Vincent and the Grenadines","2020",99
+"3813","VCT","Saint Vincent and the Grenadines","2019",99
+"3814","VCT","Saint Vincent and the Grenadines","2018",99
+"3815","VCT","Saint Vincent and the Grenadines","2017",99
+"3816","VCT","Saint Vincent and the Grenadines","2016",99
+"3817","VCT","Saint Vincent and the Grenadines","2015",99
+"3818","VCT","Saint Vincent and the Grenadines","2014",98
+"3819","VCT","Saint Vincent and the Grenadines","2013",96
+"3820","VCT","Saint Vincent and the Grenadines","2012",97
+"3821","VCT","Saint Vincent and the Grenadines","2011",99
+"3822","VCT","Saint Vincent and the Grenadines","2010",90
+"3823","VCT","Saint Vincent and the Grenadines","2009",80
+"3824","VCT","Saint Vincent and the Grenadines","2008",87
+"3825","VCT","Saint Vincent and the Grenadines","2007",93
+"3826","VCT","Saint Vincent and the Grenadines","2006",99
+"3827","VCT","Saint Vincent and the Grenadines","2005",95
+"3828","VCT","Saint Vincent and the Grenadines","2004",99
+"3829","VCT","Saint Vincent and the Grenadines","2003",87
+"3830","VCT","Saint Vincent and the Grenadines","2002",91
+"3831","VCT","Saint Vincent and the Grenadines","2001",99
+"3832","VCT","Saint Vincent and the Grenadines","2000",99
+"3833","VCT","Saint Vincent and the Grenadines","1999",99
+"3834","VCT","Saint Vincent and the Grenadines","1998",99
+"3835","VCT","Saint Vincent and the Grenadines","1997",98
+"3836","VCT","Saint Vincent and the Grenadines","1996",99
+"3837","VCT","Saint Vincent and the Grenadines","1995",99
+"3838","VCT","Saint Vincent and the Grenadines","1994",99
+"3839","VCT","Saint Vincent and the Grenadines","1993",99
+"3840","VCT","Saint Vincent and the Grenadines","1992",99
+"3841","WSM","Samoa","2021",92
+"3842","WSM","Samoa","2020",99
+"3843","WSM","Samoa","2019",96
+"3844","WSM","Samoa","2018",68
+"3845","WSM","Samoa","2017",89
+"3846","WSM","Samoa","2016",81
+"3847","WSM","Samoa","2015",86
+"3848","WSM","Samoa","2014",92
+"3849","WSM","Samoa","2013",90
+"3850","WSM","Samoa","2012",90
+"3851","WSM","Samoa","2011",95
+"3852","WSM","Samoa","2010",87
+"3853","WSM","Samoa","2009",92
+"3854","WSM","Samoa","2008",98
+"3855","WSM","Samoa","2007",91
+"3856","WSM","Samoa","2006",84
+"3857","WSM","Samoa","2005",86
+"3858","WSM","Samoa","2004",93
+"3859","WSM","Samoa","2003",73
+"3860","WSM","Samoa","2002",98
+"3861","WSM","Samoa","2001",98
+"3862","WSM","Samoa","2000",97
+"3863","WSM","Samoa","1999",99
+"3864","WSM","Samoa","1998",99
+"3865","WSM","Samoa","1997",99
+"3866","WSM","Samoa","1996",98
+"3867","WSM","Samoa","1995",96
+"3868","WSM","Samoa","1994",97
+"3869","WSM","Samoa","1993",94
+"3870","WSM","Samoa","1992",91
+"3871","STP","Sao Tome and Principe","2021",93
+"3872","STP","Sao Tome and Principe","2020",94
+"3873","STP","Sao Tome and Principe","2019",95
+"3874","STP","Sao Tome and Principe","2018",96
+"3875","STP","Sao Tome and Principe","2017",94
+"3876","STP","Sao Tome and Principe","2016",92
+"3877","STP","Sao Tome and Principe","2015",97
+"3878","STP","Sao Tome and Principe","2014",95
+"3879","STP","Sao Tome and Principe","2013",97
+"3880","STP","Sao Tome and Principe","2012",99
+"3881","STP","Sao Tome and Principe","2011",99
+"3882","STP","Sao Tome and Principe","2010",99
+"3883","STP","Sao Tome and Principe","2009",99
+"3884","STP","Sao Tome and Principe","2008",99
+"3885","STP","Sao Tome and Principe","2007",98
+"3886","STP","Sao Tome and Principe","2006",98
+"3887","STP","Sao Tome and Principe","2005",98
+"3888","STP","Sao Tome and Principe","2004",99
+"3889","STP","Sao Tome and Principe","2003",99
+"3890","STP","Sao Tome and Principe","2002",96
+"3891","STP","Sao Tome and Principe","2001",92
+"3892","STP","Sao Tome and Principe","2000",81
+"3893","STP","Sao Tome and Principe","1999",81
+"3894","STP","Sao Tome and Principe","1998",80
+"3895","STP","Sao Tome and Principe","1997",70
+"3896","STP","Sao Tome and Principe","1996",85
+"3897","STP","Sao Tome and Principe","1995",95
+"3898","STP","Sao Tome and Principe","1994",86
+"3899","STP","Sao Tome and Principe","1993",77
+"3900","STP","Sao Tome and Principe","1992",83
+"3901","SAU","Saudi Arabia","2021",94
+"3902","SAU","Saudi Arabia","2020",95
+"3903","SAU","Saudi Arabia","2019",52
+"3904","SAU","Saudi Arabia","2018",98
+"3905","SAU","Saudi Arabia","2017",97
+"3906","SAU","Saudi Arabia","2016",98
+"3907","SAU","Saudi Arabia","2015",98
+"3908","SAU","Saudi Arabia","2014",98
+"3909","SAU","Saudi Arabia","2013",99
+"3910","SAU","Saudi Arabia","2012",99
+"3911","SAU","Saudi Arabia","2011",98
+"3912","SAU","Saudi Arabia","2010",98
+"3913","SAU","Saudi Arabia","2009",98
+"3914","SAU","Saudi Arabia","2008",98
+"3915","SAU","Saudi Arabia","2007",96
+"3916","SAU","Saudi Arabia","2006",95
+"3917","SAU","Saudi Arabia","2005",96
+"3918","SAU","Saudi Arabia","2004",95
+"3919","SAU","Saudi Arabia","2003",94
+"3920","SAU","Saudi Arabia","2002",98
+"3921","SAU","Saudi Arabia","2001",94
+"3922","SAU","Saudi Arabia","2000",94
+"3923","SAU","Saudi Arabia","1999",92
+"3924","SAU","Saudi Arabia","1998",92
+"3925","SAU","Saudi Arabia","1997",91
+"3926","SAU","Saudi Arabia","1996",91
+"3927","SAU","Saudi Arabia","1995",94
+"3928","SAU","Saudi Arabia","1994",94
+"3929","SAU","Saudi Arabia","1993",93
+"3930","SAU","Saudi Arabia","1992",91
+"3931","SEN","Senegal","2021",87
+"3932","SEN","Senegal","2020",95
+"3933","SEN","Senegal","2019",95
+"3934","SEN","Senegal","2018",94
+"3935","SEN","Senegal","2017",99
+"3936","SEN","Senegal","2016",97
+"3937","SEN","Senegal","2015",95
+"3938","SEN","Senegal","2014",95
+"3939","SEN","Senegal","2013",97
+"3940","SEN","Senegal","2012",97
+"3941","SEN","Senegal","2011",97
+"3942","SEN","Senegal","2010",97
+"3943","SEN","Senegal","2009",97
+"3944","SEN","Senegal","2008",98
+"3945","SEN","Senegal","2007",96
+"3946","SEN","Senegal","2006",94
+"3947","SEN","Senegal","2005",92
+"3948","SEN","Senegal","2004",95
+"3949","SEN","Senegal","2003",77
+"3950","SEN","Senegal","2002",70
+"3951","SEN","Senegal","2001",89
+"3952","SEN","Senegal","2000",89
+"3953","SEN","Senegal","1999",90
+"3954","SEN","Senegal","1998",81
+"3955","SEN","Senegal","1997",81
+"3956","SEN","Senegal","1996",81
+"3957","SEN","Senegal","1995",91
+"3958","SEN","Senegal","1994",80
+"3959","SEN","Senegal","1993",80
+"3960","SEN","Senegal","1992",80
+"3961","SRB","Serbia","2021",98
+"3962","SRB","Serbia","2020",98
+"3963","SRB","Serbia","2019",98
+"3964","SRB","Serbia","2018",98
+"3965","SRB","Serbia","2017",97
+"3966","SRB","Serbia","2016",98
+"3967","SRB","Serbia","2015",98
+"3968","SRB","Serbia","2014",98
+"3969","SRB","Serbia","2013",97
+"3970","SRB","Serbia","2012",98
+"3971","SRB","Serbia","2011",99
+"3972","SRB","Serbia","2010",99
+"3973","SRB","Serbia","2009",98
+"3974","SRB","Serbia","2008",99
+"3975","SRB","Serbia","2007",98
+"3976","SRB","Serbia","2006",99
+"3977","SRB","Serbia","2005",98
+"3978","SRB","Serbia","2004",97
+"3979","SRB","Serbia","2003",94
+"3980","SRB","Serbia","2002",91
+"3981","SRB","Serbia","2001",88
+"3982","SRB","Serbia","2000",85
+"3983","SRB","Serbia","1999",82
+"3984","SRB","Serbia","1998",89
+"3985","SRB","Serbia","1997",96
+"3986","SRB","Serbia","1996",97
+"3987","SRB","Serbia","1995",97
+"3988","SRB","Serbia","1994",97
+"3989","SRB","Serbia","1993",97
+"3990","SRB","Serbia","1992",97
+"3991","SYC","Seychelles","2021",99
+"3992","SYC","Seychelles","2020",99
+"3993","SYC","Seychelles","2019",98
+"3994","SYC","Seychelles","2018",97
+"3995","SYC","Seychelles","2017",99
+"3996","SYC","Seychelles","2016",99
+"3997","SYC","Seychelles","2015",99
+"3998","SYC","Seychelles","2014",98
+"3999","SYC","Seychelles","2013",99
+"4000","SYC","Seychelles","2012",99
+"4001","SYC","Seychelles","2011",99
+"4002","SYC","Seychelles","2010",99
+"4003","SYC","Seychelles","2009",96
+"4004","SYC","Seychelles","2008",99
+"4005","SYC","Seychelles","2007",99
+"4006","SYC","Seychelles","2006",99
+"4007","SYC","Seychelles","2005",99
+"4008","SYC","Seychelles","2004",99
+"4009","SYC","Seychelles","2003",99
+"4010","SYC","Seychelles","2002",99
+"4011","SYC","Seychelles","2001",99
+"4012","SYC","Seychelles","2000",99
+"4013","SYC","Seychelles","1999",99
+"4014","SYC","Seychelles","1998",99
+"4015","SYC","Seychelles","1997",99
+"4016","SYC","Seychelles","1996",99
+"4017","SYC","Seychelles","1995",99
+"4018","SYC","Seychelles","1994",99
+"4019","SYC","Seychelles","1993",99
+"4020","SYC","Seychelles","1992",99
+"4021","SLE","Sierra Leone","2021",74
+"4022","SLE","Sierra Leone","2020",72
+"4023","SLE","Sierra Leone","2019",86
+"4024","SLE","Sierra Leone","2018",88
+"4025","SLE","Sierra Leone","2017",90
+"4026","SLE","Sierra Leone","2016",92
+"4027","SLE","Sierra Leone","2015",90
+"4028","SLE","Sierra Leone","2014",90
+"4029","SLE","Sierra Leone","2013",99
+"4030","SLE","Sierra Leone","2012",98
+"4031","SLE","Sierra Leone","2011",97
+"4032","SLE","Sierra Leone","2010",97
+"4033","SLE","Sierra Leone","2009",96
+"4034","SLE","Sierra Leone","2008",91
+"4035","SLE","Sierra Leone","2007",82
+"4036","SLE","Sierra Leone","2006",83
+"4037","SLE","Sierra Leone","2005",85
+"4038","SLE","Sierra Leone","2004",86
+"4039","SLE","Sierra Leone","2003",89
+"4040","SLE","Sierra Leone","2002",76
+"4041","SLE","Sierra Leone","2001",63
+"4042","SLE","Sierra Leone","2000",74
+"4043","SLE","Sierra Leone","1999",73
+"4044","SLE","Sierra Leone","1998",NA
+"4045","SLE","Sierra Leone","1997",NA
+"4046","SLE","Sierra Leone","1996",NA
+"4047","SLE","Sierra Leone","1995",NA
+"4048","SLE","Sierra Leone","1994",NA
+"4049","SLE","Sierra Leone","1993",NA
+"4050","SLE","Sierra Leone","1992",NA
+"4051","SGP","Singapore","2021",98
+"4052","SGP","Singapore","2020",98
+"4053","SGP","Singapore","2019",98
+"4054","SGP","Singapore","2018",98
+"4055","SGP","Singapore","2017",99
+"4056","SGP","Singapore","2016",99
+"4057","SGP","Singapore","2015",99
+"4058","SGP","Singapore","2014",99
+"4059","SGP","Singapore","2013",99
+"4060","SGP","Singapore","2012",99
+"4061","SGP","Singapore","2011",99
+"4062","SGP","Singapore","2010",99
+"4063","SGP","Singapore","2009",99
+"4064","SGP","Singapore","2008",99
+"4065","SGP","Singapore","2007",99
+"4066","SGP","Singapore","2006",98
+"4067","SGP","Singapore","2005",98
+"4068","SGP","Singapore","2004",99
+"4069","SGP","Singapore","2003",99
+"4070","SGP","Singapore","2002",98
+"4071","SGP","Singapore","2001",98
+"4072","SGP","Singapore","2000",99
+"4073","SGP","Singapore","1999",99
+"4074","SGP","Singapore","1998",98
+"4075","SGP","Singapore","1997",98
+"4076","SGP","Singapore","1996",98
+"4077","SGP","Singapore","1995",98
+"4078","SGP","Singapore","1994",97
+"4079","SGP","Singapore","1993",98
+"4080","SGP","Singapore","1992",99
+"4081","SVK","Slovakia","2021",NA
+"4082","SVK","Slovakia","2020",NA
+"4083","SVK","Slovakia","2019",NA
+"4084","SVK","Slovakia","2018",NA
+"4085","SVK","Slovakia","2017",NA
+"4086","SVK","Slovakia","2016",NA
+"4087","SVK","Slovakia","2015",NA
+"4088","SVK","Slovakia","2014",NA
+"4089","SVK","Slovakia","2013",NA
+"4090","SVK","Slovakia","2012",90
+"4091","SVK","Slovakia","2011",97
+"4092","SVK","Slovakia","2010",98
+"4093","SVK","Slovakia","2009",97
+"4094","SVK","Slovakia","2008",98
+"4095","SVK","Slovakia","2007",98
+"4096","SVK","Slovakia","2006",98
+"4097","SVK","Slovakia","2005",98
+"4098","SVK","Slovakia","2004",98
+"4099","SVK","Slovakia","2003",98
+"4100","SVK","Slovakia","2002",98
+"4101","SVK","Slovakia","2001",93
+"4102","SVK","Slovakia","2000",94
+"4103","SVK","Slovakia","1999",96
+"4104","SVK","Slovakia","1998",93
+"4105","SVK","Slovakia","1997",95
+"4106","SVK","Slovakia","1996",96
+"4107","SVK","Slovakia","1995",92
+"4108","SVK","Slovakia","1994",98
+"4109","SVK","Slovakia","1993",NA
+"4110","SVK","Slovakia","1992",NA
+"4111","SVN","Slovenia","2021",NA
+"4112","SVN","Slovenia","2020",NA
+"4113","SVN","Slovenia","2019",NA
+"4114","SVN","Slovenia","2018",NA
+"4115","SVN","Slovenia","2017",NA
+"4116","SVN","Slovenia","2016",NA
+"4117","SVN","Slovenia","2015",NA
+"4118","SVN","Slovenia","2014",NA
+"4119","SVN","Slovenia","2013",NA
+"4120","SVN","Slovenia","2012",NA
+"4121","SVN","Slovenia","2011",NA
+"4122","SVN","Slovenia","2010",NA
+"4123","SVN","Slovenia","2009",NA
+"4124","SVN","Slovenia","2008",NA
+"4125","SVN","Slovenia","2007",NA
+"4126","SVN","Slovenia","2006",NA
+"4127","SVN","Slovenia","2005",NA
+"4128","SVN","Slovenia","2004",96
+"4129","SVN","Slovenia","2003",97
+"4130","SVN","Slovenia","2002",97
+"4131","SVN","Slovenia","2001",98
+"4132","SVN","Slovenia","2000",98
+"4133","SVN","Slovenia","1999",96
+"4134","SVN","Slovenia","1998",98
+"4135","SVN","Slovenia","1997",97
+"4136","SVN","Slovenia","1996",98
+"4137","SVN","Slovenia","1995",99
+"4138","SVN","Slovenia","1994",99
+"4139","SVN","Slovenia","1993",99
+"4140","SVN","Slovenia","1992",93
+"4141","SLB","Solomon Islands","2021",83
+"4142","SLB","Solomon Islands","2020",82
+"4143","SLB","Solomon Islands","2019",77
+"4144","SLB","Solomon Islands","2018",83
+"4145","SLB","Solomon Islands","2017",78
+"4146","SLB","Solomon Islands","2016",80
+"4147","SLB","Solomon Islands","2015",79
+"4148","SLB","Solomon Islands","2014",81
+"4149","SLB","Solomon Islands","2013",82
+"4150","SLB","Solomon Islands","2012",85
+"4151","SLB","Solomon Islands","2011",94
+"4152","SLB","Solomon Islands","2010",91
+"4153","SLB","Solomon Islands","2009",92
+"4154","SLB","Solomon Islands","2008",92
+"4155","SLB","Solomon Islands","2007",98
+"4156","SLB","Solomon Islands","2006",99
+"4157","SLB","Solomon Islands","2005",96
+"4158","SLB","Solomon Islands","2004",99
+"4159","SLB","Solomon Islands","2003",93
+"4160","SLB","Solomon Islands","2002",87
+"4161","SLB","Solomon Islands","2001",94
+"4162","SLB","Solomon Islands","2000",99
+"4163","SLB","Solomon Islands","1999",99
+"4164","SLB","Solomon Islands","1998",74
+"4165","SLB","Solomon Islands","1997",73
+"4166","SLB","Solomon Islands","1996",96
+"4167","SLB","Solomon Islands","1995",77
+"4168","SLB","Solomon Islands","1994",76
+"4169","SLB","Solomon Islands","1993",66
+"4170","SLB","Solomon Islands","1992",75
+"4171","SOM","Somalia","2021",37
+"4172","SOM","Somalia","2020",37
+"4173","SOM","Somalia","2019",37
+"4174","SOM","Somalia","2018",37
+"4175","SOM","Somalia","2017",37
+"4176","SOM","Somalia","2016",37
+"4177","SOM","Somalia","2015",37
+"4178","SOM","Somalia","2014",37
+"4179","SOM","Somalia","2013",37
+"4180","SOM","Somalia","2012",37
+"4181","SOM","Somalia","2011",39
+"4182","SOM","Somalia","2010",41
+"4183","SOM","Somalia","2009",29
+"4184","SOM","Somalia","2008",36
+"4185","SOM","Somalia","2007",38
+"4186","SOM","Somalia","2006",40
+"4187","SOM","Somalia","2005",50
+"4188","SOM","Somalia","2004",50
+"4189","SOM","Somalia","2003",65
+"4190","SOM","Somalia","2002",60
+"4191","SOM","Somalia","2001",70
+"4192","SOM","Somalia","2000",69
+"4193","SOM","Somalia","1999",71
+"4194","SOM","Somalia","1998",54
+"4195","SOM","Somalia","1997",37
+"4196","SOM","Somalia","1996",43
+"4197","SOM","Somalia","1995",46
+"4198","SOM","Somalia","1994",48
+"4199","SOM","Somalia","1993",42
+"4200","SOM","Somalia","1992",37
+"4201","ZAF","South Africa","2021",86
+"4202","ZAF","South Africa","2020",86
+"4203","ZAF","South Africa","2019",84
+"4204","ZAF","South Africa","2018",70
+"4205","ZAF","South Africa","2017",75
+"4206","ZAF","South Africa","2016",79
+"4207","ZAF","South Africa","2015",83
+"4208","ZAF","South Africa","2014",93
+"4209","ZAF","South Africa","2013",88
+"4210","ZAF","South Africa","2012",86
+"4211","ZAF","South Africa","2011",84
+"4212","ZAF","South Africa","2010",81
+"4213","ZAF","South Africa","2009",82
+"4214","ZAF","South Africa","2008",84
+"4215","ZAF","South Africa","2007",79
+"4216","ZAF","South Africa","2006",79
+"4217","ZAF","South Africa","2005",76
+"4218","ZAF","South Africa","2004",78
+"4219","ZAF","South Africa","2003",81
+"4220","ZAF","South Africa","2002",84
+"4221","ZAF","South Africa","2001",86
+"4222","ZAF","South Africa","2000",89
+"4223","ZAF","South Africa","1999",92
+"4224","ZAF","South Africa","1998",94
+"4225","ZAF","South Africa","1997",97
+"4226","ZAF","South Africa","1996",95
+"4227","ZAF","South Africa","1995",95
+"4228","ZAF","South Africa","1994",95
+"4229","ZAF","South Africa","1993",95
+"4230","ZAF","South Africa","1992",66
+"4231","SSD","South Sudan","2021",52
+"4232","SSD","South Sudan","2020",52
+"4233","SSD","South Sudan","2019",52
+"4234","SSD","South Sudan","2018",52
+"4235","SSD","South Sudan","2017",52
+"4236","SSD","South Sudan","2016",52
+"4237","SSD","South Sudan","2015",55
+"4238","SSD","South Sudan","2014",55
+"4239","SSD","South Sudan","2013",58
+"4240","SSD","South Sudan","2012",65
+"4241","SSD","South Sudan","2011",75
+"4242","SSD","South Sudan","2010",NA
+"4243","SSD","South Sudan","2009",NA
+"4244","SSD","South Sudan","2008",NA
+"4245","SSD","South Sudan","2007",NA
+"4246","SSD","South Sudan","2006",NA
+"4247","SSD","South Sudan","2005",NA
+"4248","SSD","South Sudan","2004",NA
+"4249","SSD","South Sudan","2003",NA
+"4250","SSD","South Sudan","2002",NA
+"4251","SSD","South Sudan","2001",NA
+"4252","SSD","South Sudan","2000",NA
+"4253","SSD","South Sudan","1999",NA
+"4254","SSD","South Sudan","1998",NA
+"4255","SSD","South Sudan","1997",NA
+"4256","SSD","South Sudan","1996",NA
+"4257","SSD","South Sudan","1995",NA
+"4258","SSD","South Sudan","1994",NA
+"4259","SSD","South Sudan","1993",NA
+"4260","SSD","South Sudan","1992",NA
+"4261","LKA","Sri Lanka","2021",99
+"4262","LKA","Sri Lanka","2020",99
+"4263","LKA","Sri Lanka","2019",99
+"4264","LKA","Sri Lanka","2018",99
+"4265","LKA","Sri Lanka","2017",99
+"4266","LKA","Sri Lanka","2016",99
+"4267","LKA","Sri Lanka","2015",99
+"4268","LKA","Sri Lanka","2014",99
+"4269","LKA","Sri Lanka","2013",99
+"4270","LKA","Sri Lanka","2012",99
+"4271","LKA","Sri Lanka","2011",99
+"4272","LKA","Sri Lanka","2010",99
+"4273","LKA","Sri Lanka","2009",99
+"4274","LKA","Sri Lanka","2008",99
+"4275","LKA","Sri Lanka","2007",99
+"4276","LKA","Sri Lanka","2006",99
+"4277","LKA","Sri Lanka","2005",99
+"4278","LKA","Sri Lanka","2004",99
+"4279","LKA","Sri Lanka","2003",99
+"4280","LKA","Sri Lanka","2002",99
+"4281","LKA","Sri Lanka","2001",98
+"4282","LKA","Sri Lanka","2000",98
+"4283","LKA","Sri Lanka","1999",97
+"4284","LKA","Sri Lanka","1998",90
+"4285","LKA","Sri Lanka","1997",96
+"4286","LKA","Sri Lanka","1996",88
+"4287","LKA","Sri Lanka","1995",90
+"4288","LKA","Sri Lanka","1994",86
+"4289","LKA","Sri Lanka","1993",88
+"4290","LKA","Sri Lanka","1992",87
+"4291","PSE","State of Palestine","2021",99
+"4292","PSE","State of Palestine","2020",99
+"4293","PSE","State of Palestine","2019",99
+"4294","PSE","State of Palestine","2018",99
+"4295","PSE","State of Palestine","2017",99
+"4296","PSE","State of Palestine","2016",99
+"4297","PSE","State of Palestine","2015",99
+"4298","PSE","State of Palestine","2014",99
+"4299","PSE","State of Palestine","2013",99
+"4300","PSE","State of Palestine","2012",98
+"4301","PSE","State of Palestine","2011",98
+"4302","PSE","State of Palestine","2010",98
+"4303","PSE","State of Palestine","2009",99
+"4304","PSE","State of Palestine","2008",99
+"4305","PSE","State of Palestine","2007",99
+"4306","PSE","State of Palestine","2006",99
+"4307","PSE","State of Palestine","2005",99
+"4308","PSE","State of Palestine","2004",98
+"4309","PSE","State of Palestine","2003",99
+"4310","PSE","State of Palestine","2002",96
+"4311","PSE","State of Palestine","2001",97
+"4312","PSE","State of Palestine","2000",92
+"4313","PSE","State of Palestine","1999",91
+"4314","PSE","State of Palestine","1998",92
+"4315","PSE","State of Palestine","1997",89
+"4316","PSE","State of Palestine","1996",95
+"4317","PSE","State of Palestine","1995",91
+"4318","PSE","State of Palestine","1994",99
+"4319","PSE","State of Palestine","1993",NA
+"4320","PSE","State of Palestine","1992",NA
+"4321","SDN","Sudan","2021",80
+"4322","SDN","Sudan","2020",92
+"4323","SDN","Sudan","2019",92
+"4324","SDN","Sudan","2018",88
+"4325","SDN","Sudan","2017",97
+"4326","SDN","Sudan","2016",96
+"4327","SDN","Sudan","2015",88
+"4328","SDN","Sudan","2014",95
+"4329","SDN","Sudan","2013",93
+"4330","SDN","Sudan","2012",92
+"4331","SDN","Sudan","2011",92
+"4332","SDN","Sudan","2010",90
+"4333","SDN","Sudan","2009",82
+"4334","SDN","Sudan","2008",88
+"4335","SDN","Sudan","2007",83
+"4336","SDN","Sudan","2006",77
+"4337","SDN","Sudan","2005",72
+"4338","SDN","Sudan","2004",66
+"4339","SDN","Sudan","2003",69
+"4340","SDN","Sudan","2002",65
+"4341","SDN","Sudan","2001",67
+"4342","SDN","Sudan","2000",56
+"4343","SDN","Sudan","1999",66
+"4344","SDN","Sudan","1998",61
+"4345","SDN","Sudan","1997",70
+"4346","SDN","Sudan","1996",71
+"4347","SDN","Sudan","1995",63
+"4348","SDN","Sudan","1994",60
+"4349","SDN","Sudan","1993",66
+"4350","SDN","Sudan","1992",68
+"4351","SWE","Sweden","2021",24
+"4352","SWE","Sweden","2020",26
+"4353","SWE","Sweden","2019",25
+"4354","SWE","Sweden","2018",26
+"4355","SWE","Sweden","2017",25
+"4356","SWE","Sweden","2016",26
+"4357","SWE","Sweden","2015",24
+"4358","SWE","Sweden","2014",26
+"4359","SWE","Sweden","2013",27
+"4360","SWE","Sweden","2012",24
+"4361","SWE","Sweden","2011",23
+"4362","SWE","Sweden","2010",23
+"4363","SWE","Sweden","2009",21
+"4364","SWE","Sweden","2008",23
+"4365","SWE","Sweden","2007",23
+"4366","SWE","Sweden","2006",21
+"4367","SWE","Sweden","2005",20
+"4368","SWE","Sweden","2004",18
+"4369","SWE","Sweden","2003",17
+"4370","SWE","Sweden","2002",16
+"4371","SWE","Sweden","2001",16
+"4372","SWE","Sweden","2000",16
+"4373","SWE","Sweden","1999",16
+"4374","SWE","Sweden","1998",16
+"4375","SWE","Sweden","1997",15
+"4376","SWE","Sweden","1996",14
+"4377","SWE","Sweden","1995",14
+"4378","SWE","Sweden","1994",13
+"4379","SWE","Sweden","1993",13
+"4380","SWE","Sweden","1992",13
+"4381","SYR","Syrian Arab Republic","2021",76
+"4382","SYR","Syrian Arab Republic","2020",74
+"4383","SYR","Syrian Arab Republic","2019",84
+"4384","SYR","Syrian Arab Republic","2018",79
+"4385","SYR","Syrian Arab Republic","2017",78
+"4386","SYR","Syrian Arab Republic","2016",72
+"4387","SYR","Syrian Arab Republic","2015",66
+"4388","SYR","Syrian Arab Republic","2014",81
+"4389","SYR","Syrian Arab Republic","2013",84
+"4390","SYR","Syrian Arab Republic","2012",82
+"4391","SYR","Syrian Arab Republic","2011",90
+"4392","SYR","Syrian Arab Republic","2010",97
+"4393","SYR","Syrian Arab Republic","2009",95
+"4394","SYR","Syrian Arab Republic","2008",93
+"4395","SYR","Syrian Arab Republic","2007",93
+"4396","SYR","Syrian Arab Republic","2006",91
+"4397","SYR","Syrian Arab Republic","2005",90
+"4398","SYR","Syrian Arab Republic","2004",90
+"4399","SYR","Syrian Arab Republic","2003",90
+"4400","SYR","Syrian Arab Republic","2002",90
+"4401","SYR","Syrian Arab Republic","2001",91
+"4402","SYR","Syrian Arab Republic","2000",91
+"4403","SYR","Syrian Arab Republic","1999",91
+"4404","SYR","Syrian Arab Republic","1998",91
+"4405","SYR","Syrian Arab Republic","1997",91
+"4406","SYR","Syrian Arab Republic","1996",91
+"4407","SYR","Syrian Arab Republic","1995",91
+"4408","SYR","Syrian Arab Republic","1994",91
+"4409","SYR","Syrian Arab Republic","1993",91
+"4410","SYR","Syrian Arab Republic","1992",92
+"4411","TJK","Tajikistan","2021",98
+"4412","TJK","Tajikistan","2020",98
+"4413","TJK","Tajikistan","2019",98
+"4414","TJK","Tajikistan","2018",99
+"4415","TJK","Tajikistan","2017",98
+"4416","TJK","Tajikistan","2016",98
+"4417","TJK","Tajikistan","2015",98
+"4418","TJK","Tajikistan","2014",98
+"4419","TJK","Tajikistan","2013",98
+"4420","TJK","Tajikistan","2012",97
+"4421","TJK","Tajikistan","2011",97
+"4422","TJK","Tajikistan","2010",98
+"4423","TJK","Tajikistan","2009",82
+"4424","TJK","Tajikistan","2008",89
+"4425","TJK","Tajikistan","2007",83
+"4426","TJK","Tajikistan","2006",93
+"4427","TJK","Tajikistan","2005",97
+"4428","TJK","Tajikistan","2004",95
+"4429","TJK","Tajikistan","2003",98
+"4430","TJK","Tajikistan","2002",97
+"4431","TJK","Tajikistan","2001",96
+"4432","TJK","Tajikistan","2000",98
+"4433","TJK","Tajikistan","1999",98
+"4434","TJK","Tajikistan","1998",98
+"4435","TJK","Tajikistan","1997",99
+"4436","TJK","Tajikistan","1996",99
+"4437","TJK","Tajikistan","1995",96
+"4438","TJK","Tajikistan","1994",96
+"4439","TJK","Tajikistan","1993",69
+"4440","TJK","Tajikistan","1992",88
+"4441","THA","Thailand","2021",99
+"4442","THA","Thailand","2020",99
+"4443","THA","Thailand","2019",99
+"4444","THA","Thailand","2018",99
+"4445","THA","Thailand","2017",99
+"4446","THA","Thailand","2016",99
+"4447","THA","Thailand","2015",99
+"4448","THA","Thailand","2014",99
+"4449","THA","Thailand","2013",99
+"4450","THA","Thailand","2012",99
+"4451","THA","Thailand","2011",99
+"4452","THA","Thailand","2010",99
+"4453","THA","Thailand","2009",99
+"4454","THA","Thailand","2008",99
+"4455","THA","Thailand","2007",99
+"4456","THA","Thailand","2006",99
+"4457","THA","Thailand","2005",99
+"4458","THA","Thailand","2004",99
+"4459","THA","Thailand","2003",99
+"4460","THA","Thailand","2002",99
+"4461","THA","Thailand","2001",99
+"4462","THA","Thailand","2000",99
+"4463","THA","Thailand","1999",98
+"4464","THA","Thailand","1998",99
+"4465","THA","Thailand","1997",99
+"4466","THA","Thailand","1996",98
+"4467","THA","Thailand","1995",98
+"4468","THA","Thailand","1994",99
+"4469","THA","Thailand","1993",99
+"4470","THA","Thailand","1992",99
+"4471","TLS","Timor-Leste","2021",88
+"4472","TLS","Timor-Leste","2020",88
+"4473","TLS","Timor-Leste","2019",95
+"4474","TLS","Timor-Leste","2018",95
+"4475","TLS","Timor-Leste","2017",95
+"4476","TLS","Timor-Leste","2016",86
+"4477","TLS","Timor-Leste","2015",79
+"4478","TLS","Timor-Leste","2014",79
+"4479","TLS","Timor-Leste","2013",86
+"4480","TLS","Timor-Leste","2012",86
+"4481","TLS","Timor-Leste","2011",79
+"4482","TLS","Timor-Leste","2010",79
+"4483","TLS","Timor-Leste","2009",74
+"4484","TLS","Timor-Leste","2008",85
+"4485","TLS","Timor-Leste","2007",74
+"4486","TLS","Timor-Leste","2006",74
+"4487","TLS","Timor-Leste","2005",70
+"4488","TLS","Timor-Leste","2004",72
+"4489","TLS","Timor-Leste","2003",72
+"4490","TLS","Timor-Leste","2002",75
+"4491","TLS","Timor-Leste","2001",NA
+"4492","TLS","Timor-Leste","2000",NA
+"4493","TLS","Timor-Leste","1999",NA
+"4494","TLS","Timor-Leste","1998",NA
+"4495","TLS","Timor-Leste","1997",NA
+"4496","TLS","Timor-Leste","1996",NA
+"4497","TLS","Timor-Leste","1995",NA
+"4498","TLS","Timor-Leste","1994",NA
+"4499","TLS","Timor-Leste","1993",NA
+"4500","TLS","Timor-Leste","1992",NA
+"4501","TGO","Togo","2021",98
+"4502","TGO","Togo","2020",96
+"4503","TGO","Togo","2019",98
+"4504","TGO","Togo","2018",97
+"4505","TGO","Togo","2017",89
+"4506","TGO","Togo","2016",93
+"4507","TGO","Togo","2015",93
+"4508","TGO","Togo","2014",82
+"4509","TGO","Togo","2013",97
+"4510","TGO","Togo","2012",97
+"4511","TGO","Togo","2011",97
+"4512","TGO","Togo","2010",97
+"4513","TGO","Togo","2009",91
+"4514","TGO","Togo","2008",92
+"4515","TGO","Togo","2007",91
+"4516","TGO","Togo","2006",96
+"4517","TGO","Togo","2005",96
+"4518","TGO","Togo","2004",91
+"4519","TGO","Togo","2003",79
+"4520","TGO","Togo","2002",81
+"4521","TGO","Togo","2001",83
+"4522","TGO","Togo","2000",84
+"4523","TGO","Togo","1999",81
+"4524","TGO","Togo","1998",70
+"4525","TGO","Togo","1997",76
+"4526","TGO","Togo","1996",79
+"4527","TGO","Togo","1995",83
+"4528","TGO","Togo","1994",86
+"4529","TGO","Togo","1993",89
+"4530","TGO","Togo","1992",92
+"4531","TON","Tonga","2021",99
+"4532","TON","Tonga","2020",99
+"4533","TON","Tonga","2019",99
+"4534","TON","Tonga","2018",99
+"4535","TON","Tonga","2017",99
+"4536","TON","Tonga","2016",91
+"4537","TON","Tonga","2015",91
+"4538","TON","Tonga","2014",99
+"4539","TON","Tonga","2013",99
+"4540","TON","Tonga","2012",95
+"4541","TON","Tonga","2011",99
+"4542","TON","Tonga","2010",99
+"4543","TON","Tonga","2009",99
+"4544","TON","Tonga","2008",99
+"4545","TON","Tonga","2007",99
+"4546","TON","Tonga","2006",99
+"4547","TON","Tonga","2005",99
+"4548","TON","Tonga","2004",99
+"4549","TON","Tonga","2003",99
+"4550","TON","Tonga","2002",95
+"4551","TON","Tonga","2001",91
+"4552","TON","Tonga","2000",99
+"4553","TON","Tonga","1999",99
+"4554","TON","Tonga","1998",99
+"4555","TON","Tonga","1997",99
+"4556","TON","Tonga","1996",99
+"4557","TON","Tonga","1995",99
+"4558","TON","Tonga","1994",99
+"4559","TON","Tonga","1993",97
+"4560","TON","Tonga","1992",96
+"4561","TUN","Tunisia","2021",85
+"4562","TUN","Tunisia","2020",92
+"4563","TUN","Tunisia","2019",91
+"4564","TUN","Tunisia","2018",92
+"4565","TUN","Tunisia","2017",91
+"4566","TUN","Tunisia","2016",95
+"4567","TUN","Tunisia","2015",97
+"4568","TUN","Tunisia","2014",95
+"4569","TUN","Tunisia","2013",97
+"4570","TUN","Tunisia","2012",99
+"4571","TUN","Tunisia","2011",98
+"4572","TUN","Tunisia","2010",98
+"4573","TUN","Tunisia","2009",98
+"4574","TUN","Tunisia","2008",99
+"4575","TUN","Tunisia","2007",99
+"4576","TUN","Tunisia","2006",99
+"4577","TUN","Tunisia","2005",98
+"4578","TUN","Tunisia","2004",97
+"4579","TUN","Tunisia","2003",93
+"4580","TUN","Tunisia","2002",91
+"4581","TUN","Tunisia","2001",91
+"4582","TUN","Tunisia","2000",95
+"4583","TUN","Tunisia","1999",94
+"4584","TUN","Tunisia","1998",93
+"4585","TUN","Tunisia","1997",97
+"4586","TUN","Tunisia","1996",97
+"4587","TUN","Tunisia","1995",97
+"4588","TUN","Tunisia","1994",97
+"4589","TUN","Tunisia","1993",97
+"4590","TUN","Tunisia","1992",97
+"4591","TUR","Türkiye","2021",95
+"4592","TUR","Türkiye","2020",96
+"4593","TUR","Türkiye","2019",96
+"4594","TUR","Türkiye","2018",96
+"4595","TUR","Türkiye","2017",93
+"4596","TUR","Türkiye","2016",96
+"4597","TUR","Türkiye","2015",96
+"4598","TUR","Türkiye","2014",95
+"4599","TUR","Türkiye","2013",96
+"4600","TUR","Türkiye","2012",96
+"4601","TUR","Türkiye","2011",96
+"4602","TUR","Türkiye","2010",97
+"4603","TUR","Türkiye","2009",96
+"4604","TUR","Türkiye","2008",96
+"4605","TUR","Türkiye","2007",94
+"4606","TUR","Türkiye","2006",88
+"4607","TUR","Türkiye","2005",88
+"4608","TUR","Türkiye","2004",85
+"4609","TUR","Türkiye","2003",88
+"4610","TUR","Türkiye","2002",89
+"4611","TUR","Türkiye","2001",95
+"4612","TUR","Türkiye","2000",96
+"4613","TUR","Türkiye","1999",93
+"4614","TUR","Türkiye","1998",91
+"4615","TUR","Türkiye","1997",89
+"4616","TUR","Türkiye","1996",89
+"4617","TUR","Türkiye","1995",90
+"4618","TUR","Türkiye","1994",91
+"4619","TUR","Türkiye","1993",90
+"4620","TUR","Türkiye","1992",89
+"4621","TKM","Turkmenistan","2021",98
+"4622","TKM","Turkmenistan","2020",98
+"4623","TKM","Turkmenistan","2019",98
+"4624","TKM","Turkmenistan","2018",98
+"4625","TKM","Turkmenistan","2017",98
+"4626","TKM","Turkmenistan","2016",98
+"4627","TKM","Turkmenistan","2015",99
+"4628","TKM","Turkmenistan","2014",99
+"4629","TKM","Turkmenistan","2013",98
+"4630","TKM","Turkmenistan","2012",99
+"4631","TKM","Turkmenistan","2011",98
+"4632","TKM","Turkmenistan","2010",99
+"4633","TKM","Turkmenistan","2009",99
+"4634","TKM","Turkmenistan","2008",99
+"4635","TKM","Turkmenistan","2007",99
+"4636","TKM","Turkmenistan","2006",99
+"4637","TKM","Turkmenistan","2005",99
+"4638","TKM","Turkmenistan","2004",99
+"4639","TKM","Turkmenistan","2003",99
+"4640","TKM","Turkmenistan","2002",99
+"4641","TKM","Turkmenistan","2001",99
+"4642","TKM","Turkmenistan","2000",99
+"4643","TKM","Turkmenistan","1999",99
+"4644","TKM","Turkmenistan","1998",98
+"4645","TKM","Turkmenistan","1997",97
+"4646","TKM","Turkmenistan","1996",93
+"4647","TKM","Turkmenistan","1995",93
+"4648","TKM","Turkmenistan","1994",97
+"4649","TKM","Turkmenistan","1993",94
+"4650","TKM","Turkmenistan","1992",97
+"4651","TUV","Tuvalu","2021",99
+"4652","TUV","Tuvalu","2020",99
+"4653","TUV","Tuvalu","2019",99
+"4654","TUV","Tuvalu","2018",99
+"4655","TUV","Tuvalu","2017",99
+"4656","TUV","Tuvalu","2016",99
+"4657","TUV","Tuvalu","2015",99
+"4658","TUV","Tuvalu","2014",99
+"4659","TUV","Tuvalu","2013",99
+"4660","TUV","Tuvalu","2012",99
+"4661","TUV","Tuvalu","2011",99
+"4662","TUV","Tuvalu","2010",99
+"4663","TUV","Tuvalu","2009",99
+"4664","TUV","Tuvalu","2008",99
+"4665","TUV","Tuvalu","2007",99
+"4666","TUV","Tuvalu","2006",99
+"4667","TUV","Tuvalu","2005",99
+"4668","TUV","Tuvalu","2004",99
+"4669","TUV","Tuvalu","2003",99
+"4670","TUV","Tuvalu","2002",99
+"4671","TUV","Tuvalu","2001",99
+"4672","TUV","Tuvalu","2000",99
+"4673","TUV","Tuvalu","1999",99
+"4674","TUV","Tuvalu","1998",99
+"4675","TUV","Tuvalu","1997",99
+"4676","TUV","Tuvalu","1996",99
+"4677","TUV","Tuvalu","1995",88
+"4678","TUV","Tuvalu","1994",90
+"4679","TUV","Tuvalu","1993",87
+"4680","TUV","Tuvalu","1992",97
+"4681","UGA","Uganda","2021",83
+"4682","UGA","Uganda","2020",91
+"4683","UGA","Uganda","2019",88
+"4684","UGA","Uganda","2018",88
+"4685","UGA","Uganda","2017",89
+"4686","UGA","Uganda","2016",94
+"4687","UGA","Uganda","2015",95
+"4688","UGA","Uganda","2014",91
+"4689","UGA","Uganda","2013",93
+"4690","UGA","Uganda","2012",95
+"4691","UGA","Uganda","2011",97
+"4692","UGA","Uganda","2010",86
+"4693","UGA","Uganda","2009",90
+"4694","UGA","Uganda","2008",86
+"4695","UGA","Uganda","2007",87
+"4696","UGA","Uganda","2006",83
+"4697","UGA","Uganda","2005",90
+"4698","UGA","Uganda","2004",88
+"4699","UGA","Uganda","2003",87
+"4700","UGA","Uganda","2002",85
+"4701","UGA","Uganda","2001",83
+"4702","UGA","Uganda","2000",82
+"4703","UGA","Uganda","1999",80
+"4704","UGA","Uganda","1998",75
+"4705","UGA","Uganda","1997",82
+"4706","UGA","Uganda","1996",82
+"4707","UGA","Uganda","1995",83
+"4708","UGA","Uganda","1994",84
+"4709","UGA","Uganda","1993",82
+"4710","UGA","Uganda","1992",79
+"4711","UKR","Ukraine","2021",86
+"4712","UKR","Ukraine","2020",93
+"4713","UKR","Ukraine","2019",84
+"4714","UKR","Ukraine","2018",90
+"4715","UKR","Ukraine","2017",84
+"4716","UKR","Ukraine","2016",75
+"4717","UKR","Ukraine","2015",39
+"4718","UKR","Ukraine","2014",39
+"4719","UKR","Ukraine","2013",95
+"4720","UKR","Ukraine","2012",95
+"4721","UKR","Ukraine","2011",90
+"4722","UKR","Ukraine","2010",92
+"4723","UKR","Ukraine","2009",94
+"4724","UKR","Ukraine","2008",95
+"4725","UKR","Ukraine","2007",98
+"4726","UKR","Ukraine","2006",97
+"4727","UKR","Ukraine","2005",96
+"4728","UKR","Ukraine","2004",98
+"4729","UKR","Ukraine","2003",98
+"4730","UKR","Ukraine","2002",98
+"4731","UKR","Ukraine","2001",98
+"4732","UKR","Ukraine","2000",98
+"4733","UKR","Ukraine","1999",99
+"4734","UKR","Ukraine","1998",97
+"4735","UKR","Ukraine","1997",97
+"4736","UKR","Ukraine","1996",97
+"4737","UKR","Ukraine","1995",95
+"4738","UKR","Ukraine","1994",92
+"4739","UKR","Ukraine","1993",89
+"4740","UKR","Ukraine","1992",93
+"4741","ARE","United Arab Emirates","2021",99
+"4742","ARE","United Arab Emirates","2020",86
+"4743","ARE","United Arab Emirates","2019",94
+"4744","ARE","United Arab Emirates","2018",95
+"4745","ARE","United Arab Emirates","2017",95
+"4746","ARE","United Arab Emirates","2016",99
+"4747","ARE","United Arab Emirates","2015",96
+"4748","ARE","United Arab Emirates","2014",90
+"4749","ARE","United Arab Emirates","2013",94
+"4750","ARE","United Arab Emirates","2012",94
+"4751","ARE","United Arab Emirates","2011",96
+"4752","ARE","United Arab Emirates","2010",98
+"4753","ARE","United Arab Emirates","2009",98
+"4754","ARE","United Arab Emirates","2008",98
+"4755","ARE","United Arab Emirates","2007",98
+"4756","ARE","United Arab Emirates","2006",98
+"4757","ARE","United Arab Emirates","2005",98
+"4758","ARE","United Arab Emirates","2004",98
+"4759","ARE","United Arab Emirates","2003",98
+"4760","ARE","United Arab Emirates","2002",98
+"4761","ARE","United Arab Emirates","2001",98
+"4762","ARE","United Arab Emirates","2000",98
+"4763","ARE","United Arab Emirates","1999",98
+"4764","ARE","United Arab Emirates","1998",98
+"4765","ARE","United Arab Emirates","1997",98
+"4766","ARE","United Arab Emirates","1996",98
+"4767","ARE","United Arab Emirates","1995",98
+"4768","ARE","United Arab Emirates","1994",98
+"4769","ARE","United Arab Emirates","1993",98
+"4770","ARE","United Arab Emirates","1992",98
+"4771","TZA","United Republic of Tanzania","2021",75
+"4772","TZA","United Republic of Tanzania","2020",87
+"4773","TZA","United Republic of Tanzania","2019",91
+"4774","TZA","United Republic of Tanzania","2018",91
+"4775","TZA","United Republic of Tanzania","2017",93
+"4776","TZA","United Republic of Tanzania","2016",95
+"4777","TZA","United Republic of Tanzania","2015",97
+"4778","TZA","United Republic of Tanzania","2014",99
+"4779","TZA","United Republic of Tanzania","2013",99
+"4780","TZA","United Republic of Tanzania","2012",99
+"4781","TZA","United Republic of Tanzania","2011",99
+"4782","TZA","United Republic of Tanzania","2010",99
+"4783","TZA","United Republic of Tanzania","2009",93
+"4784","TZA","United Republic of Tanzania","2008",89
+"4785","TZA","United Republic of Tanzania","2007",89
+"4786","TZA","United Republic of Tanzania","2006",90
+"4787","TZA","United Republic of Tanzania","2005",91
+"4788","TZA","United Republic of Tanzania","2004",91
+"4789","TZA","United Republic of Tanzania","2003",91
+"4790","TZA","United Republic of Tanzania","2002",88
+"4791","TZA","United Republic of Tanzania","2001",91
+"4792","TZA","United Republic of Tanzania","2000",86
+"4793","TZA","United Republic of Tanzania","1999",87
+"4794","TZA","United Republic of Tanzania","1998",83
+"4795","TZA","United Republic of Tanzania","1997",85
+"4796","TZA","United Republic of Tanzania","1996",80
+"4797","TZA","United Republic of Tanzania","1995",96
+"4798","TZA","United Republic of Tanzania","1994",92
+"4799","TZA","United Republic of Tanzania","1993",94
+"4800","TZA","United Republic of Tanzania","1992",99
+"4801","URY","Uruguay","2021",99
+"4802","URY","Uruguay","2020",99
+"4803","URY","Uruguay","2019",99
+"4804","URY","Uruguay","2018",98
+"4805","URY","Uruguay","2017",98
+"4806","URY","Uruguay","2016",98
+"4807","URY","Uruguay","2015",98
+"4808","URY","Uruguay","2014",99
+"4809","URY","Uruguay","2013",98
+"4810","URY","Uruguay","2012",99
+"4811","URY","Uruguay","2011",99
+"4812","URY","Uruguay","2010",99
+"4813","URY","Uruguay","2009",99
+"4814","URY","Uruguay","2008",99
+"4815","URY","Uruguay","2007",99
+"4816","URY","Uruguay","2006",99
+"4817","URY","Uruguay","2005",99
+"4818","URY","Uruguay","2004",99
+"4819","URY","Uruguay","2003",99
+"4820","URY","Uruguay","2002",99
+"4821","URY","Uruguay","2001",99
+"4822","URY","Uruguay","2000",99
+"4823","URY","Uruguay","1999",99
+"4824","URY","Uruguay","1998",99
+"4825","URY","Uruguay","1997",99
+"4826","URY","Uruguay","1996",99
+"4827","URY","Uruguay","1995",99
+"4828","URY","Uruguay","1994",99
+"4829","URY","Uruguay","1993",98
+"4830","URY","Uruguay","1992",99
+"4831","UZB","Uzbekistan","2021",99
+"4832","UZB","Uzbekistan","2020",99
+"4833","UZB","Uzbekistan","2019",99
+"4834","UZB","Uzbekistan","2018",96
+"4835","UZB","Uzbekistan","2017",99
+"4836","UZB","Uzbekistan","2016",99
+"4837","UZB","Uzbekistan","2015",99
+"4838","UZB","Uzbekistan","2014",99
+"4839","UZB","Uzbekistan","2013",99
+"4840","UZB","Uzbekistan","2012",99
+"4841","UZB","Uzbekistan","2011",99
+"4842","UZB","Uzbekistan","2010",99
+"4843","UZB","Uzbekistan","2009",99
+"4844","UZB","Uzbekistan","2008",96
+"4845","UZB","Uzbekistan","2007",99
+"4846","UZB","Uzbekistan","2006",99
+"4847","UZB","Uzbekistan","2005",93
+"4848","UZB","Uzbekistan","2004",99
+"4849","UZB","Uzbekistan","2003",99
+"4850","UZB","Uzbekistan","2002",99
+"4851","UZB","Uzbekistan","2001",98
+"4852","UZB","Uzbekistan","2000",98
+"4853","UZB","Uzbekistan","1999",98
+"4854","UZB","Uzbekistan","1998",97
+"4855","UZB","Uzbekistan","1997",97
+"4856","UZB","Uzbekistan","1996",96
+"4857","UZB","Uzbekistan","1995",99
+"4858","UZB","Uzbekistan","1994",93
+"4859","UZB","Uzbekistan","1993",98
+"4860","UZB","Uzbekistan","1992",98
+"4861","VUT","Vanuatu","2021",76
+"4862","VUT","Vanuatu","2020",77
+"4863","VUT","Vanuatu","2019",97
+"4864","VUT","Vanuatu","2018",94
+"4865","VUT","Vanuatu","2017",95
+"4866","VUT","Vanuatu","2016",94
+"4867","VUT","Vanuatu","2015",95
+"4868","VUT","Vanuatu","2014",95
+"4869","VUT","Vanuatu","2013",93
+"4870","VUT","Vanuatu","2012",92
+"4871","VUT","Vanuatu","2011",90
+"4872","VUT","Vanuatu","2010",88
+"4873","VUT","Vanuatu","2009",86
+"4874","VUT","Vanuatu","2008",85
+"4875","VUT","Vanuatu","2007",83
+"4876","VUT","Vanuatu","2006",81
+"4877","VUT","Vanuatu","2005",81
+"4878","VUT","Vanuatu","2004",80
+"4879","VUT","Vanuatu","2003",80
+"4880","VUT","Vanuatu","2002",80
+"4881","VUT","Vanuatu","2001",79
+"4882","VUT","Vanuatu","2000",79
+"4883","VUT","Vanuatu","1999",79
+"4884","VUT","Vanuatu","1998",78
+"4885","VUT","Vanuatu","1997",78
+"4886","VUT","Vanuatu","1996",72
+"4887","VUT","Vanuatu","1995",67
+"4888","VUT","Vanuatu","1994",82
+"4889","VUT","Vanuatu","1993",96
+"4890","VUT","Vanuatu","1992",84
+"4891","VEN","Venezuela (Bolivarian Republic of)","2021",68
+"4892","VEN","Venezuela (Bolivarian Republic of)","2020",82
+"4893","VEN","Venezuela (Bolivarian Republic of)","2019",91
+"4894","VEN","Venezuela (Bolivarian Republic of)","2018",92
+"4895","VEN","Venezuela (Bolivarian Republic of)","2017",94
+"4896","VEN","Venezuela (Bolivarian Republic of)","2016",97
+"4897","VEN","Venezuela (Bolivarian Republic of)","2015",99
+"4898","VEN","Venezuela (Bolivarian Republic of)","2014",97
+"4899","VEN","Venezuela (Bolivarian Republic of)","2013",95
+"4900","VEN","Venezuela (Bolivarian Republic of)","2012",96
+"4901","VEN","Venezuela (Bolivarian Republic of)","2011",95
+"4902","VEN","Venezuela (Bolivarian Republic of)","2010",92
+"4903","VEN","Venezuela (Bolivarian Republic of)","2009",91
+"4904","VEN","Venezuela (Bolivarian Republic of)","2008",90
+"4905","VEN","Venezuela (Bolivarian Republic of)","2007",82
+"4906","VEN","Venezuela (Bolivarian Republic of)","2006",83
+"4907","VEN","Venezuela (Bolivarian Republic of)","2005",95
+"4908","VEN","Venezuela (Bolivarian Republic of)","2004",96
+"4909","VEN","Venezuela (Bolivarian Republic of)","2003",91
+"4910","VEN","Venezuela (Bolivarian Republic of)","2002",90
+"4911","VEN","Venezuela (Bolivarian Republic of)","2001",93
+"4912","VEN","Venezuela (Bolivarian Republic of)","2000",99
+"4913","VEN","Venezuela (Bolivarian Republic of)","1999",98
+"4914","VEN","Venezuela (Bolivarian Republic of)","1998",82
+"4915","VEN","Venezuela (Bolivarian Republic of)","1997",89
+"4916","VEN","Venezuela (Bolivarian Republic of)","1996",90
+"4917","VEN","Venezuela (Bolivarian Republic of)","1995",91
+"4918","VEN","Venezuela (Bolivarian Republic of)","1994",95
+"4919","VEN","Venezuela (Bolivarian Republic of)","1993",81
+"4920","VEN","Venezuela (Bolivarian Republic of)","1992",85
+"4921","VNM","Viet Nam","2021",88
+"4922","VNM","Viet Nam","2020",95
+"4923","VNM","Viet Nam","2019",96
+"4924","VNM","Viet Nam","2018",95
+"4925","VNM","Viet Nam","2017",97
+"4926","VNM","Viet Nam","2016",95
+"4927","VNM","Viet Nam","2015",97
+"4928","VNM","Viet Nam","2014",96
+"4929","VNM","Viet Nam","2013",95
+"4930","VNM","Viet Nam","2012",98
+"4931","VNM","Viet Nam","2011",98
+"4932","VNM","Viet Nam","2010",94
+"4933","VNM","Viet Nam","2009",97
+"4934","VNM","Viet Nam","2008",92
+"4935","VNM","Viet Nam","2007",94
+"4936","VNM","Viet Nam","2006",95
+"4937","VNM","Viet Nam","2005",95
+"4938","VNM","Viet Nam","2004",96
+"4939","VNM","Viet Nam","2003",97
+"4940","VNM","Viet Nam","2002",97
+"4941","VNM","Viet Nam","2001",97
+"4942","VNM","Viet Nam","2000",98
+"4943","VNM","Viet Nam","1999",95
+"4944","VNM","Viet Nam","1998",93
+"4945","VNM","Viet Nam","1997",96
+"4946","VNM","Viet Nam","1996",95
+"4947","VNM","Viet Nam","1995",96
+"4948","VNM","Viet Nam","1994",96
+"4949","VNM","Viet Nam","1993",94
+"4950","VNM","Viet Nam","1992",91
+"4951","YEM","Yemen","2021",70
+"4952","YEM","Yemen","2020",71
+"4953","YEM","Yemen","2019",69
+"4954","YEM","Yemen","2018",64
+"4955","YEM","Yemen","2017",66
+"4956","YEM","Yemen","2016",73
+"4957","YEM","Yemen","2015",47
+"4958","YEM","Yemen","2014",73
+"4959","YEM","Yemen","2013",71
+"4960","YEM","Yemen","2012",64
+"4961","YEM","Yemen","2011",59
+"4962","YEM","Yemen","2010",65
+"4963","YEM","Yemen","2009",58
+"4964","YEM","Yemen","2008",60
+"4965","YEM","Yemen","2007",64
+"4966","YEM","Yemen","2006",67
+"4967","YEM","Yemen","2005",66
+"4968","YEM","Yemen","2004",64
+"4969","YEM","Yemen","2003",66
+"4970","YEM","Yemen","2002",73
+"4971","YEM","Yemen","2001",78
+"4972","YEM","Yemen","2000",82
+"4973","YEM","Yemen","1999",79
+"4974","YEM","Yemen","1998",66
+"4975","YEM","Yemen","1997",54
+"4976","YEM","Yemen","1996",58
+"4977","YEM","Yemen","1995",60
+"4978","YEM","Yemen","1994",41
+"4979","YEM","Yemen","1993",57
+"4980","YEM","Yemen","1992",54
+"4981","ZMB","Zambia","2021",92
+"4982","ZMB","Zambia","2020",85
+"4983","ZMB","Zambia","2019",95
+"4984","ZMB","Zambia","2018",91
+"4985","ZMB","Zambia","2017",99
+"4986","ZMB","Zambia","2016",99
+"4987","ZMB","Zambia","2015",97
+"4988","ZMB","Zambia","2014",99
+"4989","ZMB","Zambia","2013",95
+"4990","ZMB","Zambia","2012",92
+"4991","ZMB","Zambia","2011",92
+"4992","ZMB","Zambia","2010",92
+"4993","ZMB","Zambia","2009",92
+"4994","ZMB","Zambia","2008",91
+"4995","ZMB","Zambia","2007",91
+"4996","ZMB","Zambia","2006",92
+"4997","ZMB","Zambia","2005",92
+"4998","ZMB","Zambia","2004",93
+"4999","ZMB","Zambia","2003",93
+"5000","ZMB","Zambia","2002",94
+"5001","ZMB","Zambia","2001",94
+"5002","ZMB","Zambia","2000",94
+"5003","ZMB","Zambia","1999",95
+"5004","ZMB","Zambia","1998",95
+"5005","ZMB","Zambia","1997",95
+"5006","ZMB","Zambia","1996",96
+"5007","ZMB","Zambia","1995",97
+"5008","ZMB","Zambia","1994",98
+"5009","ZMB","Zambia","1993",92
+"5010","ZMB","Zambia","1992",94
+"5011","ZWE","Zimbabwe","2021",88
+"5012","ZWE","Zimbabwe","2020",88
+"5013","ZWE","Zimbabwe","2019",95
+"5014","ZWE","Zimbabwe","2018",95
+"5015","ZWE","Zimbabwe","2017",95
+"5016","ZWE","Zimbabwe","2016",95
+"5017","ZWE","Zimbabwe","2015",90
+"5018","ZWE","Zimbabwe","2014",99
+"5019","ZWE","Zimbabwe","2013",95
+"5020","ZWE","Zimbabwe","2012",98
+"5021","ZWE","Zimbabwe","2011",98
+"5022","ZWE","Zimbabwe","2010",99
+"5023","ZWE","Zimbabwe","2009",90
+"5024","ZWE","Zimbabwe","2008",91
+"5025","ZWE","Zimbabwe","2007",87
+"5026","ZWE","Zimbabwe","2006",84
+"5027","ZWE","Zimbabwe","2005",80
+"5028","ZWE","Zimbabwe","2004",76
+"5029","ZWE","Zimbabwe","2003",78
+"5030","ZWE","Zimbabwe","2002",80
+"5031","ZWE","Zimbabwe","2001",82
+"5032","ZWE","Zimbabwe","2000",84
+"5033","ZWE","Zimbabwe","1999",86
+"5034","ZWE","Zimbabwe","1998",88
+"5035","ZWE","Zimbabwe","1997",92
+"5036","ZWE","Zimbabwe","1996",96
+"5037","ZWE","Zimbabwe","1995",96
+"5038","ZWE","Zimbabwe","1994",95
+"5039","ZWE","Zimbabwe","1993",95
+"5040","ZWE","Zimbabwe","1992",91
